@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,width=device-width">
+<!--    <link rel="icon" type="image/png" href="static/img/fav.png">-->
+    <title>PyWebIO - Dashboard</title>
+    <meta name="keywords" content="PyWebIO, Dashboard"/>
+    <meta name="description" content="PyWebIO"/>
+    <link href="static/css/style-1575131e5b.css" rel="stylesheet">
+    <link href="static/css/dashboard-1586699b99.css" rel="stylesheet">
+</head>
+<body>
+<div class="header"><a class="wx-box" href="https://github.com/wang0618/PyWebIO" style="color: white;text-decoration: none; font-size: 20px">PyWebIO</a>
+
+</div>
+<div class="panel-box" style="margin-top: 100px;">
+    <div class="panel"><span class="panel-title">Github Stars</span> <span class="panel-value" id="GithubStars">-</span></div>
+    <div class="panel"><span class="panel-title">Github Used</span> <span class="panel-value" id="GithubUsed">-</span></div>
+    <div class="panel"><span class="panel-title">Day New Stars</span> <span class="panel-value" id="DayNewStars">-</span></div>
+    <div class="panel"><span class="panel-title">Week CDN Hits</span> <span class="panel-value" id="WeekCDNHits">-</span></div>
+    <div class="panel"><span class="panel-title">Week New Used</span> <span class="panel-value" id="WeekNewUsed">-</span></div>
+</div>
+<div class="echarts-box">
+    <div class="echarts" id="star-chart"></div>
+    <div class="echarts" id="used-chart"></div>
+    <div class="echarts" id="cdn-chart"></div>
+</div>
+<script src="data/data.js"></script>
+<script src="static/js/echarts-e2f35bcb11.diy.js"></script>
+<script>(function () {
+    document.getElementById('GithubStars').innerHTML = data.GithubStars;
+    document.getElementById('GithubUsed').innerHTML = data.GithubUsed;
+    document.getElementById('DayNewStars').innerHTML = data.DayNewStars;
+    document.getElementById('WeekCDNHits').innerHTML = data.WeekCDNHits;
+    document.getElementById('WeekNewUsed').innerHTML = data.WeekNewUsed;
+
+    //折线图
+    var star_chart = echarts.init(document.getElementById('star-chart'));
+    var star_chart_lineOption = {
+        legend: {
+            itemWidth: 12,
+            itemHeight: 12,
+            data: [{name: 'Number of total stars', icon: 'circle'}, {name: 'Number of daily stars', icon: 'roundRect'}],
+            textStyle: {color: "#ffffff"},
+            selectedMode: 'single',
+            inactiveColor: "rgba(234,234,234,0.75)"
+        },
+        color: ["rgba(255,255,255,0.85)"],
+        tooltip: {
+            trigger: 'axis',
+            padding: [5, 10],
+            axisPointer: {lineStyle: {color: "rgba(255,255,255,0.75)", type: 'dashed'}}
+        },
+        grid: {show: false, left: '5%', right: '5%', bottom: '5%'},
+        xAxis: [{
+            type: 'category',
+            axisLine: {show: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false},
+            boundaryGap: false,
+            data: data['star-dates']
+        }],
+        yAxis: [{
+            scale: true,
+            type: 'value',
+            axisLine: {show: false, onZero: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false}
+        }],
+        series: [{
+            name: 'Number of total stars',
+            type: 'line',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'circle',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['star-total']
+        }, {
+            name: 'Number of daily stars',
+            type: 'bar',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'roundRect',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['star-daily']
+        }]
+    };
+    star_chart.setOption(star_chart_lineOption);
+
+    var used_chart = echarts.init(document.getElementById('used-chart'));
+    var used_chart_lineOption = {
+        legend: {
+            itemWidth: 12,
+            itemHeight: 12,
+            data: [{name: 'Number of total used', icon: 'circle'}, {name: 'Number of daily used', icon: 'roundRect'}],
+            textStyle: {color: "#ffffff"},
+            selectedMode: 'single',
+            inactiveColor: "rgba(234,234,234,0.75)"
+        },
+        color: ["rgba(255,255,255,0.85)"],
+        tooltip: {
+            trigger: 'axis',
+            padding: [5, 10],
+            axisPointer: {lineStyle: {color: "rgba(255,255,255,0.75)", type: 'dashed'}}
+        },
+        grid: {show: false, left: '5%', right: '5%', bottom: '5%'},
+        xAxis: [{
+            type: 'category',
+            axisLine: {show: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false},
+            boundaryGap: false,
+            data: data['used-dates']
+        }],
+        yAxis: [{
+            scale: true,
+            type: 'value',
+            axisLine: {show: false, onZero: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false}
+        }],
+        series: [{
+            name: 'Number of total used',
+            type: 'line',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'circle',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['used-total']
+        }, {
+            name: 'Number of daily used',
+            type: 'bar',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'roundRect',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['used-daily']
+        }]
+    };
+    used_chart.setOption(used_chart_lineOption);
+
+    //条形图
+    var cdn_chart = echarts.init(document.getElementById('cdn-chart'));
+    var cdn_chart_barOption = {
+        legend: {
+            itemWidth: 12,
+            itemHeight: 12,
+            data: [{name: 'CDN daily hits', icon: 'circle'} ],
+            textStyle: {color: "#ffffff"},
+            selectedMode: 'single',
+            inactiveColor: "rgba(234,234,234,0.75)"
+        },
+        color: ["rgba(255,255,255,0.85)"],
+        tooltip: {
+            trigger: 'axis',
+            padding: [5, 10],
+            axisPointer: {lineStyle: {color: "rgba(255,255,255,0.75)", type: 'dashed'}}
+        },
+        grid: {show: false, left: '5%', right: '5%', bottom: '5%'},
+        xAxis: [{
+            type: 'category',
+            axisLine: {show: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false},
+            boundaryGap: false,
+            data: data['cdn-dates']
+        }],
+        yAxis: [{
+            scale: true,
+            type: 'value',
+            axisLine: {show: false, onZero: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false}
+        }],
+        series: [{
+            name: 'CDN daily hits',
+            type: 'line',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'circle',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['cdn-daily']
+        }]
+    };
+    cdn_chart.setOption(cdn_chart_barOption);
+})();
+
+</script>
+</body>
+</html>
