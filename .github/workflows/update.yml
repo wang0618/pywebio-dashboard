@@ -1,0 +1,42 @@
+name: Update data
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron:  '0 1,17 * * *'
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          ref: web
+      - name: Set up Python 3.7
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.7
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Update data
+        run: python3 update.py
+        env:
+          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+          GH_USER: ${{ github.actor }}
+      - name: Push
+        run: |
+          git fetch --unshallow origin
+          git config --global user.email "wang0.618@qq.com"
+          git config --global user.name "${{ github.actor }}"
+          git config --global credential.helper '!f() { sleep 1; echo "username=${{ github.actor }}"; echo "password=${GH_TOKEN}"; }; f'
+
+          git checkout web
+          git add .
+          git commit -m "Data update at `date`" || exit 0
+
+          git push -u origin || exit 0
+        env:
+          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
