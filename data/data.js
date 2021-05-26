@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1478,
+    "GithubStars": 1486,
     "GithubUsed": 172,
-    "DayNewStars": 3,
+    "DayNewStars": 11,
     "WeekCDNHits": 12371,
     "WeekNewUsed": 9,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1469,
         1472,
         1475,
-        1478
+        1486
     ],
     "star-daily": [
         6,
@@ -155,7 +155,7 @@ var data = {
         2,
         3,
         3,
-        3
+        11
     ],
     "used-dates": [
         "2021-04-08",
@@ -400,8 +400,8 @@ var data = {
         2034,
         2970,
         1362,
-        1973,
-        3472,
+        2569,
+        4211,
         2609,
         1232,
         1065,
