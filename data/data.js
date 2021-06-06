@@ -2,7 +2,7 @@ var data = {
     "GithubStars": 1507,
     "GithubUsed": 190,
     "DayNewStars": 1,
-    "WeekCDNHits": 11641,
+    "WeekCDNHits": 11988,
     "WeekNewUsed": 3,
     "star-dates": [
         "2021-04-19",
@@ -412,6 +412,6 @@ var data = {
         1312,
         2100,
         1712,
-        2349
+        2696
     ]
 };
