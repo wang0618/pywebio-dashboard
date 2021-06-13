@@ -1,9 +1,9 @@
 {
-    "GithubStars": 1527,
-    "GithubUsed": 201,
-    "DayNewStars": 0,
+    "GithubStars": 1528,
+    "GithubUsed": 202,
+    "DayNewStars": 1,
     "WeekCDNHits": 20299,
-    "WeekNewUsed": 6,
+    "WeekNewUsed": 7,
     "star-dates": [
         "2021-04-26",
         "2021-04-27",
@@ -104,7 +104,7 @@
         1521,
         1523,
         1527,
-        1527
+        1528
     ],
     "star-daily": [
         7,
@@ -155,7 +155,7 @@
         4,
         2,
         4,
-        0
+        1
     ],
     "used-dates": [
         "2021-04-26",
@@ -257,7 +257,7 @@
         198,
         199,
         201,
-        201
+        202
     ],
     "used-daily": [
         3,
@@ -308,7 +308,7 @@
         1,
         1,
         2,
-        0
+        1
     ],
     "cdn-dates": [
         "2021-04-23",
