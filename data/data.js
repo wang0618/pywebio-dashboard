@@ -432,7 +432,7 @@ var data = {
         "2021-06-19"
     ],
     "views-count": [
-        52,
+        47,
         152,
         130,
         179,
@@ -446,10 +446,10 @@ var data = {
         150,
         268,
         150,
-        40
+        93
     ],
     "views-uniques": [
-        16,
+        13,
         43,
         39,
         84,
@@ -463,7 +463,7 @@ var data = {
         49,
         42,
         47,
-        13
+        17
     ],
     "clones-dates": [
         "2021-06-06",
@@ -489,7 +489,7 @@ var data = {
         39,
         2,
         2,
-        1
+        22
     ],
     "clones-uniques": [
         2,
@@ -502,7 +502,7 @@ var data = {
         15,
         2,
         2,
-        1
+        11
     ],
     "referrers": [
         {
@@ -551,7 +551,7 @@ var data = {
             "uniques": 5
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "reddit.com",
             "count": 4,
             "uniques": 3
         }
@@ -594,7 +594,7 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 4
         }
     ],
@@ -636,7 +636,7 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 3
         }
     ]
