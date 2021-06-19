@@ -173,48 +173,49 @@ def total2daily(data):
     return res
 
 
-"""
-Github Stars
-Github Used
-Day New Stars
-Week CDN Hits (Until xxx)
-Week New Used
+if __name__ == '__main__':
+    """
+    Github Stars
+    Github Used
+    Week New Stars
+    Week CDN Hits (Until xxx)
+    Week New Used
+    
+    累计/每日start
+    累计/每日used
+    每天cdn hit
+    """
 
-累计/每日start
-累计/每日used
-每天cdn hit
-"""
+    here_dir = os.path.dirname(os.path.abspath(__file__))
+    repo = 'wang0618/PyWebIO'
+    days = 50  # 至少为一周8
 
-here_dir = os.path.dirname(os.path.abspath(__file__))
-repo = 'wang0618/PyWebIO'
-days = 50  # 至少为一周8
+    used_cache = json.load(open(os.path.join(here_dir, 'data', 'cache-used.json')))
+    used = dependents_info(repo, days, cache=used_cache)
+    json.dump(used_cache, open(os.path.join(here_dir, 'data', 'cache-used.json'), 'w'))
 
-used_cache = json.load(open(os.path.join(here_dir, 'data', 'cache-used.json')))
-used = dependents_info(repo, days, cache=used_cache)
-json.dump(used_cache, open(os.path.join(here_dir, 'data', 'cache-used.json'), 'w'))
+    star = star_info(repo=repo, days=days)
 
-star = star_info(repo=repo, days=days)
+    cdn_hits = CDN_hits_info(days)
 
-cdn_hits = CDN_hits_info(days)
+    data = {
+        'GithubStars': star[-1]['total'],
+        'GithubUsed': used[-1]['total'],
+        'WeekNewStars': star[-1]['total'] - star[-8]['total'],
+        'WeekCDNHits': sum(i['count'] for i in cdn_hits[-7:]),
+        'WeekNewUsed': used[-1]['total'] - used[-8]['total'],
 
-data = {
-    'GithubStars': star[-1]['total'],
-    'GithubUsed': used[-1]['total'],
-    'DayNewStars': star[-1]['total'] - star[-2]['total'],
-    'WeekCDNHits': sum(i['count'] for i in cdn_hits[-7:]),
-    'WeekNewUsed': used[-1]['total'] - used[-8]['total'],
+        'star-dates': [i['date'] for i in star[1:]],
+        'star-total': [i['total'] for i in star[1:]],
+        'star-daily': total2daily(star),
 
-    'star-dates': [i['date'] for i in star[1:]],
-    'star-total': [i['total'] for i in star[1:]],
-    'star-daily': total2daily(star),
+        'used-dates': [i['date'] for i in used[1:]],
+        'used-total': [i['total'] for i in used[1:]],
+        'used-daily': total2daily(used),
 
-    'used-dates': [i['date'] for i in used[1:]],
-    'used-total': [i['total'] for i in used[1:]],
-    'used-daily': total2daily(used),
-
-    'cdn-dates': [i['date'] for i in cdn_hits],
-    'cdn-daily': [i['count'] for i in cdn_hits],
-}
-json_str = json.dumps(data, indent=4)
-open(os.path.join(here_dir, 'data', 'data.json'), 'w').write(json_str)
-open(os.path.join(here_dir, 'data', 'data.js'), 'w').write('var data = %s;' % json_str)
+        'cdn-dates': [i['date'] for i in cdn_hits],
+        'cdn-daily': [i['count'] for i in cdn_hits],
+    }
+    json_str = json.dumps(data, indent=4)
+    open(os.path.join(here_dir, 'data', 'data.json'), 'w').write(json_str)
+    open(os.path.join(here_dir, 'data', 'data.js'), 'w').write('var data = %s;' % json_str)
