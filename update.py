@@ -173,6 +173,23 @@ def total2daily(data):
     return res
 
 
+def traffic_data(repo):
+    # https://docs.github.com/en/rest/reference/repos#traffic
+    views = retry(lambda: requests.get('https://api.github.com/repos/%s/traffic/views' % repo.strip('/'),
+                                       auth=HTTPBasicAuth(USER, TOKEN),
+                                       timeout=20).json())['views']
+    clones = retry(lambda: requests.get('https://api.github.com/repos/%s/traffic/clones' % repo.strip('/'),
+                                       auth=HTTPBasicAuth(USER, TOKEN),
+                                       timeout=20).json())['clones']
+    referrers = retry(lambda: requests.get('https://api.github.com/repos/%s/traffic/popular/referrers' % repo.strip('/'),
+                                       auth=HTTPBasicAuth(USER, TOKEN),
+                                       timeout=20).json())
+    return views, clones, referrers
+
+
+
+
+
 if __name__ == '__main__':
     """
     Github Stars
@@ -198,6 +215,8 @@ if __name__ == '__main__':
 
     cdn_hits = CDN_hits_info(days)
 
+    views, clones, referrers = traffic_data('wang0618/PyWebIO')
+
     data = {
         'GithubStars': star[-1]['total'],
         'GithubUsed': used[-1]['total'],
@@ -215,6 +234,17 @@ if __name__ == '__main__':
 
         'cdn-dates': [i['date'] for i in cdn_hits],
         'cdn-daily': [i['count'] for i in cdn_hits],
+
+        'views-dates': [v['timestamp'][:len('yyyy-dd-mm')] for v in views],
+        'views-count': [v['count'] for v in views],
+        'views-uniques': [v['uniques'] for v in views],
+
+        'clones-dates': [c['timestamp'][:len('yyyy-dd-mm')] for c in clones],
+        'clones-count': [c['count'] for c in clones],
+        'clones-uniques': [c['uniques'] for c in clones],
+
+        'referrers': referrers,
+        'referrers-chart': [dict(name=r['referrer'], value=r['count']) for r in referrers],
     }
     json_str = json.dumps(data, indent=4)
     open(os.path.join(here_dir, 'data', 'data.json'), 'w').write(json_str)
