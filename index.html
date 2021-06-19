@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,width=device-width">
-<!--    <link rel="icon" type="image/png" href="static/img/fav.png">-->
+    <!--    <link rel="icon" type="image/png" href="static/img/fav.png">-->
     <title>PyWebIO - Dashboard</title>
     <meta name="keywords" content="PyWebIO, Dashboard"/>
     <meta name="description" content="PyWebIO"/>
@@ -12,23 +12,31 @@
     <link href="static/css/dashboard-1586699b99.css" rel="stylesheet">
 </head>
 <body>
-<div class="header"><a class="wx-box" href="https://github.com/wang0618/PyWebIO" style="color: white;text-decoration: none; font-size: 20px">PyWebIO</a>
+<div class="header"><a class="wx-box" href="https://github.com/wang0618/PyWebIO"
+                       style="color: white;text-decoration: none; font-size: 20px">PyWebIO</a>
 
 </div>
 <div class="panel-box" style="margin-top: 100px;">
-    <div class="panel"><span class="panel-title">Github Stars</span> <span class="panel-value" id="GithubStars">-</span></div>
-    <div class="panel"><span class="panel-title">Github Used</span> <span class="panel-value" id="GithubUsed">-</span></div>
-    <div class="panel"><span class="panel-title">Week New Stars</span> <span class="panel-value" id="WeekNewStars">-</span></div>
-    <div class="panel"><span class="panel-title">Week CDN Hits</span> <span class="panel-value" id="WeekCDNHits">-</span></div>
-    <div class="panel"><span class="panel-title">Week New Used</span> <span class="panel-value" id="WeekNewUsed">-</span></div>
+    <div class="panel"><span class="panel-title">Github Stars</span> <span class="panel-value" id="GithubStars">-</span>
+    </div>
+    <div class="panel"><span class="panel-title">Github Used</span> <span class="panel-value" id="GithubUsed">-</span>
+    </div>
+    <div class="panel"><span class="panel-title">Week New Stars</span> <span class="panel-value"
+                                                                             id="WeekNewStars">-</span></div>
+    <div class="panel"><span class="panel-title">Week CDN Hits</span> <span class="panel-value"
+                                                                            id="WeekCDNHits">-</span></div>
+    <div class="panel"><span class="panel-title">Week New Used</span> <span class="panel-value"
+                                                                            id="WeekNewUsed">-</span></div>
 </div>
 <div class="echarts-box">
     <div class="echarts" id="star-chart"></div>
     <div class="echarts" id="used-chart"></div>
+    <div class="echarts" id="views-chart"></div>
     <div class="echarts" id="cdn-chart"></div>
+    <div class="echarts" id="referrers-chart"></div>
 </div>
 <script src="data/data.js"></script>
-<script src="static/js/echarts-e2f35bcb11.diy.js"></script>
+<script src="static/js/echarts4.min.js"></script>
 <script>(function () {
     document.getElementById('GithubStars').innerHTML = data.GithubStars;
     document.getElementById('GithubUsed').innerHTML = data.GithubUsed;
@@ -167,7 +175,7 @@
         legend: {
             itemWidth: 12,
             itemHeight: 12,
-            data: [{name: 'CDN daily hits', icon: 'circle'} ],
+            data: [{name: 'CDN daily hits', icon: 'circle'}],
             textStyle: {color: "#ffffff"},
             selectedMode: 'single',
             inactiveColor: "rgba(234,234,234,0.75)"
@@ -211,6 +219,160 @@
         }]
     };
     cdn_chart.setOption(cdn_chart_barOption);
+
+    //折线图
+    var views_chart = echarts.init(document.getElementById('views-chart'));
+    var views_chart_lineOption = {
+        legend: {
+            itemWidth: 12,
+            itemHeight: 12,
+            data: [{name: 'Github repo views', icon: 'circle'}, {name: 'Unique views', icon: 'roundRect'}],
+            textStyle: {color: "#ffffff"},
+            inactiveColor: "rgba(234,234,234,0.75)"
+        },
+        color: ["rgba(255,255,255,0.85)"],
+        tooltip: {
+            trigger: 'axis',
+            padding: [5, 10],
+            axisPointer: {lineStyle: {color: "rgba(255,255,255,0.75)", type: 'dashed'}}
+        },
+        grid: {show: false, left: '5%', right: '5%', bottom: '5%'},
+        xAxis: [{
+            type: 'category',
+            axisLine: {show: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false},
+            boundaryGap: false,
+            data: data['views-dates']
+        }],
+        yAxis: [{
+            scale: true,
+            type: 'value',
+            axisLine: {show: false, onZero: false, lineStyle: {color: "rgba(255,255,255,0.85)"}},
+            axisTick: {show: false},
+            axisLabel: {show: false},
+            splitLine: {show: false}
+        }],
+        series: [{
+            name: 'Github repo views',
+            type: 'line',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'circle',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['views-count']
+        }, {
+            name: 'Unique views',
+            type: 'line',
+            smooth: true,
+            smoothMonotone: 'x',
+            symbol: 'roundRect',
+            symbolSize: 6,
+            showAllSymbol: true,
+            lineStyle: {normal: {color: 'rgba(255,255,255,0.5)'}},
+            areaStyle: {normal: {color: 'rgba(255,255,255,0.25)'}},
+            label: {normal: {show: true, position: 'top', textStyle: {color: 'rgba(255,255,255,0.85)'}}},
+            data: data['views-uniques']
+        }]
+    };
+    views_chart.setOption(views_chart_lineOption);
+
+    //Pie
+    var referrers_chart = echarts.init(document.getElementById('referrers-chart'));
+    var referrers_chart_lineOption = {
+        legend: {
+            orient: 'vertical',
+            right: 10,
+            top: 20,
+            bottom: 20,
+            data: [{name: 'Total', icon: 'circle', color: "#e5f6ee"}, {name: 'Unique', icon: 'circle'}],
+            textStyle: {color: "#ffffff"},
+            selectedMode: 'single',
+            inactiveColor: "rgba(234,234,234,0.75)",  // #e5f6ee
+        },
+        title: {
+            text: 'Github repo referring sites',
+            left: 'center',
+            top: 0,
+            textStyle: {
+                color: 'rgba(255,255,255,0.85)',
+                fontSize: '15',
+            }
+        },
+        color: ["rgba(255,255,255,0.85)"],
+        tooltip: {
+            padding: [5, 10],
+            axisPointer: {lineStyle: {color: "rgba(255,255,255,0.75)"}}
+        },
+        series: [
+            {
+                name: 'Total',
+                type: 'pie',
+                radius: '75%',
+                center: ['50%', '55%'],
+                data: data['referrers-total-chart'].sort(function (a, b) {
+                    return a.value - b.value;
+                }),
+                label: {
+                    color: 'rgba(255,255,255)',
+                    formatter: function (params) {
+                        return params.name + ' [' + params.value + ']'
+                    },
+                },
+                labelLine: {
+                    lineStyle: {
+                        color: 'rgba(255, 255, 255, 0.7)'
+                    },
+                    smooth: 0.2,
+                    length: 10,
+                    length2: 20
+                },
+                itemStyle: {
+                    color: '#51d49a',
+                    // color: "#e5f6ee",
+                    shadowBlur: 30,
+                    shadowColor: 'rgba(0, 0, 0, 0.3)'
+                },
+
+            },
+            {
+                name: 'Unique',
+                type: 'pie',
+                radius: '75%',
+                center: ['50%', '55%'],
+                data: data['referrers-unique-chart'].sort(function (a, b) {
+                    return a.value - b.value;
+                }),
+                label: {
+                    color: 'rgba(255,255,255)',
+                    formatter: function (params) {
+                        return params.name + ' [' + params.value + ']'
+                    },
+                },
+                labelLine: {
+                    lineStyle: {
+                        color: 'rgba(255, 255, 255, 0.7)'
+                    },
+                    smooth: 0.2,
+                    length: 10,
+                    length2: 20
+                },
+                itemStyle: {
+                    color: '#51d49a',
+                    shadowBlur: 30,
+                    shadowColor: 'rgba(0, 0, 0, 0.3)'
+                },
+
+            }
+        ]
+    };
+    referrers_chart.setOption(referrers_chart_lineOption);
+
 })();
 
 </script>
