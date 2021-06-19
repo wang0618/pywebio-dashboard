@@ -432,7 +432,7 @@
         "2021-06-19"
     ],
     "views-count": [
-        5,
+        2,
         152,
         130,
         179,
@@ -446,10 +446,10 @@
         150,
         268,
         150,
-        111
+        113
     ],
     "views-uniques": [
-        4,
+        2,
         43,
         39,
         84,
@@ -551,7 +551,7 @@
             "uniques": 5
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "reddit.com",
             "count": 4,
             "uniques": 3
         }
@@ -594,7 +594,7 @@
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 4
         }
     ],
@@ -636,7 +636,7 @@
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 3
         }
     ]
