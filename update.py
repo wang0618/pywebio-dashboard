@@ -244,7 +244,8 @@ if __name__ == '__main__':
         'clones-uniques': [c['uniques'] for c in clones],
 
         'referrers': referrers,
-        'referrers-chart': [dict(name=r['referrer'], value=r['count']) for r in referrers],
+        'referrers-total-chart': [dict(name=r['referrer'], value=r['count']) for r in referrers],
+        'referrers-unique-chart': [dict(name=r['referrer'], value=r['uniques']) for r in referrers],
     }
     json_str = json.dumps(data, indent=4)
     open(os.path.join(here_dir, 'data', 'data.json'), 'w').write(json_str)
