@@ -1,7 +1,7 @@
 {
-    "GithubStars": 1541,
+    "GithubStars": 1542,
     "GithubUsed": 215,
-    "WeekNewStars": 14,
+    "WeekNewStars": 15,
     "WeekCDNHits": 53732,
     "WeekNewUsed": 12,
     "star-dates": [
@@ -104,7 +104,7 @@
         1533,
         1535,
         1541,
-        1541
+        1542
     ],
     "star-daily": [
         1,
@@ -155,7 +155,7 @@
         2,
         2,
         6,
-        0
+        1
     ],
     "used-dates": [
         "2021-05-02",
@@ -413,5 +413,231 @@
         12202,
         2391,
         4686
+    ],
+    "views-dates": [
+        "2021-06-05",
+        "2021-06-06",
+        "2021-06-07",
+        "2021-06-08",
+        "2021-06-09",
+        "2021-06-10",
+        "2021-06-11",
+        "2021-06-12",
+        "2021-06-13",
+        "2021-06-14",
+        "2021-06-15",
+        "2021-06-16",
+        "2021-06-17",
+        "2021-06-18",
+        "2021-06-19"
+    ],
+    "views-count": [
+        64,
+        152,
+        130,
+        179,
+        168,
+        163,
+        120,
+        97,
+        69,
+        175,
+        175,
+        150,
+        268,
+        150,
+        24
+    ],
+    "views-uniques": [
+        19,
+        43,
+        39,
+        84,
+        42,
+        42,
+        36,
+        37,
+        30,
+        38,
+        45,
+        49,
+        42,
+        47,
+        8
+    ],
+    "clones-dates": [
+        "2021-06-06",
+        "2021-06-08",
+        "2021-06-10",
+        "2021-06-11",
+        "2021-06-12",
+        "2021-06-13",
+        "2021-06-14",
+        "2021-06-15",
+        "2021-06-16",
+        "2021-06-17",
+        "2021-06-19"
+    ],
+    "clones-count": [
+        2,
+        2,
+        2,
+        5,
+        83,
+        1,
+        1,
+        39,
+        2,
+        2,
+        1
+    ],
+    "clones-uniques": [
+        2,
+        1,
+        2,
+        1,
+        31,
+        1,
+        1,
+        15,
+        2,
+        2,
+        1
+    ],
+    "referrers": [
+        {
+            "referrer": "pywebio.readthedocs.io",
+            "count": 222,
+            "uniques": 122
+        },
+        {
+            "referrer": "Google",
+            "count": 152,
+            "uniques": 92
+        },
+        {
+            "referrer": "github.com",
+            "count": 66,
+            "uniques": 42
+        },
+        {
+            "referrer": "ww1.pyweb.io",
+            "count": 61,
+            "uniques": 48
+        },
+        {
+            "referrer": "pyweb.io",
+            "count": 27,
+            "uniques": 10
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 16,
+            "uniques": 8
+        },
+        {
+            "referrer": "pypi.org",
+            "count": 12,
+            "uniques": 6
+        },
+        {
+            "referrer": "v2ex.com",
+            "count": 8,
+            "uniques": 5
+        },
+        {
+            "referrer": "t.co",
+            "count": 5,
+            "uniques": 5
+        },
+        {
+            "referrer": "reddit.com",
+            "count": 4,
+            "uniques": 3
+        }
+    ],
+    "referrers-total-chart": [
+        {
+            "name": "pywebio.readthedocs.io",
+            "value": 222
+        },
+        {
+            "name": "Google",
+            "value": 152
+        },
+        {
+            "name": "github.com",
+            "value": 66
+        },
+        {
+            "name": "ww1.pyweb.io",
+            "value": 61
+        },
+        {
+            "name": "pyweb.io",
+            "value": 27
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 16
+        },
+        {
+            "name": "pypi.org",
+            "value": 12
+        },
+        {
+            "name": "v2ex.com",
+            "value": 8
+        },
+        {
+            "name": "t.co",
+            "value": 5
+        },
+        {
+            "name": "reddit.com",
+            "value": 4
+        }
+    ],
+    "referrers-unique-chart": [
+        {
+            "name": "pywebio.readthedocs.io",
+            "value": 122
+        },
+        {
+            "name": "Google",
+            "value": 92
+        },
+        {
+            "name": "github.com",
+            "value": 42
+        },
+        {
+            "name": "ww1.pyweb.io",
+            "value": 48
+        },
+        {
+            "name": "pyweb.io",
+            "value": 10
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 8
+        },
+        {
+            "name": "pypi.org",
+            "value": 6
+        },
+        {
+            "name": "v2ex.com",
+            "value": 5
+        },
+        {
+            "name": "t.co",
+            "value": 5
+        },
+        {
+            "name": "reddit.com",
+            "value": 3
+        }
     ]
 }
