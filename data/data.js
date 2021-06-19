@@ -1,7 +1,7 @@
 var data = {
     "GithubStars": 1541,
     "GithubUsed": 215,
-    "DayNewStars": 0,
+    "WeekNewStars": 14,
     "WeekCDNHits": 53732,
     "WeekNewUsed": 12,
     "star-dates": [
