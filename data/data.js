@@ -2,7 +2,7 @@ var data = {
     "GithubStars": 1547,
     "GithubUsed": 217,
     "WeekNewStars": 16,
-    "WeekCDNHits": 52718,
+    "WeekCDNHits": 45152,
     "WeekNewUsed": 8,
     "star-dates": [
         "2021-05-04",
@@ -311,7 +311,6 @@ var data = {
         1
     ],
     "cdn-dates": [
-        "2021-04-30",
         "2021-05-01",
         "2021-05-02",
         "2021-05-03",
@@ -360,10 +359,10 @@ var data = {
         "2021-06-15",
         "2021-06-16",
         "2021-06-17",
-        "2021-06-18"
+        "2021-06-18",
+        "2021-06-19"
     ],
     "cdn-daily": [
-        1963,
         1746,
         1015,
         2845,
@@ -400,7 +399,7 @@ var data = {
         1712,
         2696,
         1516,
-        3182,
+        3209,
         2278,
         2406,
         2149,
@@ -412,7 +411,8 @@ var data = {
         12202,
         2391,
         4686,
-        3140
+        3140,
+        1903
     ],
     "views-dates": [
         "2021-06-07",
@@ -432,7 +432,7 @@ var data = {
         "2021-06-21"
     ],
     "views-count": [
-        95,
+        64,
         179,
         168,
         163,
@@ -446,10 +446,10 @@ var data = {
         150,
         122,
         93,
-        122
+        126
     ],
     "views-uniques": [
-        29,
+        23,
         84,
         42,
         42,
@@ -463,7 +463,7 @@ var data = {
         47,
         30,
         24,
-        19
+        21
     ],
     "clones-dates": [
         "2021-06-08",
@@ -476,7 +476,8 @@ var data = {
         "2021-06-16",
         "2021-06-17",
         "2021-06-19",
-        "2021-06-20"
+        "2021-06-20",
+        "2021-06-21"
     ],
     "clones-count": [
         2,
@@ -489,7 +490,8 @@ var data = {
         2,
         2,
         22,
-        1
+        1,
+        12
     ],
     "clones-uniques": [
         1,
@@ -502,7 +504,8 @@ var data = {
         2,
         2,
         11,
-        1
+        1,
+        6
     ],
     "referrers": [
         {
@@ -551,7 +554,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "reddit.com",
             "count": 4,
             "uniques": 3
         }
@@ -594,7 +597,7 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 4
         }
     ],
@@ -636,7 +639,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 3
         }
     ]
