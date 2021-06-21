@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1546,
+    "GithubStars": 1547,
     "GithubUsed": 217,
-    "WeekNewStars": 15,
+    "WeekNewStars": 16,
     "WeekCDNHits": 45152,
     "WeekNewUsed": 8,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1541,
         1544,
         1545,
-        1546
+        1547
     ],
     "star-daily": [
         0,
@@ -155,7 +155,7 @@ var data = {
         6,
         3,
         1,
-        1
+        2
     ],
     "used-dates": [
         "2021-05-04",
@@ -428,10 +428,11 @@ var data = {
         "2021-06-17",
         "2021-06-18",
         "2021-06-19",
-        "2021-06-20"
+        "2021-06-20",
+        "2021-06-21"
     ],
     "views-count": [
-        117,
+        116,
         179,
         168,
         163,
@@ -444,10 +445,11 @@ var data = {
         268,
         150,
         122,
-        93
+        93,
+        91
     ],
     "views-uniques": [
-        35,
+        34,
         84,
         42,
         42,
@@ -460,7 +462,8 @@ var data = {
         42,
         47,
         30,
-        24
+        24,
+        14
     ],
     "clones-dates": [
         "2021-06-08",
@@ -548,7 +551,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "reddit.com",
             "count": 4,
             "uniques": 3
         }
@@ -591,7 +594,7 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 4
         }
     ],
@@ -633,7 +636,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 3
         }
     ]
