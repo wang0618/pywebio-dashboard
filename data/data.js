@@ -2,7 +2,7 @@ var data = {
     "GithubStars": 1547,
     "GithubUsed": 217,
     "WeekNewStars": 16,
-    "WeekCDNHits": 45152,
+    "WeekCDNHits": 52718,
     "WeekNewUsed": 8,
     "star-dates": [
         "2021-05-04",
@@ -311,6 +311,7 @@ var data = {
         1
     ],
     "cdn-dates": [
+        "2021-04-30",
         "2021-05-01",
         "2021-05-02",
         "2021-05-03",
@@ -359,10 +360,10 @@ var data = {
         "2021-06-15",
         "2021-06-16",
         "2021-06-17",
-        "2021-06-18",
-        "2021-06-19"
+        "2021-06-18"
     ],
     "cdn-daily": [
+        1963,
         1746,
         1015,
         2845,
@@ -399,7 +400,7 @@ var data = {
         1712,
         2696,
         1516,
-        3209,
+        3182,
         2278,
         2406,
         2149,
@@ -411,8 +412,7 @@ var data = {
         12202,
         2391,
         4686,
-        3140,
-        1903
+        3140
     ],
     "views-dates": [
         "2021-06-07",
@@ -432,7 +432,7 @@ var data = {
         "2021-06-21"
     ],
     "views-count": [
-        116,
+        104,
         179,
         168,
         163,
@@ -446,10 +446,10 @@ var data = {
         150,
         122,
         93,
-        91
+        110
     ],
     "views-uniques": [
-        34,
+        31,
         84,
         42,
         42,
@@ -463,7 +463,7 @@ var data = {
         47,
         30,
         24,
-        14
+        16
     ],
     "clones-dates": [
         "2021-06-08",
@@ -551,7 +551,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "reddit.com",
+            "referrer": "python.plainenglish.io",
             "count": 4,
             "uniques": 3
         }
@@ -594,7 +594,7 @@ var data = {
             "value": 5
         },
         {
-            "name": "reddit.com",
+            "name": "python.plainenglish.io",
             "value": 4
         }
     ],
@@ -636,7 +636,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "reddit.com",
+            "name": "python.plainenglish.io",
             "value": 3
         }
     ]
