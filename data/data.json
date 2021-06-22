@@ -1,9 +1,9 @@
 {
-    "GithubStars": 1553,
-    "GithubUsed": 219,
-    "WeekNewStars": 22,
-    "WeekCDNHits": 45152,
-    "WeekNewUsed": 7,
+    "GithubStars": 1554,
+    "GithubUsed": 220,
+    "WeekNewStars": 23,
+    "WeekCDNHits": 28181,
+    "WeekNewUsed": 8,
     "star-dates": [
         "2021-05-05",
         "2021-05-06",
@@ -104,7 +104,7 @@
         1544,
         1545,
         1552,
-        1553
+        1554
     ],
     "star-daily": [
         2,
@@ -155,7 +155,7 @@
         3,
         1,
         7,
-        1
+        2
     ],
     "used-dates": [
         "2021-05-05",
@@ -252,12 +252,12 @@
         209,
         212,
         215,
-        216,
-        216,
         217,
         217,
-        219,
-        219
+        218,
+        218,
+        220,
+        220
     ],
     "used-daily": [
         1,
@@ -303,7 +303,7 @@
         4,
         3,
         3,
-        1,
+        2,
         0,
         1,
         0,
@@ -311,7 +311,6 @@
         0
     ],
     "cdn-dates": [
-        "2021-05-01",
         "2021-05-02",
         "2021-05-03",
         "2021-05-04",
@@ -360,10 +359,10 @@
         "2021-06-16",
         "2021-06-17",
         "2021-06-18",
-        "2021-06-19"
+        "2021-06-19",
+        "2021-06-20"
     ],
     "cdn-daily": [
-        1746,
         1015,
         2845,
         139360,
@@ -412,7 +411,8 @@
         2391,
         4686,
         3140,
-        1903
+        1903,
+        1197
     ],
     "views-dates": [
         "2021-06-08",
@@ -431,7 +431,7 @@
         "2021-06-21"
     ],
     "views-count": [
-        175,
+        149,
         168,
         163,
         120,
@@ -447,7 +447,7 @@
         280
     ],
     "views-uniques": [
-        81,
+        78,
         42,
         42,
         36,
@@ -546,12 +546,12 @@
             "uniques": 5
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "reddit.com",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "reddit.com",
+            "referrer": "python.plainenglish.io",
             "count": 4,
             "uniques": 3
         }
@@ -590,11 +590,11 @@
             "value": 8
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 4
         },
         {
-            "name": "reddit.com",
+            "name": "python.plainenglish.io",
             "value": 4
         }
     ],
@@ -632,11 +632,11 @@
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "reddit.com",
             "value": 3
         },
         {
-            "name": "reddit.com",
+            "name": "python.plainenglish.io",
             "value": 3
         }
     ]
