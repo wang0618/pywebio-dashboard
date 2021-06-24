@@ -1,11 +1,10 @@
 {
     "GithubStars": 1560,
     "GithubUsed": 223,
-    "WeekNewStars": 27,
+    "WeekNewStars": 25,
     "WeekCDNHits": 28546,
-    "WeekNewUsed": 7,
+    "WeekNewUsed": 5,
     "star-dates": [
-        "2021-05-06",
         "2021-05-07",
         "2021-05-08",
         "2021-05-09",
@@ -53,10 +52,10 @@
         "2021-06-20",
         "2021-06-21",
         "2021-06-22",
-        "2021-06-23"
+        "2021-06-23",
+        "2021-06-24"
     ],
     "star-total": [
-        1425,
         1428,
         1433,
         1434,
@@ -104,10 +103,10 @@
         1545,
         1552,
         1558,
+        1560,
         1560
     ],
     "star-daily": [
-        2,
         3,
         5,
         1,
@@ -155,10 +154,10 @@
         1,
         7,
         6,
-        2
+        2,
+        0
     ],
     "used-dates": [
-        "2021-05-06",
         "2021-05-07",
         "2021-05-08",
         "2021-05-09",
@@ -206,10 +205,10 @@
         "2021-06-20",
         "2021-06-21",
         "2021-06-22",
-        "2021-06-23"
+        "2021-06-23",
+        "2021-06-24"
     ],
     "used-total": [
-        155,
         157,
         159,
         159,
@@ -257,10 +256,10 @@
         219,
         221,
         221,
+        223,
         223
     ],
     "used-daily": [
-        1,
         2,
         2,
         0,
@@ -308,7 +307,8 @@
         0,
         2,
         0,
-        2
+        2,
+        0
     ],
     "cdn-dates": [
         "2021-05-03",
@@ -415,7 +415,6 @@
         3027
     ],
     "views-dates": [
-        "2021-06-09",
         "2021-06-10",
         "2021-06-11",
         "2021-06-12",
@@ -432,8 +431,7 @@
         "2021-06-23"
     ],
     "views-count": [
-        24,
-        163,
+        161,
         120,
         97,
         69,
@@ -446,11 +444,10 @@
         93,
         280,
         289,
-        206
+        230
     ],
     "views-uniques": [
-        4,
-        42,
+        41,
         36,
         37,
         30,
@@ -463,7 +460,7 @@
         24,
         57,
         74,
-        60
+        64
     ],
     "clones-dates": [
         "2021-06-10",
@@ -480,7 +477,7 @@
         "2021-06-22"
     ],
     "clones-count": [
-        2,
+        1,
         5,
         83,
         1,
@@ -494,7 +491,7 @@
         11
     ],
     "clones-uniques": [
-        2,
+        1,
         1,
         31,
         1,
@@ -510,18 +507,18 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 222,
-            "uniques": 117
+            "count": 207,
+            "uniques": 108
         },
         {
             "referrer": "Google",
-            "count": 150,
-            "uniques": 93
+            "count": 138,
+            "uniques": 88
         },
         {
             "referrer": "github.com",
-            "count": 95,
-            "uniques": 57
+            "count": 92,
+            "uniques": 55
         },
         {
             "referrer": "pyweb.io",
@@ -534,43 +531,43 @@
             "uniques": 10
         },
         {
-            "referrer": "ww1.pyweb.io",
-            "count": 14,
-            "uniques": 12
-        },
-        {
             "referrer": "pypi.org",
-            "count": 13,
+            "count": 10,
+            "uniques": 6
+        },
+        {
+            "referrer": "ww1.pyweb.io",
+            "count": 7,
             "uniques": 7
-        },
-        {
-            "referrer": "v2ex.com",
-            "count": 8,
-            "uniques": 5
-        },
-        {
-            "referrer": "python.plainenglish.io",
-            "count": 5,
-            "uniques": 5
         },
         {
             "referrer": "reddit.com",
             "count": 4,
             "uniques": 3
+        },
+        {
+            "referrer": "youtube.com",
+            "count": 4,
+            "uniques": 2
+        },
+        {
+            "referrer": "news.ycombinator.com",
+            "count": 4,
+            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 222
+            "value": 207
         },
         {
             "name": "Google",
-            "value": 150
+            "value": 138
         },
         {
             "name": "github.com",
-            "value": 95
+            "value": 92
         },
         {
             "name": "pyweb.io",
@@ -581,38 +578,38 @@
             "value": 20
         },
         {
-            "name": "ww1.pyweb.io",
-            "value": 14
-        },
-        {
             "name": "pypi.org",
-            "value": 13
+            "value": 10
         },
         {
-            "name": "v2ex.com",
-            "value": 8
-        },
-        {
-            "name": "python.plainenglish.io",
-            "value": 5
+            "name": "ww1.pyweb.io",
+            "value": 7
         },
         {
             "name": "reddit.com",
+            "value": 4
+        },
+        {
+            "name": "youtube.com",
+            "value": 4
+        },
+        {
+            "name": "news.ycombinator.com",
             "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 117
+            "value": 108
         },
         {
             "name": "Google",
-            "value": 93
+            "value": 88
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 55
         },
         {
             "name": "pyweb.io",
@@ -623,24 +620,24 @@
             "value": 10
         },
         {
-            "name": "ww1.pyweb.io",
-            "value": 12
-        },
-        {
             "name": "pypi.org",
+            "value": 6
+        },
+        {
+            "name": "ww1.pyweb.io",
             "value": 7
-        },
-        {
-            "name": "v2ex.com",
-            "value": 5
-        },
-        {
-            "name": "python.plainenglish.io",
-            "value": 5
         },
         {
             "name": "reddit.com",
             "value": 3
+        },
+        {
+            "name": "youtube.com",
+            "value": 2
+        },
+        {
+            "name": "news.ycombinator.com",
+            "value": 1
         }
     ]
 }
