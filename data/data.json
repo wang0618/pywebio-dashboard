@@ -431,7 +431,7 @@
         "2021-06-25"
     ],
     "views-count": [
-        82,
+        76,
         69,
         175,
         175,
@@ -447,7 +447,7 @@
         370
     ],
     "views-uniques": [
-        34,
+        33,
         30,
         38,
         45,
@@ -475,7 +475,7 @@
         "2021-06-22"
     ],
     "clones-count": [
-        83,
+        68,
         1,
         1,
         39,
@@ -487,7 +487,7 @@
         11
     ],
     "clones-uniques": [
-        31,
+        25,
         1,
         1,
         15,
@@ -501,137 +501,137 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 242,
-            "uniques": 131
+            "count": 265,
+            "uniques": 141
         },
         {
             "referrer": "Google",
-            "count": 143,
-            "uniques": 86
+            "count": 152,
+            "uniques": 89
         },
         {
             "referrer": "github.com",
-            "count": 112,
-            "uniques": 69
+            "count": 128,
+            "uniques": 73
         },
         {
             "referrer": "pyweb.io",
-            "count": 52,
-            "uniques": 28
+            "count": 53,
+            "uniques": 29
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 19,
-            "uniques": 10
+            "count": 20,
+            "uniques": 11
         },
         {
             "referrer": "linkedin.com",
-            "count": 11,
-            "uniques": 9
+            "count": 12,
+            "uniques": 10
         },
         {
             "referrer": "pypi.org",
-            "count": 11,
-            "uniques": 8
+            "count": 12,
+            "uniques": 9
         },
         {
             "referrer": "cn.bing.com",
-            "count": 9,
+            "count": 10,
             "uniques": 8
+        },
+        {
+            "referrer": "link.zhihu.com",
+            "count": 9,
+            "uniques": 9
         },
         {
             "referrer": "news.ycombinator.com",
             "count": 8,
             "uniques": 3
-        },
-        {
-            "referrer": "link.zhihu.com",
-            "count": 7,
-            "uniques": 7
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 242
+            "value": 265
         },
         {
             "name": "Google",
-            "value": 143
+            "value": 152
         },
         {
             "name": "github.com",
-            "value": 112
+            "value": 128
         },
         {
             "name": "pyweb.io",
-            "value": 52
+            "value": 53
         },
         {
             "name": "DuckDuckGo",
-            "value": 19
+            "value": 20
         },
         {
             "name": "linkedin.com",
-            "value": 11
+            "value": 12
         },
         {
             "name": "pypi.org",
-            "value": 11
+            "value": 12
         },
         {
             "name": "cn.bing.com",
+            "value": 10
+        },
+        {
+            "name": "link.zhihu.com",
             "value": 9
         },
         {
             "name": "news.ycombinator.com",
             "value": 8
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 7
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 131
+            "value": 141
         },
         {
             "name": "Google",
-            "value": 86
+            "value": 89
         },
         {
             "name": "github.com",
-            "value": 69
+            "value": 73
         },
         {
             "name": "pyweb.io",
-            "value": 28
+            "value": 29
         },
         {
             "name": "DuckDuckGo",
-            "value": 10
+            "value": 11
         },
         {
             "name": "linkedin.com",
-            "value": 9
+            "value": 10
         },
         {
             "name": "pypi.org",
-            "value": 8
+            "value": 9
         },
         {
             "name": "cn.bing.com",
             "value": 8
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 3
+            "name": "link.zhihu.com",
+            "value": 9
         },
         {
-            "name": "link.zhihu.com",
-            "value": 7
+            "name": "news.ycombinator.com",
+            "value": 3
         }
     ]
 }
