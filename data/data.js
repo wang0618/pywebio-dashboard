@@ -428,10 +428,11 @@ var data = {
         "2021-06-23",
         "2021-06-24",
         "2021-06-25",
-        "2021-06-26"
+        "2021-06-26",
+        "2021-06-27"
     ],
     "views-count": [
-        67,
+        62,
         175,
         175,
         150,
@@ -444,10 +445,11 @@ var data = {
         230,
         560,
         370,
-        387
+        387,
+        33
     ],
     "views-uniques": [
-        29,
+        26,
         38,
         45,
         49,
@@ -460,7 +462,8 @@ var data = {
         64,
         102,
         51,
-        55
+        55,
+        7
     ],
     "clones-dates": [
         "2021-06-13",
@@ -498,32 +501,37 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 253,
-            "uniques": 137
+            "count": 274,
+            "uniques": 148
         },
         {
             "referrer": "Google",
-            "count": 148,
-            "uniques": 87
+            "count": 153,
+            "uniques": 91
         },
         {
             "referrer": "github.com",
-            "count": 125,
-            "uniques": 71
+            "count": 144,
+            "uniques": 80
         },
         {
             "referrer": "pyweb.io",
-            "count": 53,
+            "count": 54,
             "uniques": 29
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 19,
-            "uniques": 10
+            "count": 23,
+            "uniques": 13
         },
         {
             "referrer": "linkedin.com",
-            "count": 12,
+            "count": 13,
+            "uniques": 11
+        },
+        {
+            "referrer": "link.zhihu.com",
+            "count": 13,
             "uniques": 10
         },
         {
@@ -537,11 +545,6 @@ var data = {
             "uniques": 8
         },
         {
-            "referrer": "link.zhihu.com",
-            "count": 9,
-            "uniques": 9
-        },
-        {
             "referrer": "news.ycombinator.com",
             "count": 8,
             "uniques": 3
@@ -550,27 +553,31 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 253
+            "value": 274
         },
         {
             "name": "Google",
-            "value": 148
+            "value": 153
         },
         {
             "name": "github.com",
-            "value": 125
+            "value": 144
         },
         {
             "name": "pyweb.io",
-            "value": 53
+            "value": 54
         },
         {
             "name": "DuckDuckGo",
-            "value": 19
+            "value": 23
         },
         {
             "name": "linkedin.com",
-            "value": 12
+            "value": 13
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 13
         },
         {
             "name": "pypi.org",
@@ -579,10 +586,6 @@ var data = {
         {
             "name": "cn.bing.com",
             "value": 10
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 9
         },
         {
             "name": "news.ycombinator.com",
@@ -592,15 +595,15 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 137
+            "value": 148
         },
         {
             "name": "Google",
-            "value": 87
+            "value": 91
         },
         {
             "name": "github.com",
-            "value": 71
+            "value": 80
         },
         {
             "name": "pyweb.io",
@@ -608,10 +611,14 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 10
+            "value": 13
         },
         {
             "name": "linkedin.com",
+            "value": 11
+        },
+        {
+            "name": "link.zhihu.com",
             "value": 10
         },
         {
@@ -621,10 +628,6 @@ var data = {
         {
             "name": "cn.bing.com",
             "value": 8
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 9
         },
         {
             "name": "news.ycombinator.com",
