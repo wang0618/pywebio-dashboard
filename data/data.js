@@ -431,7 +431,7 @@ var data = {
         "2021-06-27"
     ],
     "views-count": [
-        168,
+        163,
         175,
         150,
         268,
@@ -447,7 +447,7 @@ var data = {
         131
     ],
     "views-uniques": [
-        36,
+        34,
         45,
         49,
         42,
@@ -498,23 +498,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 258,
-            "uniques": 139
-        },
-        {
-            "referrer": "Google",
-            "count": 144,
-            "uniques": 86
+            "count": 270,
+            "uniques": 147
         },
         {
             "referrer": "github.com",
-            "count": 142,
-            "uniques": 79
+            "count": 155,
+            "uniques": 87
+        },
+        {
+            "referrer": "Google",
+            "count": 149,
+            "uniques": 89
         },
         {
             "referrer": "pyweb.io",
-            "count": 47,
-            "uniques": 28
+            "count": 49,
+            "uniques": 30
         },
         {
             "referrer": "DuckDuckGo",
@@ -523,21 +523,21 @@ var data = {
         },
         {
             "referrer": "linkedin.com",
-            "count": 13,
-            "uniques": 11
+            "count": 15,
+            "uniques": 12
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 13,
-            "uniques": 10
-        },
-        {
-            "referrer": "pypi.org",
-            "count": 10,
-            "uniques": 8
+            "count": 14,
+            "uniques": 11
         },
         {
             "referrer": "cn.bing.com",
+            "count": 14,
+            "uniques": 8
+        },
+        {
+            "referrer": "pypi.org",
             "count": 10,
             "uniques": 8
         },
@@ -550,19 +550,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 258
-        },
-        {
-            "name": "Google",
-            "value": 144
+            "value": 270
         },
         {
             "name": "github.com",
-            "value": 142
+            "value": 155
+        },
+        {
+            "name": "Google",
+            "value": 149
         },
         {
             "name": "pyweb.io",
-            "value": 47
+            "value": 49
         },
         {
             "name": "DuckDuckGo",
@@ -570,18 +570,18 @@ var data = {
         },
         {
             "name": "linkedin.com",
-            "value": 13
+            "value": 15
         },
         {
             "name": "link.zhihu.com",
-            "value": 13
-        },
-        {
-            "name": "pypi.org",
-            "value": 10
+            "value": 14
         },
         {
             "name": "cn.bing.com",
+            "value": 14
+        },
+        {
+            "name": "pypi.org",
             "value": 10
         },
         {
@@ -592,19 +592,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 139
-        },
-        {
-            "name": "Google",
-            "value": 86
+            "value": 147
         },
         {
             "name": "github.com",
-            "value": 79
+            "value": 87
+        },
+        {
+            "name": "Google",
+            "value": 89
         },
         {
             "name": "pyweb.io",
-            "value": 28
+            "value": 30
         },
         {
             "name": "DuckDuckGo",
@@ -612,18 +612,18 @@ var data = {
         },
         {
             "name": "linkedin.com",
-            "value": 11
+            "value": 12
         },
         {
             "name": "link.zhihu.com",
-            "value": 10
-        },
-        {
-            "name": "pypi.org",
-            "value": 8
+            "value": 11
         },
         {
             "name": "cn.bing.com",
+            "value": 8
+        },
+        {
+            "name": "pypi.org",
             "value": 8
         },
         {
