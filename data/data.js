@@ -401,7 +401,7 @@ var data = {
         18168,
         2750,
         12384,
-        2532,
+        2679,
         4686,
         3140,
         1903,
@@ -428,10 +428,11 @@ var data = {
         "2021-06-25",
         "2021-06-26",
         "2021-06-27",
-        "2021-06-28"
+        "2021-06-28",
+        "2021-06-29"
     ],
     "views-count": [
-        141,
+        111,
         150,
         268,
         150,
@@ -444,10 +445,11 @@ var data = {
         370,
         387,
         131,
-        246
+        246,
+        44
     ],
     "views-uniques": [
-        35,
+        30,
         49,
         42,
         47,
@@ -460,7 +462,8 @@ var data = {
         51,
         55,
         36,
-        61
+        61,
+        13
     ],
     "clones-dates": [
         "2021-06-15",
@@ -495,18 +498,18 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 245,
-            "uniques": 137
+            "count": 284,
+            "uniques": 152
         },
         {
             "referrer": "github.com",
-            "count": 150,
-            "uniques": 86
+            "count": 183,
+            "uniques": 103
         },
         {
             "referrer": "Google",
-            "count": 137,
-            "uniques": 83
+            "count": 156,
+            "uniques": 95
         },
         {
             "referrer": "pyweb.io",
@@ -547,15 +550,15 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 245
+            "value": 284
         },
         {
             "name": "github.com",
-            "value": 150
+            "value": 183
         },
         {
             "name": "Google",
-            "value": 137
+            "value": 156
         },
         {
             "name": "pyweb.io",
@@ -589,15 +592,15 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 137
+            "value": 152
         },
         {
             "name": "github.com",
-            "value": 86
+            "value": 103
         },
         {
             "name": "Google",
-            "value": 83
+            "value": 95
         },
         {
             "name": "pyweb.io",
