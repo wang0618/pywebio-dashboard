@@ -431,7 +431,7 @@ var data = {
         "2021-07-03"
     ],
     "views-count": [
-        91,
+        89,
         280,
         289,
         230,
@@ -447,7 +447,7 @@ var data = {
         109
     ],
     "views-uniques": [
-        23,
+        22,
         57,
         74,
         64,
@@ -492,23 +492,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 266,
-            "uniques": 146
+            "count": 274,
+            "uniques": 151
         },
         {
             "referrer": "github.com",
-            "count": 188,
-            "uniques": 109
+            "count": 193,
+            "uniques": 113
         },
         {
             "referrer": "Google",
-            "count": 122,
-            "uniques": 78
+            "count": 127,
+            "uniques": 82
         },
         {
             "referrer": "pyweb.io",
-            "count": 29,
-            "uniques": 21
+            "count": 32,
+            "uniques": 23
         },
         {
             "referrer": "link.zhihu.com",
@@ -527,8 +527,8 @@ var data = {
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 8,
-            "uniques": 6
+            "count": 9,
+            "uniques": 7
         },
         {
             "referrer": "analyticsindiamag.com",
@@ -544,19 +544,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 266
+            "value": 274
         },
         {
             "name": "github.com",
-            "value": 188
+            "value": 193
         },
         {
             "name": "Google",
-            "value": 122
+            "value": 127
         },
         {
             "name": "pyweb.io",
-            "value": 29
+            "value": 32
         },
         {
             "name": "link.zhihu.com",
@@ -572,7 +572,7 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 8
+            "value": 9
         },
         {
             "name": "analyticsindiamag.com",
@@ -586,19 +586,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 146
+            "value": 151
         },
         {
             "name": "github.com",
-            "value": 109
+            "value": 113
         },
         {
             "name": "Google",
-            "value": 78
+            "value": 82
         },
         {
             "name": "pyweb.io",
-            "value": 21
+            "value": 23
         },
         {
             "name": "link.zhihu.com",
@@ -614,7 +614,7 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 6
+            "value": 7
         },
         {
             "name": "analyticsindiamag.com",
