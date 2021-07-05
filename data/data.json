@@ -1,7 +1,7 @@
 {
-    "GithubStars": 1585,
+    "GithubStars": 1586,
     "GithubUsed": 235,
-    "WeekNewStars": 5,
+    "WeekNewStars": 6,
     "WeekCDNHits": 28266,
     "WeekNewUsed": 7,
     "star-dates": [
@@ -104,7 +104,7 @@
         1583,
         1585,
         1585,
-        1585
+        1586
     ],
     "star-daily": [
         2,
@@ -155,7 +155,7 @@
         1,
         2,
         0,
-        0
+        1
     ],
     "used-dates": [
         "2021-05-18",
@@ -431,7 +431,7 @@
         "2021-07-04"
     ],
     "views-count": [
-        224,
+        189,
         289,
         230,
         560,
@@ -447,7 +447,7 @@
         90
     ],
     "views-uniques": [
-        54,
+        48,
         74,
         64,
         102,
@@ -489,28 +489,28 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 251,
-            "uniques": 138
+            "count": 262,
+            "uniques": 142
         },
         {
             "referrer": "github.com",
-            "count": 162,
-            "uniques": 99
+            "count": 169,
+            "uniques": 101
         },
         {
             "referrer": "Google",
-            "count": 110,
-            "uniques": 71
+            "count": 114,
+            "uniques": 74
         },
         {
             "referrer": "pyweb.io",
-            "count": 30,
-            "uniques": 21
+            "count": 31,
+            "uniques": 22
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 18,
-            "uniques": 14
+            "count": 19,
+            "uniques": 15
         },
         {
             "referrer": "cn.bing.com",
@@ -529,8 +529,8 @@
         },
         {
             "referrer": "analyticsindiamag.com",
-            "count": 7,
-            "uniques": 3
+            "count": 8,
+            "uniques": 4
         },
         {
             "referrer": "km.woa.com",
@@ -541,23 +541,23 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 251
+            "value": 262
         },
         {
             "name": "github.com",
-            "value": 162
+            "value": 169
         },
         {
             "name": "Google",
-            "value": 110
+            "value": 114
         },
         {
             "name": "pyweb.io",
-            "value": 30
+            "value": 31
         },
         {
             "name": "link.zhihu.com",
-            "value": 18
+            "value": 19
         },
         {
             "name": "cn.bing.com",
@@ -573,7 +573,7 @@
         },
         {
             "name": "analyticsindiamag.com",
-            "value": 7
+            "value": 8
         },
         {
             "name": "km.woa.com",
@@ -583,23 +583,23 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 138
+            "value": 142
         },
         {
             "name": "github.com",
-            "value": 99
+            "value": 101
         },
         {
             "name": "Google",
-            "value": 71
+            "value": 74
         },
         {
             "name": "pyweb.io",
-            "value": 21
+            "value": 22
         },
         {
             "name": "link.zhihu.com",
-            "value": 14
+            "value": 15
         },
         {
             "name": "cn.bing.com",
@@ -615,7 +615,7 @@
         },
         {
             "name": "analyticsindiamag.com",
-            "value": 3
+            "value": 4
         },
         {
             "name": "km.woa.com",
