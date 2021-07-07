@@ -428,10 +428,11 @@
         "2021-07-03",
         "2021-07-04",
         "2021-07-05",
-        "2021-07-06"
+        "2021-07-06",
+        "2021-07-07"
     ],
     "views-count": [
-        176,
+        167,
         560,
         370,
         387,
@@ -444,10 +445,11 @@
         109,
         90,
         127,
-        104
+        104,
+        48
     ],
     "views-uniques": [
-        48,
+        47,
         102,
         51,
         55,
@@ -460,7 +462,8 @@
         29,
         28,
         40,
-        38
+        38,
+        11
     ],
     "clones-dates": [
         "2021-06-27",
@@ -489,23 +492,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 205,
-            "uniques": 115
+            "count": 225,
+            "uniques": 130
         },
         {
             "referrer": "github.com",
-            "count": 154,
-            "uniques": 96
+            "count": 156,
+            "uniques": 98
         },
         {
             "referrer": "Google",
-            "count": 96,
-            "uniques": 62
+            "count": 108,
+            "uniques": 71
         },
         {
             "referrer": "pyweb.io",
-            "count": 25,
-            "uniques": 16
+            "count": 27,
+            "uniques": 18
         },
         {
             "referrer": "link.zhihu.com",
@@ -524,36 +527,36 @@
         },
         {
             "referrer": "news.ycombinator.com",
+            "count": 8,
+            "uniques": 5
+        },
+        {
+            "referrer": "km.woa.com",
             "count": 7,
-            "uniques": 4
+            "uniques": 2
         },
         {
             "referrer": "DuckDuckGo",
             "count": 6,
             "uniques": 5
-        },
-        {
-            "referrer": "km.woa.com",
-            "count": 6,
-            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 205
+            "value": 225
         },
         {
             "name": "github.com",
-            "value": 154
+            "value": 156
         },
         {
             "name": "Google",
-            "value": 96
+            "value": 108
         },
         {
             "name": "pyweb.io",
-            "value": 25
+            "value": 27
         },
         {
             "name": "link.zhihu.com",
@@ -569,33 +572,33 @@
         },
         {
             "name": "news.ycombinator.com",
+            "value": 8
+        },
+        {
+            "name": "km.woa.com",
             "value": 7
         },
         {
             "name": "DuckDuckGo",
-            "value": 6
-        },
-        {
-            "name": "km.woa.com",
             "value": 6
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 115
+            "value": 130
         },
         {
             "name": "github.com",
-            "value": 96
+            "value": 98
         },
         {
             "name": "Google",
-            "value": 62
+            "value": 71
         },
         {
             "name": "pyweb.io",
-            "value": 16
+            "value": 18
         },
         {
             "name": "link.zhihu.com",
@@ -611,15 +614,15 @@
         },
         {
             "name": "news.ycombinator.com",
-            "value": 4
-        },
-        {
-            "name": "DuckDuckGo",
             "value": 5
         },
         {
             "name": "km.woa.com",
-            "value": 1
+            "value": 2
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 5
         }
     ]
 }
