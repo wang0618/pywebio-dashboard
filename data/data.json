@@ -431,7 +431,7 @@
         "2021-07-10"
     ],
     "views-count": [
-        112,
+        98,
         246,
         134,
         97,
@@ -447,7 +447,7 @@
         60
     ],
     "views-uniques": [
-        33,
+        30,
         61,
         48,
         32,
@@ -495,23 +495,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 227,
-            "uniques": 138
-        },
-        {
-            "referrer": "github.com",
-            "count": 121,
-            "uniques": 81
+            "count": 234,
+            "uniques": 144
         },
         {
             "referrer": "Google",
-            "count": 120,
+            "count": 130,
+            "uniques": 90
+        },
+        {
+            "referrer": "github.com",
+            "count": 126,
             "uniques": 84
         },
         {
             "referrer": "pyweb.io",
-            "count": 12,
-            "uniques": 11
+            "count": 13,
+            "uniques": 12
         },
         {
             "referrer": "link.zhihu.com",
@@ -547,19 +547,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 227
-        },
-        {
-            "name": "github.com",
-            "value": 121
+            "value": 234
         },
         {
             "name": "Google",
-            "value": 120
+            "value": 130
+        },
+        {
+            "name": "github.com",
+            "value": 126
         },
         {
             "name": "pyweb.io",
-            "value": 12
+            "value": 13
         },
         {
             "name": "link.zhihu.com",
@@ -589,19 +589,19 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 138
-        },
-        {
-            "name": "github.com",
-            "value": 81
+            "value": 144
         },
         {
             "name": "Google",
+            "value": 90
+        },
+        {
+            "name": "github.com",
             "value": 84
         },
         {
             "name": "pyweb.io",
-            "value": 11
+            "value": 12
         },
         {
             "name": "link.zhihu.com",
