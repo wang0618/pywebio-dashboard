@@ -431,7 +431,7 @@
         "2021-07-11"
     ],
     "views-count": [
-        234,
+        163,
         134,
         97,
         111,
@@ -447,7 +447,7 @@
         105
     ],
     "views-uniques": [
-        60,
+        49,
         48,
         32,
         26,
@@ -495,18 +495,18 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 195,
-            "uniques": 125
+            "count": 211,
+            "uniques": 131
         },
         {
             "referrer": "Google",
-            "count": 111,
-            "uniques": 79
+            "count": 116,
+            "uniques": 82
         },
         {
             "referrer": "github.com",
-            "count": 93,
-            "uniques": 65
+            "count": 99,
+            "uniques": 70
         },
         {
             "referrer": "pyweb.io",
@@ -547,15 +547,15 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 195
+            "value": 211
         },
         {
             "name": "Google",
-            "value": 111
+            "value": 116
         },
         {
             "name": "github.com",
-            "value": 93
+            "value": 99
         },
         {
             "name": "pyweb.io",
@@ -589,15 +589,15 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 125
+            "value": 131
         },
         {
             "name": "Google",
-            "value": 79
+            "value": 82
         },
         {
             "name": "github.com",
-            "value": 65
+            "value": 70
         },
         {
             "name": "pyweb.io",
