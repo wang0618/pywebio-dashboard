@@ -432,7 +432,7 @@ var data = {
         "2021-07-13"
     ],
     "views-count": [
-        54,
+        36,
         97,
         111,
         172,
@@ -446,10 +446,10 @@ var data = {
         60,
         105,
         160,
-        51
+        69
     ],
     "views-uniques": [
-        28,
+        22,
         32,
         26,
         48,
@@ -463,7 +463,7 @@ var data = {
         27,
         24,
         34,
-        11
+        15
     ],
     "clones-dates": [
         "2021-07-01",
@@ -537,12 +537,12 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "cn.bing.com",
+            "referrer": "v2ex.com",
             "count": 4,
             "uniques": 2
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "cn.bing.com",
             "count": 4,
             "uniques": 2
         }
@@ -581,11 +581,11 @@ var data = {
             "value": 4
         },
         {
-            "name": "cn.bing.com",
+            "name": "v2ex.com",
             "value": 4
         },
         {
-            "name": "v2ex.com",
+            "name": "cn.bing.com",
             "value": 4
         }
     ],
@@ -623,11 +623,11 @@ var data = {
             "value": 4
         },
         {
-            "name": "cn.bing.com",
+            "name": "v2ex.com",
             "value": 2
         },
         {
-            "name": "v2ex.com",
+            "name": "cn.bing.com",
             "value": 2
         }
     ]
