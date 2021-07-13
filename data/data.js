@@ -1,6 +1,6 @@
 var data = {
     "GithubStars": 1602,
-    "GithubUsed": 250,
+    "GithubUsed": 251,
     "WeekNewStars": 13,
     "WeekCDNHits": 14790,
     "WeekNewUsed": 10,
@@ -209,55 +209,55 @@ var data = {
         "2021-07-13"
     ],
     "used-total": [
-        188,
-        192,
-        192,
+        189,
         193,
-        196,
-        196,
-        196,
-        196,
-        196,
-        198,
+        193,
+        194,
+        197,
+        197,
+        197,
+        197,
+        197,
         199,
         200,
-        200,
-        202,
-        202,
+        201,
+        201,
+        203,
         203,
         204,
-        207,
+        205,
         208,
-        212,
-        215,
-        218,
-        220,
-        220,
+        209,
+        213,
+        216,
+        219,
         221,
         221,
-        223,
-        223,
-        226,
+        222,
+        222,
+        224,
+        224,
         227,
-        229,
+        228,
         230,
         231,
         232,
-        234,
+        233,
         235,
-        237,
+        236,
         238,
         239,
         240,
-        240,
-        240,
-        243,
-        245,
-        247,
-        249,
+        241,
+        241,
+        241,
+        244,
+        246,
+        248,
         250,
-        250,
-        250
+        251,
+        251,
+        251
     ],
     "used-daily": [
         2,
@@ -432,7 +432,7 @@ var data = {
         "2021-07-13"
     ],
     "views-count": [
-        13,
+        11,
         97,
         111,
         172,
@@ -446,10 +446,10 @@ var data = {
         60,
         105,
         160,
-        93
+        94
     ],
     "views-uniques": [
-        10,
+        8,
         32,
         26,
         48,
@@ -537,12 +537,12 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "cn.bing.com",
             "count": 4,
             "uniques": 2
         },
         {
-            "referrer": "cn.bing.com",
+            "referrer": "v2ex.com",
             "count": 4,
             "uniques": 2
         }
@@ -581,11 +581,11 @@ var data = {
             "value": 4
         },
         {
-            "name": "v2ex.com",
+            "name": "cn.bing.com",
             "value": 4
         },
         {
-            "name": "cn.bing.com",
+            "name": "v2ex.com",
             "value": 4
         }
     ],
@@ -623,11 +623,11 @@ var data = {
             "value": 4
         },
         {
-            "name": "v2ex.com",
+            "name": "cn.bing.com",
             "value": 2
         },
         {
-            "name": "cn.bing.com",
+            "name": "v2ex.com",
             "value": 2
         }
     ]
