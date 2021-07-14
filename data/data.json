@@ -1,7 +1,7 @@
 {
-    "GithubStars": 1602,
+    "GithubStars": 1603,
     "GithubUsed": 251,
-    "WeekNewStars": 13,
+    "WeekNewStars": 14,
     "WeekCDNHits": 15238,
     "WeekNewUsed": 7,
     "star-dates": [
@@ -104,7 +104,7 @@
         1602,
         1602,
         1602,
-        1602
+        1603
     ],
     "star-daily": [
         7,
@@ -155,7 +155,7 @@
         1,
         0,
         0,
-        0
+        1
     ],
     "used-dates": [
         "2021-05-27",
@@ -431,7 +431,7 @@
         "2021-07-13"
     ],
     "views-count": [
-        97,
+        71,
         111,
         172,
         109,
@@ -447,7 +447,7 @@
         119
     ],
     "views-uniques": [
-        32,
+        28,
         26,
         48,
         29,
