@@ -428,10 +428,11 @@ var data = {
         "2021-07-10",
         "2021-07-11",
         "2021-07-12",
-        "2021-07-13"
+        "2021-07-13",
+        "2021-07-14"
     ],
     "views-count": [
-        68,
+        63,
         111,
         172,
         109,
@@ -444,10 +445,11 @@ var data = {
         60,
         105,
         160,
-        119
+        119,
+        42
     ],
     "views-uniques": [
-        25,
+        24,
         26,
         48,
         29,
@@ -460,7 +462,8 @@ var data = {
         27,
         24,
         34,
-        36
+        36,
+        16
     ],
     "clones-dates": [
         "2021-07-01",
@@ -495,23 +498,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 207,
-            "uniques": 127
+            "count": 229,
+            "uniques": 137
         },
         {
             "referrer": "Google",
-            "count": 124,
-            "uniques": 80
+            "count": 136,
+            "uniques": 82
         },
         {
             "referrer": "github.com",
-            "count": 94,
-            "uniques": 64
+            "count": 98,
+            "uniques": 67
         },
         {
             "referrer": "pyweb.io",
-            "count": 11,
-            "uniques": 10
+            "count": 12,
+            "uniques": 11
         },
         {
             "referrer": "news.ycombinator.com",
@@ -547,19 +550,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 207
+            "value": 229
         },
         {
             "name": "Google",
-            "value": 124
+            "value": 136
         },
         {
             "name": "github.com",
-            "value": 94
+            "value": 98
         },
         {
             "name": "pyweb.io",
-            "value": 11
+            "value": 12
         },
         {
             "name": "news.ycombinator.com",
@@ -589,19 +592,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 127
+            "value": 137
         },
         {
             "name": "Google",
-            "value": 80
+            "value": 82
         },
         {
             "name": "github.com",
-            "value": 64
+            "value": 67
         },
         {
             "name": "pyweb.io",
-            "value": 10
+            "value": 11
         },
         {
             "name": "news.ycombinator.com",
