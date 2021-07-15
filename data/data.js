@@ -428,10 +428,11 @@ var data = {
         "2021-07-11",
         "2021-07-12",
         "2021-07-13",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-15"
     ],
     "views-count": [
-        80,
+        79,
         172,
         109,
         90,
@@ -444,10 +445,11 @@ var data = {
         105,
         160,
         119,
-        147
+        147,
+        75
     ],
     "views-uniques": [
-        20,
+        19,
         48,
         29,
         28,
@@ -460,7 +462,8 @@ var data = {
         24,
         34,
         36,
-        45
+        45,
+        13
     ],
     "clones-dates": [
         "2021-07-01",
@@ -471,7 +474,8 @@ var data = {
         "2021-07-08",
         "2021-07-09",
         "2021-07-11",
-        "2021-07-14"
+        "2021-07-14",
+        "2021-07-15"
     ],
     "clones-count": [
         2,
@@ -482,7 +486,8 @@ var data = {
         2,
         1,
         6,
-        5
+        5,
+        1
     ],
     "clones-uniques": [
         1,
@@ -493,28 +498,29 @@ var data = {
         2,
         1,
         5,
-        5
+        5,
+        1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 216,
-            "uniques": 132
+            "count": 241,
+            "uniques": 142
         },
         {
             "referrer": "Google",
-            "count": 128,
-            "uniques": 78
+            "count": 140,
+            "uniques": 86
         },
         {
             "referrer": "github.com",
-            "count": 94,
-            "uniques": 64
+            "count": 101,
+            "uniques": 69
         },
         {
             "referrer": "pyweb.io",
-            "count": 11,
-            "uniques": 10
+            "count": 15,
+            "uniques": 13
         },
         {
             "referrer": "news.ycombinator.com",
@@ -532,6 +538,11 @@ var data = {
             "uniques": 5
         },
         {
+            "referrer": "l.workplace.com",
+            "count": 5,
+            "uniques": 3
+        },
+        {
             "referrer": "DuckDuckGo",
             "count": 4,
             "uniques": 4
@@ -540,29 +551,24 @@ var data = {
             "referrer": "Yahoo",
             "count": 4,
             "uniques": 1
-        },
-        {
-            "referrer": "v2ex.com",
-            "count": 3,
-            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 216
+            "value": 241
         },
         {
             "name": "Google",
-            "value": 128
+            "value": 140
         },
         {
             "name": "github.com",
-            "value": 94
+            "value": 101
         },
         {
             "name": "pyweb.io",
-            "value": 11
+            "value": 15
         },
         {
             "name": "news.ycombinator.com",
@@ -577,34 +583,34 @@ var data = {
             "value": 5
         },
         {
+            "name": "l.workplace.com",
+            "value": 5
+        },
+        {
             "name": "DuckDuckGo",
             "value": 4
         },
         {
             "name": "Yahoo",
             "value": 4
-        },
-        {
-            "name": "v2ex.com",
-            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 132
+            "value": 142
         },
         {
             "name": "Google",
-            "value": 78
+            "value": 86
         },
         {
             "name": "github.com",
-            "value": 64
+            "value": 69
         },
         {
             "name": "pyweb.io",
-            "value": 10
+            "value": 13
         },
         {
             "name": "news.ycombinator.com",
@@ -619,15 +625,15 @@ var data = {
             "value": 5
         },
         {
+            "name": "l.workplace.com",
+            "value": 3
+        },
+        {
             "name": "DuckDuckGo",
             "value": 4
         },
         {
             "name": "Yahoo",
-            "value": 1
-        },
-        {
-            "name": "v2ex.com",
             "value": 1
         }
     ]
