@@ -428,10 +428,11 @@
         "2021-07-12",
         "2021-07-13",
         "2021-07-14",
-        "2021-07-15"
+        "2021-07-15",
+        "2021-07-16"
     ],
     "views-count": [
-        140,
+        113,
         109,
         90,
         127,
@@ -444,10 +445,11 @@
         160,
         119,
         147,
-        224
+        224,
+        52
     ],
     "views-uniques": [
-        40,
+        31,
         29,
         28,
         40,
@@ -460,7 +462,8 @@
         34,
         36,
         45,
-        58
+        58,
+        10
     ],
     "clones-dates": [
         "2021-07-02",
@@ -498,23 +501,28 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 224,
-            "uniques": 133
+            "count": 253,
+            "uniques": 148
         },
         {
             "referrer": "Google",
-            "count": 128,
-            "uniques": 81
+            "count": 150,
+            "uniques": 94
         },
         {
             "referrer": "github.com",
-            "count": 92,
-            "uniques": 65
+            "count": 99,
+            "uniques": 70
         },
         {
             "referrer": "pyweb.io",
-            "count": 14,
-            "uniques": 12
+            "count": 16,
+            "uniques": 14
+        },
+        {
+            "referrer": "t.co",
+            "count": 9,
+            "uniques": 8
         },
         {
             "referrer": "news.ycombinator.com",
@@ -523,8 +531,8 @@
         },
         {
             "referrer": "l.workplace.com",
-            "count": 5,
-            "uniques": 3
+            "count": 6,
+            "uniques": 4
         },
         {
             "referrer": "analyticsindiamag.com",
@@ -540,29 +548,28 @@
             "referrer": "Yahoo",
             "count": 4,
             "uniques": 1
-        },
-        {
-            "referrer": "link.zhihu.com",
-            "count": 3,
-            "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 224
+            "value": 253
         },
         {
             "name": "Google",
-            "value": 128
+            "value": 150
         },
         {
             "name": "github.com",
-            "value": 92
+            "value": 99
         },
         {
             "name": "pyweb.io",
-            "value": 14
+            "value": 16
+        },
+        {
+            "name": "t.co",
+            "value": 9
         },
         {
             "name": "news.ycombinator.com",
@@ -570,7 +577,7 @@
         },
         {
             "name": "l.workplace.com",
-            "value": 5
+            "value": 6
         },
         {
             "name": "analyticsindiamag.com",
@@ -583,28 +590,28 @@
         {
             "name": "Yahoo",
             "value": 4
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 133
+            "value": 148
         },
         {
             "name": "Google",
-            "value": 81
+            "value": 94
         },
         {
             "name": "github.com",
-            "value": 65
+            "value": 70
         },
         {
             "name": "pyweb.io",
-            "value": 12
+            "value": 14
+        },
+        {
+            "name": "t.co",
+            "value": 8
         },
         {
             "name": "news.ycombinator.com",
@@ -612,7 +619,7 @@
         },
         {
             "name": "l.workplace.com",
-            "value": 3
+            "value": 4
         },
         {
             "name": "analyticsindiamag.com",
@@ -625,10 +632,6 @@
         {
             "name": "Yahoo",
             "value": 1
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 3
         }
     ]
 }
