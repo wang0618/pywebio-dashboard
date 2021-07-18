@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1608,
     "GithubUsed": 255,
-    "WeekNewStars": 7,
-    "WeekCDNHits": 16929,
-    "WeekNewUsed": 1,
+    "WeekNewStars": 6,
+    "WeekCDNHits": 15581,
+    "WeekNewUsed": 0,
     "star-dates": [
-        "2021-05-30",
         "2021-05-31",
         "2021-06-01",
         "2021-06-02",
@@ -53,10 +52,10 @@ var data = {
         "2021-07-14",
         "2021-07-15",
         "2021-07-16",
-        "2021-07-17"
+        "2021-07-17",
+        "2021-07-18"
     ],
     "star-total": [
-        1497,
         1501,
         1503,
         1504,
@@ -104,10 +103,10 @@ var data = {
         1606,
         1608,
         1608,
+        1608,
         1608
     ],
     "star-daily": [
-        3,
         4,
         2,
         1,
@@ -155,10 +154,10 @@ var data = {
         4,
         2,
         0,
+        0,
         0
     ],
     "used-dates": [
-        "2021-05-30",
         "2021-05-31",
         "2021-06-01",
         "2021-06-02",
@@ -206,10 +205,10 @@ var data = {
         "2021-07-14",
         "2021-07-15",
         "2021-07-16",
-        "2021-07-17"
+        "2021-07-17",
+        "2021-07-18"
     ],
     "used-total": [
-        200,
         200,
         200,
         200,
@@ -257,10 +256,10 @@ var data = {
         255,
         255,
         255,
+        255,
         255
     ],
     "used-daily": [
-        3,
         0,
         0,
         0,
@@ -308,10 +307,10 @@ var data = {
         0,
         0,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-05-27",
         "2021-05-28",
         "2021-05-29",
         "2021-05-30",
@@ -360,10 +359,10 @@ var data = {
         "2021-07-12",
         "2021-07-13",
         "2021-07-14",
-        "2021-07-15"
+        "2021-07-15",
+        "2021-07-16"
     ],
     "cdn-daily": [
-        4192,
         3058,
         1283,
         1109,
@@ -412,10 +411,10 @@ var data = {
         2604,
         2019,
         1767,
-        4572
+        4572,
+        2690
     ],
     "views-dates": [
-        "2021-07-03",
         "2021-07-04",
         "2021-07-05",
         "2021-07-06",
@@ -432,8 +431,7 @@ var data = {
         "2021-07-17"
     ],
     "views-count": [
-        1,
-        90,
+        89,
         127,
         104,
         245,
@@ -446,10 +444,9 @@ var data = {
         147,
         224,
         142,
-        63
+        68
     ],
     "views-uniques": [
-        1,
         28,
         40,
         38,
@@ -463,7 +460,7 @@ var data = {
         45,
         58,
         32,
-        19
+        21
     ],
     "clones-dates": [
         "2021-07-05",
@@ -498,23 +495,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 258,
-            "uniques": 149
+            "count": 247,
+            "uniques": 141
         },
         {
             "referrer": "Google",
-            "count": 156,
-            "uniques": 97
+            "count": 152,
+            "uniques": 93
         },
         {
             "referrer": "github.com",
-            "count": 98,
-            "uniques": 69
+            "count": 91,
+            "uniques": 66
         },
         {
             "referrer": "pyweb.io",
-            "count": 14,
-            "uniques": 12
+            "count": 13,
+            "uniques": 11
         },
         {
             "referrer": "t.co",
@@ -532,12 +529,12 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "analyticsindiamag.com",
-            "count": 5,
-            "uniques": 2
+            "referrer": "Yahoo",
+            "count": 4,
+            "uniques": 1
         },
         {
-            "referrer": "Yahoo",
+            "referrer": "analyticsindiamag.com",
             "count": 4,
             "uniques": 1
         },
@@ -550,19 +547,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 258
+            "value": 247
         },
         {
             "name": "Google",
-            "value": 156
+            "value": 152
         },
         {
             "name": "github.com",
-            "value": 98
+            "value": 91
         },
         {
             "name": "pyweb.io",
-            "value": 14
+            "value": 13
         },
         {
             "name": "t.co",
@@ -577,11 +574,11 @@ var data = {
             "value": 6
         },
         {
-            "name": "analyticsindiamag.com",
-            "value": 5
+            "name": "Yahoo",
+            "value": 4
         },
         {
-            "name": "Yahoo",
+            "name": "analyticsindiamag.com",
             "value": 4
         },
         {
@@ -592,19 +589,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 149
+            "value": 141
         },
         {
             "name": "Google",
-            "value": 97
+            "value": 93
         },
         {
             "name": "github.com",
-            "value": 69
+            "value": 66
         },
         {
             "name": "pyweb.io",
-            "value": 12
+            "value": 11
         },
         {
             "name": "t.co",
@@ -619,11 +616,11 @@ var data = {
             "value": 4
         },
         {
-            "name": "analyticsindiamag.com",
-            "value": 2
+            "name": "Yahoo",
+            "value": 1
         },
         {
-            "name": "Yahoo",
+            "name": "analyticsindiamag.com",
             "value": 1
         },
         {
