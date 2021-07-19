@@ -431,7 +431,7 @@
         "2021-07-18"
     ],
     "views-count": [
-        121,
+        107,
         104,
         245,
         165,
@@ -447,7 +447,7 @@
         148
     ],
     "views-uniques": [
-        39,
+        35,
         38,
         56,
         56,
@@ -498,23 +498,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 248,
-            "uniques": 140
+            "count": 273,
+            "uniques": 154
         },
         {
             "referrer": "Google",
-            "count": 157,
-            "uniques": 93
+            "count": 163,
+            "uniques": 97
         },
         {
             "referrer": "github.com",
-            "count": 92,
-            "uniques": 62
+            "count": 108,
+            "uniques": 70
         },
         {
             "referrer": "pyweb.io",
-            "count": 13,
-            "uniques": 11
+            "count": 17,
+            "uniques": 15
         },
         {
             "referrer": "t.co",
@@ -542,7 +542,7 @@
             "uniques": 1
         },
         {
-            "referrer": "ww1.pyweb.io",
+            "referrer": "analyticsindiamag.com",
             "count": 3,
             "uniques": 1
         }
@@ -550,19 +550,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 248
+            "value": 273
         },
         {
             "name": "Google",
-            "value": 157
+            "value": 163
         },
         {
             "name": "github.com",
-            "value": 92
+            "value": 108
         },
         {
             "name": "pyweb.io",
-            "value": 13
+            "value": 17
         },
         {
             "name": "t.co",
@@ -585,26 +585,26 @@
             "value": 4
         },
         {
-            "name": "ww1.pyweb.io",
+            "name": "analyticsindiamag.com",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 140
+            "value": 154
         },
         {
             "name": "Google",
-            "value": 93
+            "value": 97
         },
         {
             "name": "github.com",
-            "value": 62
+            "value": 70
         },
         {
             "name": "pyweb.io",
-            "value": 11
+            "value": 15
         },
         {
             "name": "t.co",
@@ -627,7 +627,7 @@
             "value": 1
         },
         {
-            "name": "ww1.pyweb.io",
+            "name": "analyticsindiamag.com",
             "value": 1
         }
     ]
