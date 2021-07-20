@@ -428,10 +428,11 @@ var data = {
         "2021-07-16",
         "2021-07-17",
         "2021-07-18",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
     ],
     "views-count": [
-        88,
+        81,
         245,
         165,
         173,
@@ -444,10 +445,11 @@ var data = {
         142,
         68,
         148,
-        155
+        155,
+        57
     ],
     "views-uniques": [
-        33,
+        31,
         56,
         56,
         44,
@@ -460,7 +462,8 @@ var data = {
         32,
         21,
         36,
-        28
+        28,
+        14
     ],
     "clones-dates": [
         "2021-07-06",
@@ -498,18 +501,18 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 253,
-            "uniques": 140
+            "count": 272,
+            "uniques": 145
         },
         {
             "referrer": "Google",
-            "count": 151,
-            "uniques": 88
+            "count": 162,
+            "uniques": 92
         },
         {
             "referrer": "github.com",
-            "count": 106,
-            "uniques": 68
+            "count": 115,
+            "uniques": 75
         },
         {
             "referrer": "pyweb.io",
@@ -522,13 +525,13 @@ var data = {
             "uniques": 8
         },
         {
-            "referrer": "l.workplace.com",
+            "referrer": "DuckDuckGo",
             "count": 6,
-            "uniques": 4
+            "uniques": 5
         },
         {
-            "referrer": "DuckDuckGo",
-            "count": 5,
+            "referrer": "l.workplace.com",
+            "count": 6,
             "uniques": 4
         },
         {
@@ -537,28 +540,28 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "Yahoo",
+            "referrer": "pypi.org",
             "count": 4,
-            "uniques": 1
+            "uniques": 4
         },
         {
-            "referrer": "ww1.pyweb.io",
-            "count": 3,
+            "referrer": "Yahoo",
+            "count": 4,
             "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 253
+            "value": 272
         },
         {
             "name": "Google",
-            "value": 151
+            "value": 162
         },
         {
             "name": "github.com",
-            "value": 106
+            "value": 115
         },
         {
             "name": "pyweb.io",
@@ -569,38 +572,38 @@ var data = {
             "value": 9
         },
         {
-            "name": "l.workplace.com",
+            "name": "DuckDuckGo",
             "value": 6
         },
         {
-            "name": "DuckDuckGo",
-            "value": 5
+            "name": "l.workplace.com",
+            "value": 6
         },
         {
             "name": "news.ycombinator.com",
             "value": 5
         },
         {
-            "name": "Yahoo",
+            "name": "pypi.org",
             "value": 4
         },
         {
-            "name": "ww1.pyweb.io",
-            "value": 3
+            "name": "Yahoo",
+            "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 140
+            "value": 145
         },
         {
             "name": "Google",
-            "value": 88
+            "value": 92
         },
         {
             "name": "github.com",
-            "value": 68
+            "value": 75
         },
         {
             "name": "pyweb.io",
@@ -611,11 +614,11 @@ var data = {
             "value": 8
         },
         {
-            "name": "l.workplace.com",
-            "value": 4
+            "name": "DuckDuckGo",
+            "value": 5
         },
         {
-            "name": "DuckDuckGo",
+            "name": "l.workplace.com",
             "value": 4
         },
         {
@@ -623,11 +626,11 @@ var data = {
             "value": 2
         },
         {
-            "name": "Yahoo",
-            "value": 1
+            "name": "pypi.org",
+            "value": 4
         },
         {
-            "name": "ww1.pyweb.io",
+            "name": "Yahoo",
             "value": 1
         }
     ]
