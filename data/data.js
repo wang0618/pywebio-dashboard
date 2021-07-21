@@ -432,7 +432,7 @@ var data = {
         "2021-07-21"
     ],
     "views-count": [
-        192,
+        179,
         165,
         173,
         60,
@@ -446,10 +446,10 @@ var data = {
         148,
         155,
         149,
-        108
+        141
     ],
     "views-uniques": [
-        45,
+        38,
         56,
         44,
         27,
@@ -463,7 +463,7 @@ var data = {
         36,
         28,
         34,
-        16
+        26
     ],
     "clones-dates": [
         "2021-07-08",
@@ -542,7 +542,7 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "news.ycombinator.com",
+            "referrer": "ww1.pyweb.io",
             "count": 4,
             "uniques": 1
         }
@@ -585,7 +585,7 @@ var data = {
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "ww1.pyweb.io",
             "value": 4
         }
     ],
@@ -627,7 +627,7 @@ var data = {
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "ww1.pyweb.io",
             "value": 1
         }
     ]
