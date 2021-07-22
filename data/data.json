@@ -428,10 +428,11 @@
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-22"
     ],
     "views-count": [
-        119,
+        92,
         173,
         60,
         105,
@@ -444,10 +445,11 @@
         148,
         155,
         149,
-        196
+        196,
+        32
     ],
     "views-uniques": [
-        36,
+        30,
         44,
         27,
         24,
@@ -460,7 +462,8 @@
         36,
         28,
         34,
-        43
+        43,
+        13
     ],
     "clones-dates": [
         "2021-07-08",
@@ -495,23 +498,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 227,
-            "uniques": 110
+            "count": 247,
+            "uniques": 122
         },
         {
             "referrer": "Google",
-            "count": 143,
-            "uniques": 78
+            "count": 165,
+            "uniques": 88
         },
         {
             "referrer": "github.com",
-            "count": 96,
-            "uniques": 63
+            "count": 106,
+            "uniques": 68
         },
         {
             "referrer": "pyweb.io",
-            "count": 15,
-            "uniques": 13
+            "count": 16,
+            "uniques": 14
         },
         {
             "referrer": "t.co",
@@ -524,12 +527,17 @@
             "uniques": 4
         },
         {
-            "referrer": "pypi.org",
-            "count": 4,
-            "uniques": 4
+            "referrer": "news.ycombinator.com",
+            "count": 6,
+            "uniques": 3
         },
         {
             "referrer": "link.zhihu.com",
+            "count": 5,
+            "uniques": 5
+        },
+        {
+            "referrer": "pypi.org",
             "count": 4,
             "uniques": 4
         },
@@ -537,29 +545,24 @@
             "referrer": "DuckDuckGo",
             "count": 4,
             "uniques": 3
-        },
-        {
-            "referrer": "ww1.pyweb.io",
-            "count": 4,
-            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 227
+            "value": 247
         },
         {
             "name": "Google",
-            "value": 143
+            "value": 165
         },
         {
             "name": "github.com",
-            "value": 96
+            "value": 106
         },
         {
             "name": "pyweb.io",
-            "value": 15
+            "value": 16
         },
         {
             "name": "t.co",
@@ -570,38 +573,38 @@
             "value": 6
         },
         {
+            "name": "news.ycombinator.com",
+            "value": 6
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 5
+        },
+        {
             "name": "pypi.org",
             "value": 4
         },
         {
-            "name": "link.zhihu.com",
-            "value": 4
-        },
-        {
             "name": "DuckDuckGo",
-            "value": 4
-        },
-        {
-            "name": "ww1.pyweb.io",
             "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 110
+            "value": 122
         },
         {
             "name": "Google",
-            "value": 78
+            "value": 88
         },
         {
             "name": "github.com",
-            "value": 63
+            "value": 68
         },
         {
             "name": "pyweb.io",
-            "value": 13
+            "value": 14
         },
         {
             "name": "t.co",
@@ -612,20 +615,20 @@
             "value": 4
         },
         {
-            "name": "pypi.org",
-            "value": 4
+            "name": "news.ycombinator.com",
+            "value": 3
         },
         {
             "name": "link.zhihu.com",
+            "value": 5
+        },
+        {
+            "name": "pypi.org",
             "value": 4
         },
         {
             "name": "DuckDuckGo",
             "value": 3
-        },
-        {
-            "name": "ww1.pyweb.io",
-            "value": 1
         }
     ]
 }
