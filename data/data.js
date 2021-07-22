@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1611,
     "GithubUsed": 262,
-    "WeekNewStars": 5,
-    "WeekCDNHits": 19134,
+    "WeekNewStars": 3,
+    "WeekCDNHits": 19385,
     "WeekNewUsed": 1,
     "star-dates": [
-        "2021-06-03",
         "2021-06-04",
         "2021-06-05",
         "2021-06-06",
@@ -53,10 +52,10 @@ var data = {
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-22"
     ],
     "star-total": [
-        1504,
         1504,
         1504,
         1505,
@@ -104,10 +103,10 @@ var data = {
         1608,
         1609,
         1609,
+        1611,
         1611
     ],
     "star-daily": [
-        0,
         0,
         0,
         1,
@@ -155,10 +154,10 @@ var data = {
         0,
         1,
         0,
-        2
+        2,
+        0
     ],
     "used-dates": [
-        "2021-06-03",
         "2021-06-04",
         "2021-06-05",
         "2021-06-06",
@@ -206,10 +205,10 @@ var data = {
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
-        "2021-07-21"
+        "2021-07-21",
+        "2021-07-22"
     ],
     "used-total": [
-        205,
         207,
         208,
         209,
@@ -257,10 +256,10 @@ var data = {
         262,
         262,
         262,
+        262,
         262
     ],
     "used-daily": [
-        0,
         2,
         1,
         1,
@@ -308,10 +307,10 @@ var data = {
         1,
         0,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-05-31",
         "2021-06-01",
         "2021-06-02",
         "2021-06-03",
@@ -360,10 +359,10 @@ var data = {
         "2021-07-16",
         "2021-07-17",
         "2021-07-18",
-        "2021-07-19"
+        "2021-07-19",
+        "2021-07-20"
     ],
     "cdn-daily": [
-        1776,
         1312,
         2100,
         1712,
@@ -412,10 +411,10 @@ var data = {
         2690,
         1669,
         1922,
-        4495
+        4495,
+        2270
     ],
     "views-dates": [
-        "2021-07-07",
         "2021-07-08",
         "2021-07-09",
         "2021-07-10",
@@ -432,8 +431,7 @@ var data = {
         "2021-07-21"
     ],
     "views-count": [
-        11,
-        165,
+        140,
         173,
         60,
         105,
@@ -446,11 +444,10 @@ var data = {
         148,
         155,
         149,
-        174
+        196
     ],
     "views-uniques": [
-        2,
-        56,
+        47,
         44,
         27,
         24,
@@ -463,7 +460,7 @@ var data = {
         36,
         28,
         34,
-        39
+        43
     ],
     "clones-dates": [
         "2021-07-08",
@@ -476,7 +473,7 @@ var data = {
         "2021-07-19"
     ],
     "clones-count": [
-        2,
+        1,
         1,
         6,
         5,
@@ -486,7 +483,7 @@ var data = {
         2
     ],
     "clones-uniques": [
-        2,
+        1,
         1,
         5,
         5,
@@ -498,33 +495,28 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 253,
-            "uniques": 130
+            "count": 227,
+            "uniques": 110
         },
         {
             "referrer": "Google",
-            "count": 162,
-            "uniques": 91
+            "count": 143,
+            "uniques": 78
         },
         {
             "referrer": "github.com",
-            "count": 111,
-            "uniques": 70
+            "count": 96,
+            "uniques": 63
         },
         {
             "referrer": "pyweb.io",
-            "count": 16,
-            "uniques": 14
+            "count": 15,
+            "uniques": 13
         },
         {
             "referrer": "t.co",
             "count": 9,
             "uniques": 8
-        },
-        {
-            "referrer": "DuckDuckGo",
-            "count": 6,
-            "uniques": 5
         },
         {
             "referrer": "l.workplace.com",
@@ -542,7 +534,12 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "news.ycombinator.com",
+            "referrer": "DuckDuckGo",
+            "count": 4,
+            "uniques": 3
+        },
+        {
+            "referrer": "ww1.pyweb.io",
             "count": 4,
             "uniques": 1
         }
@@ -550,29 +547,25 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 253
+            "value": 227
         },
         {
             "name": "Google",
-            "value": 162
+            "value": 143
         },
         {
             "name": "github.com",
-            "value": 111
+            "value": 96
         },
         {
             "name": "pyweb.io",
-            "value": 16
+            "value": 15
         },
         {
             "name": "t.co",
             "value": 9
         },
         {
-            "name": "DuckDuckGo",
-            "value": 6
-        },
-        {
             "name": "l.workplace.com",
             "value": 6
         },
@@ -585,34 +578,34 @@ var data = {
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
+            "name": "ww1.pyweb.io",
             "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 130
+            "value": 110
         },
         {
             "name": "Google",
-            "value": 91
+            "value": 78
         },
         {
             "name": "github.com",
-            "value": 70
+            "value": 63
         },
         {
             "name": "pyweb.io",
-            "value": 14
+            "value": 13
         },
         {
             "name": "t.co",
             "value": 8
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 5
         },
         {
             "name": "l.workplace.com",
@@ -627,7 +620,11 @@ var data = {
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "DuckDuckGo",
+            "value": 3
+        },
+        {
+            "name": "ww1.pyweb.io",
             "value": 1
         }
     ]
