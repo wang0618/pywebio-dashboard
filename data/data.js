@@ -428,10 +428,11 @@ var data = {
         "2021-07-19",
         "2021-07-20",
         "2021-07-21",
-        "2021-07-22"
+        "2021-07-22",
+        "2021-07-23"
     ],
     "views-count": [
-        104,
+        97,
         60,
         105,
         160,
@@ -444,10 +445,11 @@ var data = {
         155,
         149,
         196,
-        105
+        105,
+        53
     ],
     "views-uniques": [
-        35,
+        32,
         27,
         24,
         34,
@@ -460,7 +462,8 @@ var data = {
         28,
         34,
         43,
-        36
+        36,
+        8
     ],
     "clones-dates": [
         "2021-07-09",
@@ -495,18 +498,18 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 219,
-            "uniques": 107
+            "count": 240,
+            "uniques": 115
         },
         {
             "referrer": "Google",
-            "count": 151,
-            "uniques": 78
+            "count": 169,
+            "uniques": 86
         },
         {
             "referrer": "github.com",
-            "count": 98,
-            "uniques": 62
+            "count": 108,
+            "uniques": 66
         },
         {
             "referrer": "pyweb.io",
@@ -547,15 +550,15 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 219
+            "value": 240
         },
         {
             "name": "Google",
-            "value": 151
+            "value": 169
         },
         {
             "name": "github.com",
-            "value": 98
+            "value": 108
         },
         {
             "name": "pyweb.io",
@@ -589,15 +592,15 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 107
+            "value": 115
         },
         {
             "name": "Google",
-            "value": 78
+            "value": 86
         },
         {
             "name": "github.com",
-            "value": 62
+            "value": 66
         },
         {
             "name": "pyweb.io",
