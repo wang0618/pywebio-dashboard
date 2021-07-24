@@ -428,10 +428,11 @@ var data = {
         "2021-07-20",
         "2021-07-21",
         "2021-07-22",
-        "2021-07-23"
+        "2021-07-23",
+        "2021-07-24"
     ],
     "views-count": [
-        42,
+        37,
         105,
         160,
         119,
@@ -444,10 +445,11 @@ var data = {
         149,
         196,
         105,
-        116
+        116,
+        1
     ],
     "views-uniques": [
-        20,
+        18,
         24,
         34,
         36,
@@ -460,7 +462,8 @@ var data = {
         34,
         43,
         36,
-        26
+        26,
+        1
     ],
     "clones-dates": [
         "2021-07-11",
@@ -495,23 +498,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 233,
-            "uniques": 110
+            "count": 247,
+            "uniques": 117
         },
         {
             "referrer": "Google",
-            "count": 159,
-            "uniques": 79
+            "count": 164,
+            "uniques": 82
         },
         {
             "referrer": "github.com",
-            "count": 103,
+            "count": 111,
             "uniques": 63
         },
         {
             "referrer": "pyweb.io",
-            "count": 14,
-            "uniques": 12
+            "count": 16,
+            "uniques": 14
         },
         {
             "referrer": "t.co",
@@ -519,14 +522,14 @@ var data = {
             "uniques": 8
         },
         {
-            "referrer": "l.workplace.com",
-            "count": 6,
+            "referrer": "news.ycombinator.com",
+            "count": 7,
             "uniques": 4
         },
         {
-            "referrer": "news.ycombinator.com",
+            "referrer": "l.workplace.com",
             "count": 6,
-            "uniques": 3
+            "uniques": 4
         },
         {
             "referrer": "link.zhihu.com",
@@ -534,43 +537,43 @@ var data = {
             "uniques": 5
         },
         {
+            "referrer": "Bing",
+            "count": 4,
+            "uniques": 3
+        },
+        {
             "referrer": "ww1.pyweb.io",
             "count": 4,
             "uniques": 1
-        },
-        {
-            "referrer": "pypi.org",
-            "count": 3,
-            "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 233
+            "value": 247
         },
         {
             "name": "Google",
-            "value": 159
+            "value": 164
         },
         {
             "name": "github.com",
-            "value": 103
+            "value": 111
         },
         {
             "name": "pyweb.io",
-            "value": 14
+            "value": 16
         },
         {
             "name": "t.co",
             "value": 9
         },
         {
-            "name": "l.workplace.com",
-            "value": 6
+            "name": "news.ycombinator.com",
+            "value": 7
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "l.workplace.com",
             "value": 6
         },
         {
@@ -578,22 +581,22 @@ var data = {
             "value": 5
         },
         {
-            "name": "ww1.pyweb.io",
+            "name": "Bing",
             "value": 4
         },
         {
-            "name": "pypi.org",
-            "value": 3
+            "name": "ww1.pyweb.io",
+            "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 110
+            "value": 117
         },
         {
             "name": "Google",
-            "value": 79
+            "value": 82
         },
         {
             "name": "github.com",
@@ -601,31 +604,31 @@ var data = {
         },
         {
             "name": "pyweb.io",
-            "value": 12
+            "value": 14
         },
         {
             "name": "t.co",
             "value": 8
         },
         {
-            "name": "l.workplace.com",
+            "name": "news.ycombinator.com",
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 3
+            "name": "l.workplace.com",
+            "value": 4
         },
         {
             "name": "link.zhihu.com",
             "value": 5
         },
         {
-            "name": "ww1.pyweb.io",
-            "value": 1
+            "name": "Bing",
+            "value": 3
         },
         {
-            "name": "pypi.org",
-            "value": 3
+            "name": "ww1.pyweb.io",
+            "value": 1
         }
     ]
 };
