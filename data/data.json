@@ -428,10 +428,11 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-24",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-07-26"
     ],
     "views-count": [
-        127,
+        103,
         119,
         147,
         224,
@@ -444,10 +445,11 @@
         105,
         116,
         55,
-        94
+        94,
+        36
     ],
     "views-uniques": [
-        30,
+        28,
         36,
         45,
         58,
@@ -460,7 +462,8 @@
         36,
         26,
         17,
-        26
+        26,
+        11
     ],
     "clones-dates": [
         "2021-07-14",
@@ -471,7 +474,8 @@
         "2021-07-22",
         "2021-07-23",
         "2021-07-24",
-        "2021-07-25"
+        "2021-07-25",
+        "2021-07-26"
     ],
     "clones-count": [
         5,
@@ -482,7 +486,8 @@
         3,
         9,
         2,
-        16
+        16,
+        1
     ],
     "clones-uniques": [
         5,
@@ -493,28 +498,29 @@
         3,
         5,
         2,
-        10
+        10,
+        1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 221,
-            "uniques": 106
+            "count": 234,
+            "uniques": 113
         },
         {
             "referrer": "Google",
-            "count": 142,
+            "count": 146,
             "uniques": 75
         },
         {
             "referrer": "github.com",
-            "count": 103,
-            "uniques": 55
+            "count": 115,
+            "uniques": 59
         },
         {
             "referrer": "pyweb.io",
-            "count": 17,
-            "uniques": 15
+            "count": 21,
+            "uniques": 18
         },
         {
             "referrer": "t.co",
@@ -538,7 +544,7 @@
         },
         {
             "referrer": "news.ycombinator.com",
-            "count": 3,
+            "count": 4,
             "uniques": 3
         },
         {
@@ -550,19 +556,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 221
+            "value": 234
         },
         {
             "name": "Google",
-            "value": 142
+            "value": 146
         },
         {
             "name": "github.com",
-            "value": 103
+            "value": 115
         },
         {
             "name": "pyweb.io",
-            "value": 17
+            "value": 21
         },
         {
             "name": "t.co",
@@ -582,7 +588,7 @@
         },
         {
             "name": "news.ycombinator.com",
-            "value": 3
+            "value": 4
         },
         {
             "name": "pypi.org",
@@ -592,7 +598,7 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 106
+            "value": 113
         },
         {
             "name": "Google",
@@ -600,11 +606,11 @@
         },
         {
             "name": "github.com",
-            "value": 55
+            "value": 59
         },
         {
             "name": "pyweb.io",
-            "value": 15
+            "value": 18
         },
         {
             "name": "t.co",
