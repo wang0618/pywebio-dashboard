@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1616,
+    "GithubStars": 1617,
     "GithubUsed": 278,
-    "WeekNewStars": 6,
+    "WeekNewStars": 7,
     "WeekCDNHits": 13912,
     "WeekNewUsed": 9,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1613,
         1615,
         1615,
-        1616
+        1617
     ],
     "star-daily": [
         4,
@@ -155,7 +155,7 @@ var data = {
         2,
         2,
         0,
-        1
+        2
     ],
     "used-dates": [
         "2021-06-12",
@@ -431,7 +431,7 @@ var data = {
         "2021-07-29"
     ],
     "views-count": [
-        122,
+        90,
         68,
         148,
         155,
@@ -447,7 +447,7 @@ var data = {
         73
     ],
     "views-uniques": [
-        28,
+        25,
         21,
         36,
         28,
