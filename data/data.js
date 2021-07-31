@@ -428,10 +428,11 @@ var data = {
         "2021-07-27",
         "2021-07-28",
         "2021-07-29",
-        "2021-07-30"
+        "2021-07-30",
+        "2021-07-31"
     ],
     "views-count": [
-        58,
+        55,
         148,
         155,
         149,
@@ -444,10 +445,11 @@ var data = {
         128,
         120,
         73,
-        87
+        87,
+        19
     ],
     "views-uniques": [
-        15,
+        12,
         36,
         28,
         34,
@@ -460,7 +462,8 @@ var data = {
         43,
         55,
         36,
-        42
+        42,
+        9
     ],
     "clones-dates": [
         "2021-07-17",
@@ -504,18 +507,18 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 197,
-            "uniques": 102
+            "count": 212,
+            "uniques": 110
         },
         {
             "referrer": "Google",
-            "count": 137,
-            "uniques": 75
+            "count": 146,
+            "uniques": 80
         },
         {
             "referrer": "github.com",
-            "count": 107,
-            "uniques": 56
+            "count": 116,
+            "uniques": 63
         },
         {
             "referrer": "pyweb.io",
@@ -549,22 +552,22 @@ var data = {
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 2,
-            "uniques": 2
+            "count": 3,
+            "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 197
+            "value": 212
         },
         {
             "name": "Google",
-            "value": 137
+            "value": 146
         },
         {
             "name": "github.com",
-            "value": 107
+            "value": 116
         },
         {
             "name": "pyweb.io",
@@ -592,21 +595,21 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 2
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 102
+            "value": 110
         },
         {
             "name": "Google",
-            "value": 75
+            "value": 80
         },
         {
             "name": "github.com",
-            "value": 56
+            "value": 63
         },
         {
             "name": "pyweb.io",
@@ -634,7 +637,7 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 2
+            "value": 3
         }
     ]
 };
