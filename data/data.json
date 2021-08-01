@@ -431,7 +431,7 @@
         "2021-07-31"
     ],
     "views-count": [
-        139,
+        114,
         155,
         149,
         196,
@@ -447,7 +447,7 @@
         67
     ],
     "views-uniques": [
-        32,
+        31,
         28,
         34,
         43,
@@ -535,12 +535,12 @@
             "uniques": 4
         },
         {
-            "referrer": "Bing",
+            "referrer": "v2ex.com",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "Bing",
             "count": 4,
             "uniques": 3
         },
@@ -580,11 +580,11 @@
             "value": 4
         },
         {
-            "name": "Bing",
+            "name": "v2ex.com",
             "value": 4
         },
         {
-            "name": "v2ex.com",
+            "name": "Bing",
             "value": 4
         },
         {
@@ -622,11 +622,11 @@
             "value": 4
         },
         {
-            "name": "Bing",
+            "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "Bing",
             "value": 3
         },
         {
