@@ -428,10 +428,11 @@
         "2021-07-29",
         "2021-07-30",
         "2021-07-31",
-        "2021-08-01"
+        "2021-08-01",
+        "2021-08-02"
     ],
     "views-count": [
-        104,
+        82,
         149,
         196,
         105,
@@ -444,10 +445,11 @@
         73,
         87,
         67,
-        106
+        106,
+        17
     ],
     "views-uniques": [
-        25,
+        24,
         34,
         43,
         36,
@@ -460,7 +462,8 @@
         36,
         42,
         30,
-        25
+        25,
+        9
     ],
     "clones-dates": [
         "2021-07-19",
@@ -498,23 +501,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 179,
-            "uniques": 99
+            "count": 185,
+            "uniques": 101
         },
         {
             "referrer": "Google",
-            "count": 136,
-            "uniques": 79
+            "count": 148,
+            "uniques": 86
         },
         {
             "referrer": "github.com",
-            "count": 95,
-            "uniques": 49
+            "count": 100,
+            "uniques": 53
         },
         {
             "referrer": "pyweb.io",
-            "count": 13,
-            "uniques": 13
+            "count": 15,
+            "uniques": 14
         },
         {
             "referrer": "news.ycombinator.com",
@@ -522,12 +525,12 @@
             "uniques": 5
         },
         {
-            "referrer": "analyticsindiamag.com",
+            "referrer": "v2ex.com",
             "count": 5,
             "uniques": 4
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "analyticsindiamag.com",
             "count": 5,
             "uniques": 4
         },
@@ -550,30 +553,30 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 179
+            "value": 185
         },
         {
             "name": "Google",
-            "value": 136
+            "value": 148
         },
         {
             "name": "github.com",
-            "value": 95
+            "value": 100
         },
         {
             "name": "pyweb.io",
-            "value": 13
+            "value": 15
         },
         {
             "name": "news.ycombinator.com",
             "value": 6
         },
         {
-            "name": "analyticsindiamag.com",
+            "name": "v2ex.com",
             "value": 5
         },
         {
-            "name": "v2ex.com",
+            "name": "analyticsindiamag.com",
             "value": 5
         },
         {
@@ -592,30 +595,30 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 99
+            "value": 101
         },
         {
             "name": "Google",
-            "value": 79
+            "value": 86
         },
         {
             "name": "github.com",
-            "value": 49
+            "value": 53
         },
         {
             "name": "pyweb.io",
-            "value": 13
+            "value": 14
         },
         {
             "name": "news.ycombinator.com",
             "value": 5
         },
         {
-            "name": "analyticsindiamag.com",
+            "name": "v2ex.com",
             "value": 4
         },
         {
-            "name": "v2ex.com",
+            "name": "analyticsindiamag.com",
             "value": 4
         },
         {
