@@ -428,10 +428,11 @@ var data = {
         "2021-07-30",
         "2021-07-31",
         "2021-08-01",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-08-03"
     ],
     "views-count": [
-        99,
+        83,
         196,
         105,
         116,
@@ -444,10 +445,11 @@ var data = {
         87,
         67,
         106,
-        134
+        134,
+        34
     ],
     "views-uniques": [
-        23,
+        18,
         43,
         36,
         26,
@@ -460,7 +462,8 @@ var data = {
         42,
         30,
         25,
-        34
+        34,
+        6
     ],
     "clones-dates": [
         "2021-07-22",
@@ -495,36 +498,36 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 171,
-            "uniques": 96
+            "count": 179,
+            "uniques": 100
         },
         {
             "referrer": "Google",
-            "count": 136,
-            "uniques": 80
+            "count": 151,
+            "uniques": 89
         },
         {
             "referrer": "github.com",
-            "count": 91,
-            "uniques": 49
+            "count": 97,
+            "uniques": 52
         },
         {
             "referrer": "pyweb.io",
-            "count": 14,
-            "uniques": 13
+            "count": 17,
+            "uniques": 14
         },
         {
             "referrer": "news.ycombinator.com",
-            "count": 6,
-            "uniques": 5
+            "count": 8,
+            "uniques": 6
         },
         {
-            "referrer": "analyticsindiamag.com",
+            "referrer": "v2ex.com",
             "count": 5,
             "uniques": 4
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "analyticsindiamag.com",
             "count": 5,
             "uniques": 4
         },
@@ -534,7 +537,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "so.com",
+            "referrer": "python.plainenglish.io",
             "count": 2,
             "uniques": 2
         },
@@ -547,30 +550,30 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 171
+            "value": 179
         },
         {
             "name": "Google",
-            "value": 136
+            "value": 151
         },
         {
             "name": "github.com",
-            "value": 91
+            "value": 97
         },
         {
             "name": "pyweb.io",
-            "value": 14
+            "value": 17
         },
         {
             "name": "news.ycombinator.com",
-            "value": 6
-        },
-        {
-            "name": "analyticsindiamag.com",
-            "value": 5
+            "value": 8
         },
         {
             "name": "v2ex.com",
+            "value": 5
+        },
+        {
+            "name": "analyticsindiamag.com",
             "value": 5
         },
         {
@@ -578,7 +581,7 @@ var data = {
             "value": 3
         },
         {
-            "name": "so.com",
+            "name": "python.plainenglish.io",
             "value": 2
         },
         {
@@ -589,30 +592,30 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 96
+            "value": 100
         },
         {
             "name": "Google",
-            "value": 80
+            "value": 89
         },
         {
             "name": "github.com",
-            "value": 49
+            "value": 52
         },
         {
             "name": "pyweb.io",
-            "value": 13
+            "value": 14
         },
         {
             "name": "news.ycombinator.com",
-            "value": 5
-        },
-        {
-            "name": "analyticsindiamag.com",
-            "value": 4
+            "value": 6
         },
         {
             "name": "v2ex.com",
+            "value": 4
+        },
+        {
+            "name": "analyticsindiamag.com",
             "value": 4
         },
         {
@@ -620,7 +623,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "so.com",
+            "name": "python.plainenglish.io",
             "value": 2
         },
         {
