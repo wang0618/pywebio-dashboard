@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1623,
+    "GithubStars": 1624,
     "GithubUsed": 285,
-    "WeekNewStars": 8,
+    "WeekNewStars": 9,
     "WeekCDNHits": 12247,
     "WeekNewUsed": 5,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1621,
         1621,
         1622,
-        1623
+        1624
     ],
     "star-daily": [
         6,
@@ -155,7 +155,7 @@ var data = {
         0,
         0,
         1,
-        1
+        2
     ],
     "used-dates": [
         "2021-06-18",
@@ -432,7 +432,7 @@ var data = {
         "2021-08-05"
     ],
     "views-count": [
-        26,
+        22,
         116,
         55,
         94,
@@ -446,10 +446,10 @@ var data = {
         134,
         178,
         108,
-        28
+        40
     ],
     "views-uniques": [
-        13,
+        9,
         26,
         17,
         26,
@@ -463,7 +463,7 @@ var data = {
         34,
         31,
         37,
-        16
+        21
     ],
     "clones-dates": [
         "2021-07-22",
@@ -535,12 +535,12 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "python.plainenglish.io",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "v2ex.com",
             "count": 4,
             "uniques": 3
         },
@@ -580,11 +580,11 @@ var data = {
             "value": 5
         },
         {
-            "name": "v2ex.com",
+            "name": "python.plainenglish.io",
             "value": 4
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "v2ex.com",
             "value": 4
         },
         {
@@ -622,11 +622,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "python.plainenglish.io",
             "value": 3
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "v2ex.com",
             "value": 3
         },
         {
