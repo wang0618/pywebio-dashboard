@@ -432,7 +432,7 @@ var data = {
         "2021-08-05"
     ],
     "views-count": [
-        18,
+        11,
         116,
         55,
         94,
@@ -446,10 +446,10 @@ var data = {
         134,
         178,
         108,
-        134
+        149
     ],
     "views-uniques": [
-        5,
+        4,
         26,
         17,
         26,
@@ -463,10 +463,9 @@ var data = {
         34,
         31,
         37,
-        35
+        40
     ],
     "clones-dates": [
-        "2021-07-22",
         "2021-07-23",
         "2021-07-24",
         "2021-07-25",
@@ -477,7 +476,6 @@ var data = {
         "2021-08-04"
     ],
     "clones-count": [
-        1,
         9,
         2,
         16,
@@ -488,7 +486,6 @@ var data = {
         11
     ],
     "clones-uniques": [
-        1,
         5,
         2,
         10,
@@ -535,12 +532,12 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "python.plainenglish.io",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "v2ex.com",
             "count": 4,
             "uniques": 3
         },
@@ -580,11 +577,11 @@ var data = {
             "value": 5
         },
         {
-            "name": "v2ex.com",
+            "name": "python.plainenglish.io",
             "value": 4
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "v2ex.com",
             "value": 4
         },
         {
@@ -622,11 +619,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "python.plainenglish.io",
             "value": 3
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "v2ex.com",
             "value": 3
         },
         {
