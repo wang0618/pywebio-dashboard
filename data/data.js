@@ -2,10 +2,9 @@ var data = {
     "GithubStars": 1622,
     "GithubUsed": 285,
     "WeekNewStars": 7,
-    "WeekCDNHits": 12265,
-    "WeekNewUsed": 9,
+    "WeekCDNHits": 12247,
+    "WeekNewUsed": 5,
     "star-dates": [
-        "2021-06-17",
         "2021-06-18",
         "2021-06-19",
         "2021-06-20",
@@ -53,10 +52,10 @@ var data = {
         "2021-08-01",
         "2021-08-02",
         "2021-08-03",
-        "2021-08-04"
+        "2021-08-04",
+        "2021-08-05"
     ],
     "star-total": [
-        1531,
         1537,
         1540,
         1541,
@@ -104,10 +103,10 @@ var data = {
         1621,
         1621,
         1621,
+        1622,
         1622
     ],
     "star-daily": [
-        2,
         6,
         3,
         1,
@@ -155,10 +154,10 @@ var data = {
         1,
         0,
         0,
-        1
+        1,
+        0
     ],
     "used-dates": [
-        "2021-06-17",
         "2021-06-18",
         "2021-06-19",
         "2021-06-20",
@@ -206,10 +205,10 @@ var data = {
         "2021-08-01",
         "2021-08-02",
         "2021-08-03",
-        "2021-08-04"
+        "2021-08-04",
+        "2021-08-05"
     ],
     "used-total": [
-        235,
         235,
         236,
         236,
@@ -257,10 +256,10 @@ var data = {
         283,
         285,
         285,
+        285,
         285
     ],
     "used-daily": [
-        2,
         0,
         1,
         0,
@@ -308,10 +307,10 @@ var data = {
         0,
         2,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-06-14",
         "2021-06-15",
         "2021-06-16",
         "2021-06-17",
@@ -360,10 +359,10 @@ var data = {
         "2021-07-30",
         "2021-07-31",
         "2021-08-01",
-        "2021-08-02"
+        "2021-08-02",
+        "2021-08-03"
     ],
     "cdn-daily": [
-        2750,
         12384,
         2717,
         4930,
@@ -412,10 +411,10 @@ var data = {
         1378,
         817,
         1221,
-        2074
+        2074,
+        1424
     ],
     "views-dates": [
-        "2021-07-21",
         "2021-07-22",
         "2021-07-23",
         "2021-07-24",
@@ -432,8 +431,7 @@ var data = {
         "2021-08-04"
     ],
     "views-count": [
-        10,
-        105,
+        104,
         116,
         55,
         94,
@@ -446,11 +444,10 @@ var data = {
         106,
         134,
         178,
-        99
+        108
     ],
     "views-uniques": [
-        2,
-        36,
+        35,
         26,
         17,
         26,
@@ -463,7 +460,7 @@ var data = {
         25,
         34,
         31,
-        32
+        37
     ],
     "clones-dates": [
         "2021-07-22",
@@ -501,18 +498,18 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 174,
-            "uniques": 94
+            "count": 153,
+            "uniques": 85
         },
         {
             "referrer": "Google",
-            "count": 138,
-            "uniques": 84
+            "count": 120,
+            "uniques": 76
         },
         {
             "referrer": "github.com",
-            "count": 100,
-            "uniques": 57
+            "count": 90,
+            "uniques": 52
         },
         {
             "referrer": "pyweb.io",
@@ -553,15 +550,15 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 174
+            "value": 153
         },
         {
             "name": "Google",
-            "value": 138
+            "value": 120
         },
         {
             "name": "github.com",
-            "value": 100
+            "value": 90
         },
         {
             "name": "pyweb.io",
@@ -595,15 +592,15 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 94
+            "value": 85
         },
         {
             "name": "Google",
-            "value": 84
+            "value": 76
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 52
         },
         {
             "name": "pyweb.io",
