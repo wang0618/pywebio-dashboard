@@ -1,9 +1,9 @@
 {
     "GithubStars": 1625,
-    "GithubUsed": 285,
+    "GithubUsed": 286,
     "WeekNewStars": 7,
     "WeekCDNHits": 11093,
-    "WeekNewUsed": 2,
+    "WeekNewUsed": 3,
     "star-dates": [
         "2021-06-19",
         "2021-06-20",
@@ -256,8 +256,8 @@
         285,
         285,
         285,
-        285,
-        285
+        286,
+        286
     ],
     "used-daily": [
         1,
@@ -307,7 +307,7 @@
         2,
         0,
         0,
-        0,
+        1,
         0
     ],
     "cdn-dates": [
@@ -428,10 +428,11 @@
         "2021-08-02",
         "2021-08-03",
         "2021-08-04",
-        "2021-08-05"
+        "2021-08-05",
+        "2021-08-06"
     ],
     "views-count": [
-        59,
+        40,
         55,
         94,
         128,
@@ -444,10 +445,11 @@
         134,
         178,
         108,
-        174
+        174,
+        4
     ],
     "views-uniques": [
-        20,
+        15,
         17,
         26,
         36,
@@ -460,7 +462,8 @@
         34,
         31,
         37,
-        48
+        48,
+        3
     ],
     "clones-dates": [
         "2021-07-23",
@@ -495,26 +498,31 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 151,
-            "uniques": 82
+            "count": 172,
+            "uniques": 94
         },
         {
             "referrer": "Google",
-            "count": 128,
-            "uniques": 82
+            "count": 139,
+            "uniques": 89
         },
         {
             "referrer": "github.com",
-            "count": 86,
-            "uniques": 55
+            "count": 94,
+            "uniques": 60
         },
         {
             "referrer": "pyweb.io",
-            "count": 19,
-            "uniques": 15
+            "count": 22,
+            "uniques": 17
         },
         {
             "referrer": "analyticsindiamag.com",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "v2ex.com",
             "count": 5,
             "uniques": 4
         },
@@ -529,40 +537,39 @@
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
-            "count": 4,
-            "uniques": 3
-        },
-        {
             "referrer": "python.plainenglish.io",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "so.com",
-            "count": 2,
+            "referrer": "link.zhihu.com",
+            "count": 3,
             "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 151
+            "value": 172
         },
         {
             "name": "Google",
-            "value": 128
+            "value": 139
         },
         {
             "name": "github.com",
-            "value": 86
+            "value": 94
         },
         {
             "name": "pyweb.io",
-            "value": 19
+            "value": 22
         },
         {
             "name": "analyticsindiamag.com",
+            "value": 5
+        },
+        {
+            "name": "v2ex.com",
             "value": 5
         },
         {
@@ -574,37 +581,37 @@
             "value": 5
         },
         {
-            "name": "v2ex.com",
-            "value": 4
-        },
-        {
             "name": "python.plainenglish.io",
             "value": 4
         },
         {
-            "name": "so.com",
-            "value": 2
+            "name": "link.zhihu.com",
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 82
+            "value": 94
         },
         {
             "name": "Google",
-            "value": 82
+            "value": 89
         },
         {
             "name": "github.com",
-            "value": 55
+            "value": 60
         },
         {
             "name": "pyweb.io",
-            "value": 15
+            "value": 17
         },
         {
             "name": "analyticsindiamag.com",
+            "value": 4
+        },
+        {
+            "name": "v2ex.com",
             "value": 4
         },
         {
@@ -616,15 +623,11 @@
             "value": 3
         },
         {
-            "name": "v2ex.com",
-            "value": 3
-        },
-        {
             "name": "python.plainenglish.io",
             "value": 3
         },
         {
-            "name": "so.com",
+            "name": "link.zhihu.com",
             "value": 2
         }
     ]
