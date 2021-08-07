@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1626,
+    "GithubStars": 1627,
     "GithubUsed": 290,
-    "WeekNewStars": 6,
+    "WeekNewStars": 7,
     "WeekCDNHits": 10830,
     "WeekNewUsed": 4,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1622,
         1625,
         1626,
-        1626
+        1627
     ],
     "star-daily": [
         1,
@@ -155,7 +155,7 @@ var data = {
         1,
         3,
         1,
-        0
+        1
     ],
     "used-dates": [
         "2021-06-20",
@@ -400,7 +400,7 @@ var data = {
         2220,
         4572,
         2925,
-        1826,
+        1853,
         1251,
         2038,
         1442,
@@ -431,7 +431,7 @@ var data = {
         "2021-08-06"
     ],
     "views-count": [
-        55,
+        53,
         94,
         128,
         128,
@@ -444,10 +444,10 @@ var data = {
         178,
         108,
         174,
-        91
+        85
     ],
     "views-uniques": [
-        17,
+        15,
         26,
         36,
         43,
@@ -460,7 +460,7 @@ var data = {
         31,
         37,
         48,
-        29
+        27
     ],
     "clones-dates": [
         "2021-07-24",
@@ -514,17 +514,17 @@ var data = {
             "uniques": 16
         },
         {
-            "referrer": "news.ycombinator.com",
-            "count": 5,
-            "uniques": 4
-        },
-        {
             "referrer": "analyticsindiamag.com",
             "count": 5,
             "uniques": 4
         },
         {
             "referrer": "v2ex.com",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "news.ycombinator.com",
             "count": 5,
             "uniques": 4
         },
@@ -562,15 +562,15 @@ var data = {
             "value": 21
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 5
-        },
-        {
             "name": "analyticsindiamag.com",
             "value": 5
         },
         {
             "name": "v2ex.com",
+            "value": 5
+        },
+        {
+            "name": "news.ycombinator.com",
             "value": 5
         },
         {
@@ -604,15 +604,15 @@ var data = {
             "value": 16
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 4
-        },
-        {
             "name": "analyticsindiamag.com",
             "value": 4
         },
         {
             "name": "v2ex.com",
+            "value": 4
+        },
+        {
+            "name": "news.ycombinator.com",
             "value": 4
         },
         {
