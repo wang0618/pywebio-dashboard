@@ -428,10 +428,11 @@ var data = {
         "2021-08-06",
         "2021-08-07",
         "2021-08-08",
-        "2021-08-09"
+        "2021-08-09",
+        "2021-08-10"
     ],
     "views-count": [
-        101,
+        70,
         120,
         73,
         87,
@@ -444,10 +445,11 @@ var data = {
         91,
         117,
         51,
-        68
+        68,
+        13
     ],
     "views-uniques": [
-        33,
+        30,
         55,
         36,
         42,
@@ -460,7 +462,8 @@ var data = {
         29,
         28,
         23,
-        28
+        28,
+        5
     ],
     "clones-dates": [
         "2021-07-27",
@@ -495,23 +498,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 134,
-            "uniques": 76
+            "count": 142,
+            "uniques": 79
         },
         {
             "referrer": "Google",
-            "count": 127,
-            "uniques": 85
+            "count": 130,
+            "uniques": 87
         },
         {
             "referrer": "github.com",
-            "count": 91,
-            "uniques": 58
+            "count": 98,
+            "uniques": 62
         },
         {
             "referrer": "pyweb.io",
-            "count": 21,
-            "uniques": 14
+            "count": 23,
+            "uniques": 16
         },
         {
             "referrer": "hub.fastgit.org",
@@ -547,19 +550,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 134
+            "value": 142
         },
         {
             "name": "Google",
-            "value": 127
+            "value": 130
         },
         {
             "name": "github.com",
-            "value": 91
+            "value": 98
         },
         {
             "name": "pyweb.io",
-            "value": 21
+            "value": 23
         },
         {
             "name": "hub.fastgit.org",
@@ -589,19 +592,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 76
+            "value": 79
         },
         {
             "name": "Google",
-            "value": 85
+            "value": 87
         },
         {
             "name": "github.com",
-            "value": 58
+            "value": 62
         },
         {
             "name": "pyweb.io",
-            "value": 14
+            "value": 16
         },
         {
             "name": "hub.fastgit.org",
