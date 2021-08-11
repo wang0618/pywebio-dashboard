@@ -1,11 +1,10 @@
 {
     "GithubStars": 1630,
     "GithubUsed": 291,
-    "WeekNewStars": 10,
-    "WeekCDNHits": 15031,
+    "WeekNewStars": 9,
+    "WeekCDNHits": 15321,
     "WeekNewUsed": 2,
     "star-dates": [
-        "2021-06-23",
         "2021-06-24",
         "2021-06-25",
         "2021-06-26",
@@ -53,10 +52,10 @@
         "2021-08-07",
         "2021-08-08",
         "2021-08-09",
-        "2021-08-10"
+        "2021-08-10",
+        "2021-08-11"
     ],
     "star-total": [
-        1555,
         1568,
         1569,
         1576,
@@ -104,10 +103,10 @@
         1627,
         1627,
         1629,
+        1630,
         1630
     ],
     "star-daily": [
-        2,
         13,
         1,
         7,
@@ -155,10 +154,10 @@
         2,
         0,
         2,
-        1
+        1,
+        0
     ],
     "used-dates": [
-        "2021-06-23",
         "2021-06-24",
         "2021-06-25",
         "2021-06-26",
@@ -206,10 +205,10 @@
         "2021-08-07",
         "2021-08-08",
         "2021-08-09",
-        "2021-08-10"
+        "2021-08-10",
+        "2021-08-11"
     ],
     "used-total": [
-        245,
         246,
         248,
         249,
@@ -257,10 +256,10 @@
         291,
         291,
         291,
+        291,
         291
     ],
     "used-daily": [
-        3,
         1,
         2,
         1,
@@ -308,10 +307,10 @@
         0,
         0,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-06-20",
         "2021-06-21",
         "2021-06-22",
         "2021-06-23",
@@ -360,10 +359,10 @@
         "2021-08-05",
         "2021-08-06",
         "2021-08-07",
-        "2021-08-08"
+        "2021-08-08",
+        "2021-08-09"
     ],
     "cdn-daily": [
-        1197,
         3027,
         1249,
         2235,
@@ -404,18 +403,18 @@
         4579,
         3326,
         2736,
-        1465,
-        1221,
-        2074,
-        1424,
+        1524,
+        1673,
+        3313,
+        1477,
         2117,
         1817,
         3731,
         3119,
-        749
+        749,
+        2311
     ],
     "views-dates": [
-        "2021-07-27",
         "2021-07-28",
         "2021-07-29",
         "2021-07-30",
@@ -432,8 +431,7 @@
         "2021-08-10"
     ],
     "views-count": [
-        4,
-        120,
+        118,
         73,
         87,
         67,
@@ -446,11 +444,10 @@
         117,
         51,
         68,
-        106
+        107
     ],
     "views-uniques": [
-        2,
-        55,
+        54,
         36,
         42,
         30,
@@ -463,10 +460,9 @@
         28,
         23,
         28,
-        37
+        38
     ],
     "clones-dates": [
-        "2021-07-27",
         "2021-07-28",
         "2021-07-29",
         "2021-08-04",
@@ -477,7 +473,6 @@
         "2021-08-10"
     ],
     "clones-count": [
-        1,
         6,
         4,
         11,
@@ -488,7 +483,6 @@
         1
     ],
     "clones-uniques": [
-        1,
         6,
         4,
         11,
@@ -501,23 +495,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 142,
-            "uniques": 79
+            "count": 129,
+            "uniques": 70
         },
         {
             "referrer": "Google",
-            "count": 130,
-            "uniques": 87
+            "count": 117,
+            "uniques": 77
         },
         {
             "referrer": "github.com",
-            "count": 98,
-            "uniques": 62
+            "count": 85,
+            "uniques": 54
         },
         {
             "referrer": "pyweb.io",
-            "count": 23,
-            "uniques": 16
+            "count": 22,
+            "uniques": 15
         },
         {
             "referrer": "hub.fastgit.org",
@@ -526,18 +520,8 @@
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 7,
-            "uniques": 4
-        },
-        {
-            "referrer": "analyticsindiamag.com",
-            "count": 4,
-            "uniques": 4
-        },
-        {
-            "referrer": "news.ycombinator.com",
-            "count": 4,
-            "uniques": 4
+            "count": 6,
+            "uniques": 3
         },
         {
             "referrer": "python.plainenglish.io",
@@ -548,24 +532,34 @@
             "referrer": "pypi.org",
             "count": 4,
             "uniques": 2
+        },
+        {
+            "referrer": "v2ex.com",
+            "count": 3,
+            "uniques": 3
+        },
+        {
+            "referrer": "Bing",
+            "count": 3,
+            "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 142
+            "value": 129
         },
         {
             "name": "Google",
-            "value": 130
+            "value": 117
         },
         {
             "name": "github.com",
-            "value": 98
+            "value": 85
         },
         {
             "name": "pyweb.io",
-            "value": 23
+            "value": 22
         },
         {
             "name": "hub.fastgit.org",
@@ -573,15 +567,7 @@
         },
         {
             "name": "DuckDuckGo",
-            "value": 7
-        },
-        {
-            "name": "analyticsindiamag.com",
-            "value": 4
-        },
-        {
-            "name": "news.ycombinator.com",
-            "value": 4
+            "value": 6
         },
         {
             "name": "python.plainenglish.io",
@@ -590,24 +576,32 @@
         {
             "name": "pypi.org",
             "value": 4
+        },
+        {
+            "name": "v2ex.com",
+            "value": 3
+        },
+        {
+            "name": "Bing",
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 79
+            "value": 70
         },
         {
             "name": "Google",
-            "value": 87
+            "value": 77
         },
         {
             "name": "github.com",
-            "value": 62
+            "value": 54
         },
         {
             "name": "pyweb.io",
-            "value": 16
+            "value": 15
         },
         {
             "name": "hub.fastgit.org",
@@ -615,15 +609,7 @@
         },
         {
             "name": "DuckDuckGo",
-            "value": 4
-        },
-        {
-            "name": "analyticsindiamag.com",
-            "value": 4
-        },
-        {
-            "name": "news.ycombinator.com",
-            "value": 4
+            "value": 3
         },
         {
             "name": "python.plainenglish.io",
@@ -632,6 +618,14 @@
         {
             "name": "pypi.org",
             "value": 2
+        },
+        {
+            "name": "v2ex.com",
+            "value": 3
+        },
+        {
+            "name": "Bing",
+            "value": 3
         }
     ]
 }
