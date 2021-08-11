@@ -2,7 +2,7 @@
     "GithubStars": 1630,
     "GithubUsed": 292,
     "WeekNewStars": 9,
-    "WeekCDNHits": 16373,
+    "WeekCDNHits": 15321,
     "WeekNewUsed": 3,
     "star-dates": [
         "2021-06-24",
@@ -406,7 +406,7 @@
         1524,
         1673,
         3313,
-        2529,
+        1477,
         2117,
         1817,
         3731,
@@ -428,10 +428,11 @@
         "2021-08-07",
         "2021-08-08",
         "2021-08-09",
-        "2021-08-10"
+        "2021-08-10",
+        "2021-08-11"
     ],
     "views-count": [
-        106,
+        92,
         73,
         87,
         67,
@@ -444,10 +445,11 @@
         117,
         51,
         68,
-        110
+        110,
+        3
     ],
     "views-uniques": [
-        48,
+        42,
         36,
         42,
         30,
@@ -460,7 +462,8 @@
         28,
         23,
         28,
-        40
+        40,
+        3
     ],
     "clones-dates": [
         "2021-07-28",
@@ -473,7 +476,7 @@
         "2021-08-10"
     ],
     "clones-count": [
-        5,
+        3,
         4,
         11,
         23,
@@ -483,7 +486,7 @@
         1
     ],
     "clones-uniques": [
-        5,
+        3,
         4,
         11,
         11,
@@ -495,23 +498,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 129,
-            "uniques": 70
+            "count": 143,
+            "uniques": 78
         },
         {
             "referrer": "Google",
-            "count": 117,
-            "uniques": 77
+            "count": 132,
+            "uniques": 87
         },
         {
             "referrer": "github.com",
-            "count": 85,
-            "uniques": 54
+            "count": 93,
+            "uniques": 61
         },
         {
             "referrer": "pyweb.io",
-            "count": 22,
-            "uniques": 15
+            "count": 23,
+            "uniques": 16
         },
         {
             "referrer": "hub.fastgit.org",
@@ -520,11 +523,16 @@
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 6,
-            "uniques": 3
+            "count": 7,
+            "uniques": 4
         },
         {
             "referrer": "python.plainenglish.io",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "link.zhihu.com",
             "count": 4,
             "uniques": 3
         },
@@ -532,11 +540,6 @@
             "referrer": "pypi.org",
             "count": 4,
             "uniques": 2
-        },
-        {
-            "referrer": "v2ex.com",
-            "count": 3,
-            "uniques": 3
         },
         {
             "referrer": "Bing",
@@ -547,19 +550,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 129
+            "value": 143
         },
         {
             "name": "Google",
-            "value": 117
+            "value": 132
         },
         {
             "name": "github.com",
-            "value": 85
+            "value": 93
         },
         {
             "name": "pyweb.io",
-            "value": 22
+            "value": 23
         },
         {
             "name": "hub.fastgit.org",
@@ -567,19 +570,19 @@
         },
         {
             "name": "DuckDuckGo",
-            "value": 6
+            "value": 7
         },
         {
             "name": "python.plainenglish.io",
+            "value": 5
+        },
+        {
+            "name": "link.zhihu.com",
             "value": 4
         },
         {
             "name": "pypi.org",
             "value": 4
-        },
-        {
-            "name": "v2ex.com",
-            "value": 3
         },
         {
             "name": "Bing",
@@ -589,19 +592,19 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 70
+            "value": 78
         },
         {
             "name": "Google",
-            "value": 77
+            "value": 87
         },
         {
             "name": "github.com",
-            "value": 54
+            "value": 61
         },
         {
             "name": "pyweb.io",
-            "value": 15
+            "value": 16
         },
         {
             "name": "hub.fastgit.org",
@@ -609,19 +612,19 @@
         },
         {
             "name": "DuckDuckGo",
-            "value": 3
+            "value": 4
         },
         {
             "name": "python.plainenglish.io",
+            "value": 4
+        },
+        {
+            "name": "link.zhihu.com",
             "value": 3
         },
         {
             "name": "pypi.org",
             "value": 2
-        },
-        {
-            "name": "v2ex.com",
-            "value": 3
         },
         {
             "name": "Bing",
