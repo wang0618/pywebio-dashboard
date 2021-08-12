@@ -431,7 +431,7 @@ var data = {
         "2021-08-11"
     ],
     "views-count": [
-        55,
+        50,
         87,
         67,
         106,
@@ -447,7 +447,7 @@ var data = {
         114
     ],
     "views-uniques": [
-        27,
+        24,
         42,
         30,
         25,
@@ -495,18 +495,18 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 132,
-            "uniques": 70
+            "count": 146,
+            "uniques": 78
         },
         {
             "referrer": "Google",
-            "count": 120,
+            "count": 123,
             "uniques": 81
         },
         {
             "referrer": "github.com",
-            "count": 86,
-            "uniques": 57
+            "count": 93,
+            "uniques": 62
         },
         {
             "referrer": "pyweb.io",
@@ -520,8 +520,8 @@ var data = {
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 7,
-            "uniques": 4
+            "count": 8,
+            "uniques": 5
         },
         {
             "referrer": "python.plainenglish.io",
@@ -547,15 +547,15 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 132
+            "value": 146
         },
         {
             "name": "Google",
-            "value": 120
+            "value": 123
         },
         {
             "name": "github.com",
-            "value": 86
+            "value": 93
         },
         {
             "name": "pyweb.io",
@@ -567,7 +567,7 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 7
+            "value": 8
         },
         {
             "name": "python.plainenglish.io",
@@ -589,7 +589,7 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 70
+            "value": 78
         },
         {
             "name": "Google",
@@ -597,7 +597,7 @@ var data = {
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 62
         },
         {
             "name": "pyweb.io",
@@ -609,7 +609,7 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 4
+            "value": 5
         },
         {
             "name": "python.plainenglish.io",
