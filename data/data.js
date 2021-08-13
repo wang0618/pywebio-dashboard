@@ -428,10 +428,11 @@ var data = {
         "2021-08-09",
         "2021-08-10",
         "2021-08-11",
-        "2021-08-12"
+        "2021-08-12",
+        "2021-08-13"
     ],
     "views-count": [
-        68,
+        56,
         67,
         106,
         134,
@@ -444,10 +445,11 @@ var data = {
         68,
         110,
         114,
-        58
+        60,
+        5
     ],
     "views-uniques": [
-        33,
+        28,
         30,
         25,
         34,
@@ -460,7 +462,8 @@ var data = {
         28,
         40,
         32,
-        29
+        30,
+        3
     ],
     "clones-dates": [
         "2021-08-04",
@@ -470,7 +473,8 @@ var data = {
         "2021-08-09",
         "2021-08-10",
         "2021-08-11",
-        "2021-08-12"
+        "2021-08-12",
+        "2021-08-13"
     ],
     "clones-count": [
         11,
@@ -480,7 +484,8 @@ var data = {
         1,
         1,
         4,
-        3
+        3,
+        1
     ],
     "clones-uniques": [
         11,
@@ -490,28 +495,29 @@ var data = {
         1,
         1,
         3,
-        3
+        3,
+        1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 131,
-            "uniques": 70
+            "count": 138,
+            "uniques": 74
         },
         {
             "referrer": "Google",
-            "count": 114,
-            "uniques": 76
+            "count": 122,
+            "uniques": 81
         },
         {
             "referrer": "github.com",
-            "count": 84,
-            "uniques": 56
+            "count": 87,
+            "uniques": 59
         },
         {
             "referrer": "pyweb.io",
-            "count": 22,
-            "uniques": 15
+            "count": 34,
+            "uniques": 19
         },
         {
             "referrer": "hub.fastgit.org",
@@ -539,7 +545,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "news.ycombinator.com",
+            "referrer": "Bing",
             "count": 3,
             "uniques": 3
         }
@@ -547,19 +553,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 131
+            "value": 138
         },
         {
             "name": "Google",
-            "value": 114
+            "value": 122
         },
         {
             "name": "github.com",
-            "value": 84
+            "value": 87
         },
         {
             "name": "pyweb.io",
-            "value": 22
+            "value": 34
         },
         {
             "name": "hub.fastgit.org",
@@ -582,26 +588,26 @@ var data = {
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "Bing",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 70
+            "value": 74
         },
         {
             "name": "Google",
-            "value": 76
+            "value": 81
         },
         {
             "name": "github.com",
-            "value": 56
+            "value": 59
         },
         {
             "name": "pyweb.io",
-            "value": 15
+            "value": 19
         },
         {
             "name": "hub.fastgit.org",
@@ -624,7 +630,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "Bing",
             "value": 3
         }
     ]
