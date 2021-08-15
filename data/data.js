@@ -1,8 +1,8 @@
 var data = {
     "GithubStars": 1637,
-    "GithubUsed": 298,
+    "GithubUsed": 299,
     "WeekNewStars": 10,
-    "WeekCDNHits": 20312,
+    "WeekCDNHits": 20143,
     "WeekNewUsed": 7,
     "star-dates": [
         "2021-06-28",
@@ -209,55 +209,55 @@ var data = {
         "2021-08-15"
     ],
     "used-total": [
-        251,
-        253,
+        252,
         254,
-        257,
+        255,
         258,
         259,
         260,
-        260,
-        260,
-        263,
-        265,
-        267,
-        269,
+        261,
+        261,
+        261,
+        264,
+        266,
+        268,
         270,
         271,
         272,
-        272,
-        272,
-        272,
-        272,
+        273,
         273,
         273,
         273,
         273,
         274,
+        274,
+        274,
+        274,
         275,
-        275,
-        275,
-        277,
-        277,
-        280,
-        284,
-        287,
-        287,
-        287,
-        289,
-        289,
-        289,
+        276,
+        276,
+        276,
+        278,
+        278,
+        281,
+        285,
+        288,
+        288,
+        288,
+        290,
+        290,
         290,
         291,
-        291,
-        291,
-        291,
-        291,
         292,
-        294,
-        297,
+        292,
+        292,
+        292,
+        292,
+        293,
+        295,
         298,
-        298
+        299,
+        299
     ],
     "used-daily": [
         1,
@@ -405,8 +405,8 @@ var data = {
         3579,
         3864,
         4036,
-        5962,
-        4159,
+        5632,
+        3990,
         1352,
         3137,
         2264,
@@ -431,7 +431,7 @@ var data = {
         "2021-08-14"
     ],
     "views-count": [
-        104,
+        101,
         134,
         178,
         108,
@@ -444,10 +444,10 @@ var data = {
         114,
         60,
         89,
-        67
+        68
     ],
     "views-uniques": [
-        23,
+        21,
         34,
         31,
         37,
@@ -460,7 +460,7 @@ var data = {
         32,
         30,
         30,
-        22
+        23
     ],
     "clones-dates": [
         "2021-08-04",
@@ -472,7 +472,8 @@ var data = {
         "2021-08-11",
         "2021-08-12",
         "2021-08-13",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-15"
     ],
     "clones-count": [
         11,
@@ -484,6 +485,7 @@ var data = {
         4,
         3,
         3,
+        1,
         1
     ],
     "clones-uniques": [
@@ -496,28 +498,29 @@ var data = {
         3,
         3,
         3,
+        1,
         1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 133,
-            "uniques": 71
+            "count": 142,
+            "uniques": 74
         },
         {
             "referrer": "Google",
-            "count": 107,
-            "uniques": 72
+            "count": 112,
+            "uniques": 75
         },
         {
             "referrer": "github.com",
-            "count": 86,
-            "uniques": 57
+            "count": 89,
+            "uniques": 59
         },
         {
             "referrer": "pyweb.io",
-            "count": 41,
-            "uniques": 23
+            "count": 42,
+            "uniques": 24
         },
         {
             "referrer": "hub.fastgit.org",
@@ -553,19 +556,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 133
+            "value": 142
         },
         {
             "name": "Google",
-            "value": 107
+            "value": 112
         },
         {
             "name": "github.com",
-            "value": 86
+            "value": 89
         },
         {
             "name": "pyweb.io",
-            "value": 41
+            "value": 42
         },
         {
             "name": "hub.fastgit.org",
@@ -595,19 +598,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 71
+            "value": 74
         },
         {
             "name": "Google",
-            "value": 72
+            "value": 75
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 59
         },
         {
             "name": "pyweb.io",
-            "value": 23
+            "value": 24
         },
         {
             "name": "hub.fastgit.org",
