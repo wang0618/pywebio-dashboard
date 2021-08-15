@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1636,
-    "GithubUsed": 297,
+    "GithubUsed": 298,
     "WeekNewStars": 9,
-    "WeekCDNHits": 21157,
-    "WeekNewUsed": 6,
+    "WeekCDNHits": 20143,
+    "WeekNewUsed": 7,
     "star-dates": [
-        "2021-06-27",
         "2021-06-28",
         "2021-06-29",
         "2021-06-30",
@@ -53,10 +52,10 @@ var data = {
         "2021-08-11",
         "2021-08-12",
         "2021-08-13",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-15"
     ],
     "star-total": [
-        1576,
         1577,
         1578,
         1579,
@@ -104,10 +103,10 @@ var data = {
         1633,
         1635,
         1635,
+        1636,
         1636
     ],
     "star-daily": [
-        0,
         1,
         1,
         1,
@@ -155,10 +154,10 @@ var data = {
         3,
         2,
         0,
-        1
+        1,
+        0
     ],
     "used-dates": [
-        "2021-06-27",
         "2021-06-28",
         "2021-06-29",
         "2021-06-30",
@@ -206,10 +205,10 @@ var data = {
         "2021-08-11",
         "2021-08-12",
         "2021-08-13",
-        "2021-08-14"
+        "2021-08-14",
+        "2021-08-15"
     ],
     "used-total": [
-        250,
         251,
         253,
         254,
@@ -257,10 +256,10 @@ var data = {
         292,
         294,
         297,
-        297
+        298,
+        298
     ],
     "used-daily": [
-        1,
         1,
         2,
         1,
@@ -308,10 +307,10 @@ var data = {
         1,
         2,
         3,
+        1,
         0
     ],
     "cdn-dates": [
-        "2021-06-24",
         "2021-06-25",
         "2021-06-26",
         "2021-06-27",
@@ -360,10 +359,10 @@ var data = {
         "2021-08-09",
         "2021-08-10",
         "2021-08-11",
-        "2021-08-12"
+        "2021-08-12",
+        "2021-08-13"
     ],
     "cdn-daily": [
-        2328,
         2036,
         1408,
         1316,
@@ -404,18 +403,18 @@ var data = {
         1673,
         3313,
         3579,
-        3766,
-        3019,
-        4625,
+        3864,
+        4036,
+        5632,
         3990,
         1352,
         3137,
         2264,
-        1441,
-        4348
+        1631,
+        5032,
+        2737
     ],
     "views-dates": [
-        "2021-07-31",
         "2021-08-01",
         "2021-08-02",
         "2021-08-03",
@@ -432,8 +431,7 @@ var data = {
         "2021-08-14"
     ],
     "views-count": [
-        3,
-        106,
+        105,
         134,
         178,
         108,
@@ -446,11 +444,10 @@ var data = {
         114,
         60,
         89,
-        66
+        67
     ],
     "views-uniques": [
-        2,
-        25,
+        24,
         34,
         31,
         37,
@@ -463,7 +460,7 @@ var data = {
         32,
         30,
         30,
-        21
+        22
     ],
     "clones-dates": [
         "2021-08-04",
@@ -504,22 +501,22 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 139,
-            "uniques": 74
+            "count": 133,
+            "uniques": 71
         },
         {
             "referrer": "Google",
-            "count": 119,
-            "uniques": 79
+            "count": 107,
+            "uniques": 72
         },
         {
             "referrer": "github.com",
-            "count": 91,
-            "uniques": 61
+            "count": 86,
+            "uniques": 57
         },
         {
             "referrer": "pyweb.io",
-            "count": 43,
+            "count": 41,
             "uniques": 23
         },
         {
@@ -548,27 +545,27 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "pypi.org",
-            "count": 4,
-            "uniques": 2
+            "referrer": "news.ycombinator.com",
+            "count": 3,
+            "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 139
+            "value": 133
         },
         {
             "name": "Google",
-            "value": 119
+            "value": 107
         },
         {
             "name": "github.com",
-            "value": 91
+            "value": 86
         },
         {
             "name": "pyweb.io",
-            "value": 43
+            "value": 41
         },
         {
             "name": "hub.fastgit.org",
@@ -591,22 +588,22 @@ var data = {
             "value": 4
         },
         {
-            "name": "pypi.org",
-            "value": 4
+            "name": "news.ycombinator.com",
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 74
+            "value": 71
         },
         {
             "name": "Google",
-            "value": 79
+            "value": 72
         },
         {
             "name": "github.com",
-            "value": 61
+            "value": 57
         },
         {
             "name": "pyweb.io",
@@ -633,8 +630,8 @@ var data = {
             "value": 3
         },
         {
-            "name": "pypi.org",
-            "value": 2
+            "name": "news.ycombinator.com",
+            "value": 3
         }
     ]
 };
