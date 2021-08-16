@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1637,
     "GithubUsed": 300,
-    "WeekNewStars": 10,
-    "WeekCDNHits": 20143,
+    "WeekNewStars": 8,
+    "WeekCDNHits": 18922,
     "WeekNewUsed": 8,
     "star-dates": [
-        "2021-06-28",
         "2021-06-29",
         "2021-06-30",
         "2021-07-01",
@@ -53,10 +52,10 @@ var data = {
         "2021-08-12",
         "2021-08-13",
         "2021-08-14",
-        "2021-08-15"
+        "2021-08-15",
+        "2021-08-16"
     ],
     "star-total": [
-        1577,
         1578,
         1579,
         1579,
@@ -104,10 +103,10 @@ var data = {
         1635,
         1635,
         1636,
+        1637,
         1637
     ],
     "star-daily": [
-        1,
         1,
         1,
         0,
@@ -155,10 +154,10 @@ var data = {
         2,
         0,
         1,
-        1
+        1,
+        0
     ],
     "used-dates": [
-        "2021-06-28",
         "2021-06-29",
         "2021-06-30",
         "2021-07-01",
@@ -206,10 +205,10 @@ var data = {
         "2021-08-12",
         "2021-08-13",
         "2021-08-14",
-        "2021-08-15"
+        "2021-08-15",
+        "2021-08-16"
     ],
     "used-total": [
-        252,
         254,
         255,
         258,
@@ -257,10 +256,10 @@ var data = {
         295,
         298,
         300,
+        300,
         300
     ],
     "used-daily": [
-        1,
         2,
         1,
         3,
@@ -308,10 +307,10 @@ var data = {
         2,
         3,
         2,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-06-25",
         "2021-06-26",
         "2021-06-27",
         "2021-06-28",
@@ -360,10 +359,10 @@ var data = {
         "2021-08-10",
         "2021-08-11",
         "2021-08-12",
-        "2021-08-13"
+        "2021-08-13",
+        "2021-08-14"
     ],
     "cdn-daily": [
-        2036,
         1408,
         1316,
         12639,
@@ -405,17 +404,17 @@ var data = {
         3579,
         3864,
         4036,
-        5632,
-        3990,
-        1352,
-        3137,
+        5962,
+        5581,
+        2336,
+        3250,
         2264,
         1631,
         5032,
-        2737
+        2738,
+        1671
     ],
     "views-dates": [
-        "2021-08-01",
         "2021-08-02",
         "2021-08-03",
         "2021-08-04",
@@ -432,8 +431,7 @@ var data = {
         "2021-08-15"
     ],
     "views-count": [
-        2,
-        134,
+        131,
         178,
         108,
         174,
@@ -446,11 +444,10 @@ var data = {
         60,
         89,
         68,
-        49
+        58
     ],
     "views-uniques": [
-        2,
-        34,
+        33,
         31,
         37,
         48,
@@ -463,7 +460,7 @@ var data = {
         30,
         30,
         23,
-        21
+        22
     ],
     "clones-dates": [
         "2021-08-04",
@@ -489,7 +486,7 @@ var data = {
         3,
         3,
         1,
-        3
+        4
     ],
     "clones-uniques": [
         11,
@@ -502,28 +499,28 @@ var data = {
         3,
         3,
         1,
-        3
+        4
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 142,
-            "uniques": 74
+            "count": 134,
+            "uniques": 68
         },
         {
             "referrer": "Google",
-            "count": 112,
-            "uniques": 75
+            "count": 97,
+            "uniques": 67
         },
         {
             "referrer": "github.com",
-            "count": 89,
-            "uniques": 59
+            "count": 83,
+            "uniques": 56
         },
         {
             "referrer": "pyweb.io",
-            "count": 42,
-            "uniques": 24
+            "count": 39,
+            "uniques": 22
         },
         {
             "referrer": "hub.fastgit.org",
@@ -536,11 +533,6 @@ var data = {
             "uniques": 5
         },
         {
-            "referrer": "python.plainenglish.io",
-            "count": 5,
-            "uniques": 4
-        },
-        {
             "referrer": "Bing",
             "count": 4,
             "uniques": 4
@@ -551,27 +543,32 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "news.ycombinator.com",
+            "referrer": "yandex.ru",
             "count": 3,
-            "uniques": 3
+            "uniques": 2
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 3,
+            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 142
+            "value": 134
         },
         {
             "name": "Google",
-            "value": 112
+            "value": 97
         },
         {
             "name": "github.com",
-            "value": 89
+            "value": 83
         },
         {
             "name": "pyweb.io",
-            "value": 42
+            "value": 39
         },
         {
             "name": "hub.fastgit.org",
@@ -582,10 +579,6 @@ var data = {
             "value": 9
         },
         {
-            "name": "python.plainenglish.io",
-            "value": 5
-        },
-        {
             "name": "Bing",
             "value": 4
         },
@@ -594,26 +587,30 @@ var data = {
             "value": 4
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "yandex.ru",
+            "value": 3
+        },
+        {
+            "name": "python.plainenglish.io",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 74
+            "value": 68
         },
         {
             "name": "Google",
-            "value": 75
+            "value": 67
         },
         {
             "name": "github.com",
-            "value": 59
+            "value": 56
         },
         {
             "name": "pyweb.io",
-            "value": 24
+            "value": 22
         },
         {
             "name": "hub.fastgit.org",
@@ -624,10 +621,6 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
-            "value": 4
-        },
-        {
             "name": "Bing",
             "value": 4
         },
@@ -636,8 +629,12 @@ var data = {
             "value": 3
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 3
+            "name": "yandex.ru",
+            "value": 2
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 2
         }
     ]
 };
