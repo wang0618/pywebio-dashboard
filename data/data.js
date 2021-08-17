@@ -2,7 +2,7 @@ var data = {
     "GithubStars": 1639,
     "GithubUsed": 300,
     "WeekNewStars": 9,
-    "WeekCDNHits": 21528,
+    "WeekCDNHits": 21456,
     "WeekNewUsed": 8,
     "star-dates": [
         "2021-06-30",
@@ -408,7 +408,7 @@ var data = {
         2336,
         4716,
         3402,
-        1853,
+        1781,
         5032,
         2738,
         1671,
@@ -428,10 +428,11 @@ var data = {
         "2021-08-13",
         "2021-08-14",
         "2021-08-15",
-        "2021-08-16"
+        "2021-08-16",
+        "2021-08-17"
     ],
     "views-count": [
-        144,
+        143,
         108,
         174,
         91,
@@ -444,7 +445,8 @@ var data = {
         89,
         68,
         59,
-        164
+        164,
+        49
     ],
     "views-uniques": [
         27,
@@ -460,7 +462,8 @@ var data = {
         30,
         23,
         23,
-        35
+        35,
+        7
     ],
     "clones-dates": [
         "2021-08-04",
@@ -507,23 +510,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 122,
-            "uniques": 63
+            "count": 137,
+            "uniques": 69
         },
         {
             "referrer": "Google",
-            "count": 92,
-            "uniques": 65
+            "count": 101,
+            "uniques": 72
         },
         {
             "referrer": "github.com",
-            "count": 72,
-            "uniques": 50
+            "count": 76,
+            "uniques": 51
         },
         {
             "referrer": "pyweb.io",
-            "count": 41,
-            "uniques": 23
+            "count": 44,
+            "uniques": 26
         },
         {
             "referrer": "hub.fastgit.org",
@@ -536,14 +539,14 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "Bing",
-            "count": 4,
+            "referrer": "link.zhihu.com",
+            "count": 5,
             "uniques": 4
         },
         {
-            "referrer": "link.zhihu.com",
+            "referrer": "Bing",
             "count": 4,
-            "uniques": 3
+            "uniques": 4
         },
         {
             "referrer": "analyticsindiamag.com",
@@ -551,7 +554,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "yandex.ru",
+            "referrer": "python.plainenglish.io",
             "count": 3,
             "uniques": 2
         }
@@ -559,19 +562,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 122
+            "value": 137
         },
         {
             "name": "Google",
-            "value": 92
+            "value": 101
         },
         {
             "name": "github.com",
-            "value": 72
+            "value": 76
         },
         {
             "name": "pyweb.io",
-            "value": 41
+            "value": 44
         },
         {
             "name": "hub.fastgit.org",
@@ -582,11 +585,11 @@ var data = {
             "value": 6
         },
         {
-            "name": "Bing",
-            "value": 4
+            "name": "link.zhihu.com",
+            "value": 5
         },
         {
-            "name": "link.zhihu.com",
+            "name": "Bing",
             "value": 4
         },
         {
@@ -594,26 +597,26 @@ var data = {
             "value": 3
         },
         {
-            "name": "yandex.ru",
+            "name": "python.plainenglish.io",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 63
+            "value": 69
         },
         {
             "name": "Google",
-            "value": 65
+            "value": 72
         },
         {
             "name": "github.com",
-            "value": 50
+            "value": 51
         },
         {
             "name": "pyweb.io",
-            "value": 23
+            "value": 26
         },
         {
             "name": "hub.fastgit.org",
@@ -624,19 +627,19 @@ var data = {
             "value": 4
         },
         {
-            "name": "Bing",
+            "name": "link.zhihu.com",
             "value": 4
         },
         {
-            "name": "link.zhihu.com",
-            "value": 3
+            "name": "Bing",
+            "value": 4
         },
         {
             "name": "analyticsindiamag.com",
             "value": 2
         },
         {
-            "name": "yandex.ru",
+            "name": "python.plainenglish.io",
             "value": 2
         }
     ]
