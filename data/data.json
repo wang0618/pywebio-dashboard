@@ -2,7 +2,7 @@
     "GithubStars": 1640,
     "GithubUsed": 301,
     "WeekNewStars": 7,
-    "WeekCDNHits": 22089,
+    "WeekCDNHits": 21771,
     "WeekNewUsed": 7,
     "star-dates": [
         "2021-07-01",
@@ -409,8 +409,8 @@
         3402,
         2193,
         6551,
-        3609,
-        1919,
+        3539,
+        1671,
         2116,
         2299
     ],
@@ -428,10 +428,11 @@
         "2021-08-14",
         "2021-08-15",
         "2021-08-16",
-        "2021-08-17"
+        "2021-08-17",
+        "2021-08-18"
     ],
     "views-count": [
-        87,
+        86,
         174,
         91,
         117,
@@ -444,10 +445,11 @@
         68,
         59,
         164,
-        155
+        155,
+        9
     ],
     "views-uniques": [
-        29,
+        28,
         48,
         29,
         28,
@@ -460,7 +462,8 @@
         23,
         23,
         35,
-        32
+        32,
+        6
     ],
     "clones-dates": [
         "2021-08-04",
@@ -510,23 +513,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 125,
-            "uniques": 64
+            "count": 141,
+            "uniques": 74
         },
         {
             "referrer": "Google",
-            "count": 88,
-            "uniques": 63
+            "count": 95,
+            "uniques": 68
         },
         {
             "referrer": "github.com",
-            "count": 72,
-            "uniques": 48
+            "count": 77,
+            "uniques": 50
         },
         {
             "referrer": "pyweb.io",
-            "count": 43,
-            "uniques": 25
+            "count": 47,
+            "uniques": 29
         },
         {
             "referrer": "hub.fastgit.org",
@@ -549,8 +552,8 @@
             "uniques": 4
         },
         {
-            "referrer": "analyticsindiamag.com",
-            "count": 3,
+            "referrer": "news.ycombinator.com",
+            "count": 4,
             "uniques": 2
         },
         {
@@ -562,19 +565,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 125
+            "value": 141
         },
         {
             "name": "Google",
-            "value": 88
+            "value": 95
         },
         {
             "name": "github.com",
-            "value": 72
+            "value": 77
         },
         {
             "name": "pyweb.io",
-            "value": 43
+            "value": 47
         },
         {
             "name": "hub.fastgit.org",
@@ -593,8 +596,8 @@
             "value": 4
         },
         {
-            "name": "analyticsindiamag.com",
-            "value": 3
+            "name": "news.ycombinator.com",
+            "value": 4
         },
         {
             "name": "yandex.ru",
@@ -604,19 +607,19 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 64
+            "value": 74
         },
         {
             "name": "Google",
-            "value": 63
+            "value": 68
         },
         {
             "name": "github.com",
-            "value": 48
+            "value": 50
         },
         {
             "name": "pyweb.io",
-            "value": 25
+            "value": 29
         },
         {
             "name": "hub.fastgit.org",
@@ -635,7 +638,7 @@
             "value": 4
         },
         {
-            "name": "analyticsindiamag.com",
+            "name": "news.ycombinator.com",
             "value": 2
         },
         {
