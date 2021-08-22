@@ -431,7 +431,7 @@ var data = {
         "2021-08-21"
     ],
     "views-count": [
-        51,
+        48,
         68,
         110,
         114,
@@ -447,7 +447,7 @@ var data = {
         59
     ],
     "views-uniques": [
-        23,
+        20,
         28,
         40,
         32,
@@ -557,7 +557,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "python.plainenglish.io",
+            "referrer": "Bing",
             "count": 2,
             "uniques": 2
         }
@@ -600,7 +600,7 @@ var data = {
             "value": 3
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "Bing",
             "value": 2
         }
     ],
@@ -642,7 +642,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "Bing",
             "value": 2
         }
     ]
