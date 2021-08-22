@@ -1,11 +1,10 @@
 {
     "GithubStars": 1641,
     "GithubUsed": 306,
-    "WeekNewStars": 6,
-    "WeekCDNHits": 24537,
+    "WeekNewStars": 5,
+    "WeekCDNHits": 23413,
     "WeekNewUsed": 3,
     "star-dates": [
-        "2021-07-04",
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
@@ -53,10 +52,10 @@
         "2021-08-18",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-21"
+        "2021-08-21",
+        "2021-08-22"
     ],
     "star-total": [
-        1581,
         1584,
         1586,
         1586,
@@ -104,10 +103,10 @@
         1640,
         1641,
         1641,
+        1641,
         1641
     ],
     "star-daily": [
-        0,
         3,
         2,
         0,
@@ -155,10 +154,10 @@
         1,
         1,
         0,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-04",
         "2021-07-05",
         "2021-07-06",
         "2021-07-07",
@@ -206,10 +205,10 @@
         "2021-08-18",
         "2021-08-19",
         "2021-08-20",
-        "2021-08-21"
+        "2021-08-21",
+        "2021-08-22"
     ],
     "used-total": [
-        263,
         263,
         263,
         266,
@@ -257,10 +256,10 @@
         304,
         304,
         304,
+        306,
         306
     ],
     "used-daily": [
-        1,
         0,
         0,
         3,
@@ -308,10 +307,10 @@
         1,
         0,
         0,
-        2
+        2,
+        0
     ],
     "cdn-dates": [
-        "2021-07-01",
         "2021-07-02",
         "2021-07-03",
         "2021-07-04",
@@ -360,10 +359,10 @@
         "2021-08-16",
         "2021-08-17",
         "2021-08-18",
-        "2021-08-19"
+        "2021-08-19",
+        "2021-08-20"
     ],
     "cdn-daily": [
-        1790,
         2216,
         2064,
         5464,
@@ -412,10 +411,10 @@
         3365,
         5597,
         3060,
-        3831
+        3831,
+        2485
     ],
     "views-dates": [
-        "2021-08-07",
         "2021-08-08",
         "2021-08-09",
         "2021-08-10",
@@ -432,7 +431,6 @@
         "2021-08-21"
     ],
     "views-count": [
-        5,
         51,
         68,
         110,
@@ -446,10 +444,9 @@
         83,
         134,
         43,
-        57
+        59
     ],
     "views-uniques": [
-        1,
         23,
         28,
         40,
@@ -463,7 +460,7 @@
         36,
         33,
         26,
-        26
+        28
     ],
     "clones-dates": [
         "2021-08-08",
@@ -482,7 +479,7 @@
         "2021-08-21"
     ],
     "clones-count": [
-        45,
+        44,
         1,
         1,
         4,
@@ -498,7 +495,7 @@
         11
     ],
     "clones-uniques": [
-        15,
+        14,
         1,
         1,
         3,
@@ -516,28 +513,28 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 137,
-            "uniques": 69
+            "count": 136,
+            "uniques": 68
         },
         {
             "referrer": "Google",
-            "count": 78,
-            "uniques": 63
+            "count": 73,
+            "uniques": 59
         },
         {
             "referrer": "github.com",
-            "count": 64,
-            "uniques": 43
+            "count": 59,
+            "uniques": 40
         },
         {
             "referrer": "pyweb.io",
-            "count": 54,
-            "uniques": 34
+            "count": 52,
+            "uniques": 33
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 8,
-            "uniques": 6
+            "count": 6,
+            "uniques": 5
         },
         {
             "referrer": "link.zhihu.com",
@@ -555,36 +552,36 @@
             "uniques": 2
         },
         {
-            "referrer": "Bing",
-            "count": 3,
-            "uniques": 3
-        },
-        {
             "referrer": "analyticsindiamag.com",
             "count": 3,
+            "uniques": 2
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 2,
             "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 137
+            "value": 136
         },
         {
             "name": "Google",
-            "value": 78
+            "value": 73
         },
         {
             "name": "github.com",
-            "value": 64
+            "value": 59
         },
         {
             "name": "pyweb.io",
-            "value": 54
+            "value": 52
         },
         {
             "name": "DuckDuckGo",
-            "value": 8
+            "value": 6
         },
         {
             "name": "link.zhihu.com",
@@ -599,34 +596,34 @@
             "value": 4
         },
         {
-            "name": "Bing",
+            "name": "analyticsindiamag.com",
             "value": 3
         },
         {
-            "name": "analyticsindiamag.com",
-            "value": 3
+            "name": "python.plainenglish.io",
+            "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 69
+            "value": 68
         },
         {
             "name": "Google",
-            "value": 63
+            "value": 59
         },
         {
             "name": "github.com",
-            "value": 43
+            "value": 40
         },
         {
             "name": "pyweb.io",
-            "value": 34
+            "value": 33
         },
         {
             "name": "DuckDuckGo",
-            "value": 6
+            "value": 5
         },
         {
             "name": "link.zhihu.com",
@@ -641,11 +638,11 @@
             "value": 2
         },
         {
-            "name": "Bing",
-            "value": 3
+            "name": "analyticsindiamag.com",
+            "value": 2
         },
         {
-            "name": "analyticsindiamag.com",
+            "name": "python.plainenglish.io",
             "value": 2
         }
     ]
