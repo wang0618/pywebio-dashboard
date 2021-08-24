@@ -428,10 +428,11 @@ var data = {
         "2021-08-20",
         "2021-08-21",
         "2021-08-22",
-        "2021-08-23"
+        "2021-08-23",
+        "2021-08-24"
     ],
     "views-count": [
-        97,
+        83,
         114,
         60,
         89,
@@ -444,10 +445,11 @@ var data = {
         43,
         59,
         37,
-        105
+        107,
+        23
     ],
     "views-uniques": [
-        35,
+        30,
         32,
         30,
         30,
@@ -460,7 +462,8 @@ var data = {
         26,
         28,
         19,
-        27
+        29,
+        10
     ],
     "clones-dates": [
         "2021-08-10",
@@ -513,26 +516,31 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 126,
-            "uniques": 63
+            "count": 134,
+            "uniques": 67
         },
         {
             "referrer": "Google",
-            "count": 60,
-            "uniques": 48
+            "count": 63,
+            "uniques": 51
         },
         {
             "referrer": "pyweb.io",
-            "count": 54,
-            "uniques": 33
+            "count": 57,
+            "uniques": 36
         },
         {
             "referrer": "github.com",
-            "count": 49,
-            "uniques": 33
+            "count": 55,
+            "uniques": 37
         },
         {
             "referrer": "news.ycombinator.com",
+            "count": 6,
+            "uniques": 4
+        },
+        {
+            "referrer": "link.zhihu.com",
             "count": 6,
             "uniques": 4
         },
@@ -542,19 +550,14 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "link.zhihu.com",
-            "count": 5,
-            "uniques": 3
-        },
-        {
             "referrer": "Yahoo",
             "count": 5,
             "uniques": 1
         },
         {
             "referrer": "Bing",
-            "count": 3,
-            "uniques": 3
+            "count": 4,
+            "uniques": 4
         },
         {
             "referrer": "analyticsindiamag.com",
@@ -565,30 +568,30 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 126
+            "value": 134
         },
         {
             "name": "Google",
-            "value": 60
+            "value": 63
         },
         {
             "name": "pyweb.io",
-            "value": 54
+            "value": 57
         },
         {
             "name": "github.com",
-            "value": 49
+            "value": 55
         },
         {
             "name": "news.ycombinator.com",
             "value": 6
         },
         {
-            "name": "DuckDuckGo",
-            "value": 5
+            "name": "link.zhihu.com",
+            "value": 6
         },
         {
-            "name": "link.zhihu.com",
+            "name": "DuckDuckGo",
             "value": 5
         },
         {
@@ -597,7 +600,7 @@ var data = {
         },
         {
             "name": "Bing",
-            "value": 3
+            "value": 4
         },
         {
             "name": "analyticsindiamag.com",
@@ -607,22 +610,26 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 63
+            "value": 67
         },
         {
             "name": "Google",
-            "value": 48
+            "value": 51
         },
         {
             "name": "pyweb.io",
-            "value": 33
+            "value": 36
         },
         {
             "name": "github.com",
-            "value": 33
+            "value": 37
         },
         {
             "name": "news.ycombinator.com",
+            "value": 4
+        },
+        {
+            "name": "link.zhihu.com",
             "value": 4
         },
         {
@@ -630,16 +637,12 @@ var data = {
             "value": 4
         },
         {
-            "name": "link.zhihu.com",
-            "value": 3
-        },
-        {
             "name": "Yahoo",
             "value": 1
         },
         {
             "name": "Bing",
-            "value": 3
+            "value": 4
         },
         {
             "name": "analyticsindiamag.com",
