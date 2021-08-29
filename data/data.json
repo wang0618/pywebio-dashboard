@@ -428,10 +428,11 @@
         "2021-08-25",
         "2021-08-26",
         "2021-08-27",
-        "2021-08-28"
+        "2021-08-28",
+        "2021-08-29"
     ],
     "views-count": [
-        58,
+        56,
         164,
         155,
         83,
@@ -444,10 +445,11 @@
         170,
         78,
         155,
-        86
+        86,
+        4
     ],
     "views-uniques": [
-        22,
+        20,
         35,
         32,
         36,
@@ -460,7 +462,8 @@
         38,
         34,
         37,
-        23
+        23,
+        4
     ],
     "clones-dates": [
         "2021-08-15",
@@ -510,23 +513,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 152,
-            "uniques": 72
+            "count": 165,
+            "uniques": 79
         },
         {
             "referrer": "Google",
-            "count": 78,
-            "uniques": 56
+            "count": 86,
+            "uniques": 60
         },
         {
             "referrer": "github.com",
-            "count": 61,
-            "uniques": 33
+            "count": 71,
+            "uniques": 37
         },
         {
             "referrer": "pyweb.io",
-            "count": 46,
-            "uniques": 35
+            "count": 54,
+            "uniques": 39
         },
         {
             "referrer": "Bing",
@@ -535,8 +538,8 @@
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 7,
-            "uniques": 5
+            "count": 8,
+            "uniques": 6
         },
         {
             "referrer": "news.ycombinator.com",
@@ -549,32 +552,32 @@
             "uniques": 1
         },
         {
-            "referrer": "t.co",
-            "count": 2,
-            "uniques": 2
+            "referrer": "DuckDuckGo",
+            "count": 3,
+            "uniques": 3
         },
         {
-            "referrer": "DuckDuckGo",
-            "count": 2,
+            "referrer": "cn.bing.com",
+            "count": 3,
             "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 152
+            "value": 165
         },
         {
             "name": "Google",
-            "value": 78
+            "value": 86
         },
         {
             "name": "github.com",
-            "value": 61
+            "value": 71
         },
         {
             "name": "pyweb.io",
-            "value": 46
+            "value": 54
         },
         {
             "name": "Bing",
@@ -582,7 +585,7 @@
         },
         {
             "name": "link.zhihu.com",
-            "value": 7
+            "value": 8
         },
         {
             "name": "news.ycombinator.com",
@@ -593,30 +596,30 @@
             "value": 5
         },
         {
-            "name": "t.co",
-            "value": 2
+            "name": "DuckDuckGo",
+            "value": 3
         },
         {
-            "name": "DuckDuckGo",
-            "value": 2
+            "name": "cn.bing.com",
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 72
+            "value": 79
         },
         {
             "name": "Google",
-            "value": 56
+            "value": 60
         },
         {
             "name": "github.com",
-            "value": 33
+            "value": 37
         },
         {
             "name": "pyweb.io",
-            "value": 35
+            "value": 39
         },
         {
             "name": "Bing",
@@ -624,7 +627,7 @@
         },
         {
             "name": "link.zhihu.com",
-            "value": 5
+            "value": 6
         },
         {
             "name": "news.ycombinator.com",
@@ -635,11 +638,11 @@
             "value": 1
         },
         {
-            "name": "t.co",
-            "value": 2
+            "name": "DuckDuckGo",
+            "value": 3
         },
         {
-            "name": "DuckDuckGo",
+            "name": "cn.bing.com",
             "value": 2
         }
     ]
