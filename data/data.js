@@ -428,7 +428,8 @@ var data = {
         "2021-08-26",
         "2021-08-27",
         "2021-08-28",
-        "2021-08-29"
+        "2021-08-29",
+        "2021-08-30"
     ],
     "views-count": [
         158,
@@ -444,7 +445,8 @@ var data = {
         78,
         155,
         86,
-        27
+        30,
+        14
     ],
     "views-uniques": [
         34,
@@ -460,7 +462,8 @@ var data = {
         34,
         37,
         23,
-        16
+        19,
+        6
     ],
     "clones-dates": [
         "2021-08-16",
@@ -510,23 +513,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 150,
-            "uniques": 75
+            "count": 155,
+            "uniques": 79
         },
         {
             "referrer": "Google",
-            "count": 77,
-            "uniques": 54
+            "count": 82,
+            "uniques": 59
         },
         {
             "referrer": "github.com",
-            "count": 67,
+            "count": 68,
             "uniques": 37
         },
         {
             "referrer": "pyweb.io",
-            "count": 51,
-            "uniques": 36
+            "count": 53,
+            "uniques": 37
         },
         {
             "referrer": "Bing",
@@ -562,19 +565,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 150
+            "value": 155
         },
         {
             "name": "Google",
-            "value": 77
+            "value": 82
         },
         {
             "name": "github.com",
-            "value": 67
+            "value": 68
         },
         {
             "name": "pyweb.io",
-            "value": 51
+            "value": 53
         },
         {
             "name": "Bing",
@@ -604,11 +607,11 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 75
+            "value": 79
         },
         {
             "name": "Google",
-            "value": 54
+            "value": 59
         },
         {
             "name": "github.com",
@@ -616,7 +619,7 @@ var data = {
         },
         {
             "name": "pyweb.io",
-            "value": 36
+            "value": 37
         },
         {
             "name": "Bing",
