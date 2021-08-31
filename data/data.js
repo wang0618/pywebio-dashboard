@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1642,
     "GithubUsed": 325,
-    "WeekNewStars": 1,
-    "WeekCDNHits": 18371,
-    "WeekNewUsed": 10,
+    "WeekNewStars": 0,
+    "WeekCDNHits": 19353,
+    "WeekNewUsed": 8,
     "star-dates": [
-        "2021-07-13",
         "2021-07-14",
         "2021-07-15",
         "2021-07-16",
@@ -53,10 +52,10 @@ var data = {
         "2021-08-27",
         "2021-08-28",
         "2021-08-29",
-        "2021-08-30"
+        "2021-08-30",
+        "2021-08-31"
     ],
     "star-total": [
-        1599,
         1603,
         1605,
         1605,
@@ -104,10 +103,10 @@ var data = {
         1642,
         1642,
         1642,
+        1642,
         1642
     ],
     "star-daily": [
-        0,
         4,
         2,
         0,
@@ -155,10 +154,10 @@ var data = {
         0,
         0,
         0,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-13",
         "2021-07-14",
         "2021-07-15",
         "2021-07-16",
@@ -206,10 +205,10 @@ var data = {
         "2021-08-27",
         "2021-08-28",
         "2021-08-29",
-        "2021-08-30"
+        "2021-08-30",
+        "2021-08-31"
     ],
     "used-total": [
-        279,
         279,
         279,
         279,
@@ -257,10 +256,10 @@ var data = {
         321,
         322,
         324,
+        325,
         325
     ],
     "used-daily": [
-        1,
         0,
         0,
         0,
@@ -308,10 +307,10 @@ var data = {
         0,
         1,
         2,
-        1
+        1,
+        0
     ],
     "cdn-dates": [
-        "2021-07-10",
         "2021-07-11",
         "2021-07-12",
         "2021-07-13",
@@ -360,10 +359,10 @@ var data = {
         "2021-08-25",
         "2021-08-26",
         "2021-08-27",
-        "2021-08-28"
+        "2021-08-28",
+        "2021-08-29"
     ],
     "cdn-daily": [
-        1044,
         885,
         2604,
         2019,
@@ -412,10 +411,10 @@ var data = {
         2582,
         2522,
         3558,
-        3145
+        3145,
+        2920
     ],
     "views-dates": [
-        "2021-08-16",
         "2021-08-17",
         "2021-08-18",
         "2021-08-19",
@@ -432,8 +431,7 @@ var data = {
         "2021-08-30"
     ],
     "views-count": [
-        6,
-        155,
+        154,
         83,
         134,
         43,
@@ -446,10 +444,9 @@ var data = {
         155,
         86,
         30,
-        37
+        39
     ],
     "views-uniques": [
-        3,
         32,
         36,
         33,
@@ -463,7 +460,7 @@ var data = {
         37,
         23,
         19,
-        23
+        25
     ],
     "clones-dates": [
         "2021-08-17",
@@ -510,23 +507,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 155,
-            "uniques": 79
+            "count": 139,
+            "uniques": 70
         },
         {
             "referrer": "Google",
-            "count": 82,
-            "uniques": 59
+            "count": 75,
+            "uniques": 54
         },
         {
             "referrer": "github.com",
-            "count": 68,
-            "uniques": 37
+            "count": 63,
+            "uniques": 36
         },
         {
             "referrer": "pyweb.io",
-            "count": 53,
-            "uniques": 37
+            "count": 49,
+            "uniques": 33
         },
         {
             "referrer": "Bing",
@@ -539,14 +536,14 @@ var data = {
             "uniques": 6
         },
         {
-            "referrer": "news.ycombinator.com",
-            "count": 7,
-            "uniques": 5
-        },
-        {
             "referrer": "Yahoo",
             "count": 5,
             "uniques": 1
+        },
+        {
+            "referrer": "news.ycombinator.com",
+            "count": 4,
+            "uniques": 4
         },
         {
             "referrer": "DuckDuckGo",
@@ -562,19 +559,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 155
+            "value": 139
         },
         {
             "name": "Google",
-            "value": 82
+            "value": 75
         },
         {
             "name": "github.com",
-            "value": 68
+            "value": 63
         },
         {
             "name": "pyweb.io",
-            "value": 53
+            "value": 49
         },
         {
             "name": "Bing",
@@ -585,12 +582,12 @@ var data = {
             "value": 7
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 7
-        },
-        {
             "name": "Yahoo",
             "value": 5
+        },
+        {
+            "name": "news.ycombinator.com",
+            "value": 4
         },
         {
             "name": "DuckDuckGo",
@@ -604,19 +601,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 79
+            "value": 70
         },
         {
             "name": "Google",
-            "value": 59
+            "value": 54
         },
         {
             "name": "github.com",
-            "value": 37
+            "value": 36
         },
         {
             "name": "pyweb.io",
-            "value": 37
+            "value": 33
         },
         {
             "name": "Bing",
@@ -627,12 +624,12 @@ var data = {
             "value": 6
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 5
-        },
-        {
             "name": "Yahoo",
             "value": 1
+        },
+        {
+            "name": "news.ycombinator.com",
+            "value": 4
         },
         {
             "name": "DuckDuckGo",
