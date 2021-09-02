@@ -2,10 +2,9 @@
     "GithubStars": 1642,
     "GithubUsed": 330,
     "WeekNewStars": 1,
-    "WeekCDNHits": 19305,
-    "WeekNewUsed": 12,
+    "WeekCDNHits": 22460,
+    "WeekNewUsed": 9,
     "star-dates": [
-        "2021-07-15",
         "2021-07-16",
         "2021-07-17",
         "2021-07-18",
@@ -53,10 +52,10 @@
         "2021-08-29",
         "2021-08-30",
         "2021-08-31",
-        "2021-09-01"
+        "2021-09-01",
+        "2021-09-02"
     ],
     "star-total": [
-        1604,
         1604,
         1604,
         1604,
@@ -104,10 +103,10 @@
         1641,
         1641,
         1642,
+        1642,
         1642
     ],
     "star-daily": [
-        2,
         0,
         0,
         0,
@@ -155,10 +154,10 @@
         0,
         0,
         1,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-15",
         "2021-07-16",
         "2021-07-17",
         "2021-07-18",
@@ -206,10 +205,10 @@
         "2021-08-29",
         "2021-08-30",
         "2021-08-31",
-        "2021-09-01"
+        "2021-09-01",
+        "2021-09-02"
     ],
     "used-total": [
-        279,
         279,
         279,
         280,
@@ -257,10 +256,10 @@
         324,
         325,
         330,
+        330,
         330
     ],
     "used-daily": [
-        0,
         0,
         0,
         1,
@@ -308,10 +307,10 @@
         2,
         1,
         5,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-07-12",
         "2021-07-13",
         "2021-07-14",
         "2021-07-15",
@@ -360,10 +359,10 @@
         "2021-08-27",
         "2021-08-28",
         "2021-08-29",
-        "2021-08-30"
+        "2021-08-30",
+        "2021-08-31"
     ],
     "cdn-daily": [
-        2604,
         2019,
         1767,
         4572,
@@ -412,10 +411,10 @@
         3558,
         3145,
         2920,
-        2383
+        2383,
+        5350
     ],
     "views-dates": [
-        "2021-08-18",
         "2021-08-19",
         "2021-08-20",
         "2021-08-21",
@@ -432,8 +431,7 @@
         "2021-09-01"
     ],
     "views-count": [
-        6,
-        134,
+        128,
         43,
         59,
         37,
@@ -446,11 +444,10 @@
         30,
         42,
         143,
-        58
+        61
     ],
     "views-uniques": [
-        3,
-        33,
+        31,
         26,
         28,
         19,
@@ -463,7 +460,7 @@
         19,
         26,
         45,
-        28
+        30
     ],
     "clones-dates": [
         "2021-08-19",
@@ -510,23 +507,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 144,
-            "uniques": 75
+            "count": 127,
+            "uniques": 69
         },
         {
             "referrer": "Google",
-            "count": 81,
-            "uniques": 54
+            "count": 77,
+            "uniques": 51
         },
         {
             "referrer": "github.com",
-            "count": 74,
-            "uniques": 42
+            "count": 68,
+            "uniques": 39
         },
         {
             "referrer": "pyweb.io",
-            "count": 52,
-            "uniques": 35
+            "count": 47,
+            "uniques": 30
         },
         {
             "referrer": "Bing",
@@ -539,17 +536,12 @@
             "uniques": 3
         },
         {
-            "referrer": "Yahoo",
-            "count": 5,
-            "uniques": 1
+            "referrer": "news.ycombinator.com",
+            "count": 3,
+            "uniques": 3
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 4,
-            "uniques": 4
-        },
-        {
-            "referrer": "news.ycombinator.com",
             "count": 3,
             "uniques": 3
         },
@@ -557,24 +549,29 @@
             "referrer": "reddit.com",
             "count": 2,
             "uniques": 2
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 2,
+            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 144
+            "value": 127
         },
         {
             "name": "Google",
-            "value": 81
+            "value": 77
         },
         {
             "name": "github.com",
-            "value": 74
+            "value": 68
         },
         {
             "name": "pyweb.io",
-            "value": 52
+            "value": 47
         },
         {
             "name": "Bing",
@@ -585,38 +582,38 @@
             "value": 8
         },
         {
-            "name": "Yahoo",
-            "value": 5
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 4
-        },
-        {
             "name": "news.ycombinator.com",
             "value": 3
         },
         {
+            "name": "link.zhihu.com",
+            "value": 3
+        },
+        {
             "name": "reddit.com",
+            "value": 2
+        },
+        {
+            "name": "DuckDuckGo",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 75
+            "value": 69
         },
         {
             "name": "Google",
-            "value": 54
+            "value": 51
         },
         {
             "name": "github.com",
-            "value": 42
+            "value": 39
         },
         {
             "name": "pyweb.io",
-            "value": 35
+            "value": 30
         },
         {
             "name": "Bing",
@@ -627,19 +624,19 @@
             "value": 3
         },
         {
-            "name": "Yahoo",
-            "value": 1
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 4
-        },
-        {
             "name": "news.ycombinator.com",
             "value": 3
         },
         {
+            "name": "link.zhihu.com",
+            "value": 3
+        },
+        {
             "name": "reddit.com",
+            "value": 2
+        },
+        {
+            "name": "DuckDuckGo",
             "value": 2
         }
     ]
