@@ -2,10 +2,9 @@ var data = {
     "GithubStars": 1643,
     "GithubUsed": 331,
     "WeekNewStars": 2,
-    "WeekCDNHits": 23415,
-    "WeekNewUsed": 10,
+    "WeekCDNHits": 25121,
+    "WeekNewUsed": 9,
     "star-dates": [
-        "2021-07-17",
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
@@ -53,10 +52,10 @@ var data = {
         "2021-08-31",
         "2021-09-01",
         "2021-09-02",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-04"
     ],
     "star-total": [
-        1604,
         1604,
         1605,
         1605,
@@ -104,11 +103,11 @@ var data = {
         1642,
         1642,
         1643,
+        1643,
         1643
     ],
     "star-daily": [
         0,
-        0,
         1,
         0,
         2,
@@ -155,10 +154,10 @@ var data = {
         1,
         0,
         1,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-17",
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
@@ -206,10 +205,10 @@ var data = {
         "2021-08-31",
         "2021-09-01",
         "2021-09-02",
-        "2021-09-03"
+        "2021-09-03",
+        "2021-09-04"
     ],
     "used-total": [
-        279,
         280,
         280,
         280,
@@ -257,10 +256,10 @@ var data = {
         330,
         330,
         331,
+        331,
         331
     ],
     "used-daily": [
-        0,
         1,
         0,
         0,
@@ -308,10 +307,10 @@ var data = {
         5,
         0,
         1,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-07-14",
         "2021-07-15",
         "2021-07-16",
         "2021-07-17",
@@ -360,10 +359,10 @@ var data = {
         "2021-08-29",
         "2021-08-30",
         "2021-08-31",
-        "2021-09-01"
+        "2021-09-01",
+        "2021-09-02"
     ],
     "cdn-daily": [
-        1767,
         4572,
         2690,
         1674,
@@ -412,10 +411,10 @@ var data = {
         2920,
         2383,
         5350,
-        3537
+        3537,
+        4228
     ],
     "views-dates": [
-        "2021-08-20",
         "2021-08-21",
         "2021-08-22",
         "2021-08-23",
@@ -432,8 +431,7 @@ var data = {
         "2021-09-03"
     ],
     "views-count": [
-        2,
-        59,
+        57,
         37,
         107,
         65,
@@ -446,11 +444,10 @@ var data = {
         143,
         61,
         95,
-        63
+        64
     ],
     "views-uniques": [
-        1,
-        28,
+        27,
         19,
         29,
         29,
@@ -463,7 +460,7 @@ var data = {
         45,
         30,
         25,
-        26
+        27
     ],
     "clones-dates": [
         "2021-08-21",
@@ -507,23 +504,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 136,
-            "uniques": 77
+            "count": 125,
+            "uniques": 73
         },
         {
             "referrer": "Google",
-            "count": 83,
-            "uniques": 54
+            "count": 79,
+            "uniques": 51
         },
         {
             "referrer": "github.com",
-            "count": 81,
-            "uniques": 45
+            "count": 79,
+            "uniques": 43
         },
         {
             "referrer": "pyweb.io",
-            "count": 49,
-            "uniques": 33
+            "count": 47,
+            "uniques": 31
         },
         {
             "referrer": "Bing",
@@ -536,8 +533,8 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "news.ycombinator.com",
-            "count": 4,
+            "referrer": "v2ex.com",
+            "count": 3,
             "uniques": 3
         },
         {
@@ -546,32 +543,32 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
-            "count": 3,
-            "uniques": 3
-        },
-        {
             "referrer": "cn.bing.com",
             "count": 3,
+            "uniques": 2
+        },
+        {
+            "referrer": "t.co",
+            "count": 2,
             "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 136
+            "value": 125
         },
         {
             "name": "Google",
-            "value": 83
+            "value": 79
         },
         {
             "name": "github.com",
-            "value": 81
+            "value": 79
         },
         {
             "name": "pyweb.io",
-            "value": 49
+            "value": 47
         },
         {
             "name": "Bing",
@@ -582,38 +579,38 @@ var data = {
             "value": 8
         },
         {
-            "name": "news.ycombinator.com",
-            "value": 4
+            "name": "v2ex.com",
+            "value": 3
         },
         {
             "name": "link.zhihu.com",
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "cn.bing.com",
             "value": 3
         },
         {
-            "name": "cn.bing.com",
-            "value": 3
+            "name": "t.co",
+            "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 77
+            "value": 73
         },
         {
             "name": "Google",
-            "value": 54
+            "value": 51
         },
         {
             "name": "github.com",
-            "value": 45
+            "value": 43
         },
         {
             "name": "pyweb.io",
-            "value": 33
+            "value": 31
         },
         {
             "name": "Bing",
@@ -624,7 +621,7 @@ var data = {
             "value": 3
         },
         {
-            "name": "news.ycombinator.com",
+            "name": "v2ex.com",
             "value": 3
         },
         {
@@ -632,11 +629,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "v2ex.com",
-            "value": 3
+            "name": "cn.bing.com",
+            "value": 2
         },
         {
-            "name": "cn.bing.com",
+            "name": "t.co",
             "value": 2
         }
     ]
