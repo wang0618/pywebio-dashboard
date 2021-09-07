@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1646,
     "GithubUsed": 335,
-    "WeekNewStars": 6,
-    "WeekCDNHits": 25309,
-    "WeekNewUsed": 7,
+    "WeekNewStars": 5,
+    "WeekCDNHits": 25208,
+    "WeekNewUsed": 2,
     "star-dates": [
-        "2021-07-20",
         "2021-07-21",
         "2021-07-22",
         "2021-07-23",
@@ -53,10 +52,10 @@ var data = {
         "2021-09-03",
         "2021-09-04",
         "2021-09-05",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-07"
     ],
     "star-total": [
-        1604,
         1606,
         1606,
         1606,
@@ -104,10 +103,10 @@ var data = {
         1642,
         1644,
         1646,
+        1646,
         1646
     ],
     "star-daily": [
-        0,
         2,
         0,
         0,
@@ -155,10 +154,10 @@ var data = {
         0,
         2,
         2,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-20",
         "2021-07-21",
         "2021-07-22",
         "2021-07-23",
@@ -206,10 +205,10 @@ var data = {
         "2021-09-03",
         "2021-09-04",
         "2021-09-05",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-07"
     ],
     "used-total": [
-        283,
         283,
         284,
         285,
@@ -257,10 +256,10 @@ var data = {
         334,
         334,
         334,
+        335,
         335
     ],
     "used-daily": [
-        0,
         0,
         1,
         1,
@@ -308,10 +307,10 @@ var data = {
         0,
         0,
         0,
-        1
+        1,
+        0
     ],
     "cdn-dates": [
-        "2021-07-17",
         "2021-07-18",
         "2021-07-19",
         "2021-07-20",
@@ -360,10 +359,10 @@ var data = {
         "2021-09-01",
         "2021-09-02",
         "2021-09-03",
-        "2021-09-04"
+        "2021-09-04",
+        "2021-09-05"
     ],
     "cdn-daily": [
-        1674,
         1922,
         4495,
         2270,
@@ -412,10 +411,10 @@ var data = {
         3537,
         4228,
         3334,
-        3557
+        3557,
+        2819
     ],
     "views-dates": [
-        "2021-08-23",
         "2021-08-24",
         "2021-08-25",
         "2021-08-26",
@@ -432,8 +431,7 @@ var data = {
         "2021-09-06"
     ],
     "views-count": [
-        2,
-        65,
+        60,
         170,
         78,
         155,
@@ -446,11 +444,10 @@ var data = {
         64,
         78,
         47,
-        72
+        74
     ],
     "views-uniques": [
-        2,
-        29,
+        27,
         38,
         34,
         37,
@@ -463,7 +460,7 @@ var data = {
         27,
         21,
         25,
-        27
+        28
     ],
     "clones-dates": [
         "2021-08-24",
@@ -489,7 +486,7 @@ var data = {
         1,
         10,
         2,
-        1
+        2
     ],
     "clones-uniques": [
         3,
@@ -502,23 +499,23 @@ var data = {
         1,
         5,
         2,
-        1
+        2
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 148,
-            "uniques": 87
+            "count": 137,
+            "uniques": 80
         },
         {
             "referrer": "github.com",
-            "count": 86,
-            "uniques": 46
+            "count": 83,
+            "uniques": 45
         },
         {
             "referrer": "Google",
-            "count": 85,
-            "uniques": 57
+            "count": 79,
+            "uniques": 54
         },
         {
             "referrer": "pyweb.io",
@@ -531,11 +528,6 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "Bing",
-            "count": 7,
-            "uniques": 2
-        },
-        {
             "referrer": "link.zhihu.com",
             "count": 6,
             "uniques": 4
@@ -546,12 +538,17 @@ var data = {
             "uniques": 3
         },
         {
+            "referrer": "Bing",
+            "count": 4,
+            "uniques": 2
+        },
+        {
             "referrer": "v2ex.com",
             "count": 3,
             "uniques": 3
         },
         {
-            "referrer": "reddit.com",
+            "referrer": "news.ycombinator.com",
             "count": 2,
             "uniques": 2
         }
@@ -559,15 +556,15 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 148
+            "value": 137
         },
         {
             "name": "github.com",
-            "value": 86
+            "value": 83
         },
         {
             "name": "Google",
-            "value": 85
+            "value": 79
         },
         {
             "name": "pyweb.io",
@@ -578,10 +575,6 @@ var data = {
             "value": 8
         },
         {
-            "name": "Bing",
-            "value": 7
-        },
-        {
             "name": "link.zhihu.com",
             "value": 6
         },
@@ -590,26 +583,30 @@ var data = {
             "value": 4
         },
         {
+            "name": "Bing",
+            "value": 4
+        },
+        {
             "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "reddit.com",
+            "name": "news.ycombinator.com",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 87
+            "value": 80
         },
         {
             "name": "github.com",
-            "value": 46
+            "value": 45
         },
         {
             "name": "Google",
-            "value": 57
+            "value": 54
         },
         {
             "name": "pyweb.io",
@@ -620,10 +617,6 @@ var data = {
             "value": 3
         },
         {
-            "name": "Bing",
-            "value": 2
-        },
-        {
             "name": "link.zhihu.com",
             "value": 4
         },
@@ -632,11 +625,15 @@ var data = {
             "value": 3
         },
         {
+            "name": "Bing",
+            "value": 2
+        },
+        {
             "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "reddit.com",
+            "name": "news.ycombinator.com",
             "value": 2
         }
     ]
