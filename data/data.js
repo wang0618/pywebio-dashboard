@@ -428,10 +428,11 @@ var data = {
         "2021-09-03",
         "2021-09-04",
         "2021-09-05",
-        "2021-09-06"
+        "2021-09-06",
+        "2021-09-07"
     ],
     "views-count": [
-        42,
+        30,
         170,
         78,
         155,
@@ -444,10 +445,11 @@ var data = {
         64,
         78,
         47,
-        75
+        75,
+        12
     ],
     "views-uniques": [
-        19,
+        13,
         38,
         34,
         37,
@@ -460,7 +462,8 @@ var data = {
         27,
         21,
         25,
-        29
+        29,
+        5
     ],
     "clones-dates": [
         "2021-08-24",
@@ -504,23 +507,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 137,
-            "uniques": 80
+            "count": 161,
+            "uniques": 91
         },
         {
             "referrer": "github.com",
-            "count": 83,
-            "uniques": 45
+            "count": 89,
+            "uniques": 47
         },
         {
             "referrer": "Google",
-            "count": 79,
-            "uniques": 54
+            "count": 82,
+            "uniques": 57
         },
         {
             "referrer": "pyweb.io",
-            "count": 53,
-            "uniques": 36
+            "count": 54,
+            "uniques": 37
         },
         {
             "referrer": "confluence.rakuten-it.com",
@@ -533,14 +536,14 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "cn.bing.com",
-            "count": 4,
+            "referrer": "Bing",
+            "count": 5,
             "uniques": 3
         },
         {
-            "referrer": "Bing",
+            "referrer": "cn.bing.com",
             "count": 4,
-            "uniques": 2
+            "uniques": 3
         },
         {
             "referrer": "v2ex.com",
@@ -556,19 +559,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 137
+            "value": 161
         },
         {
             "name": "github.com",
-            "value": 83
+            "value": 89
         },
         {
             "name": "Google",
-            "value": 79
+            "value": 82
         },
         {
             "name": "pyweb.io",
-            "value": 53
+            "value": 54
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -579,11 +582,11 @@ var data = {
             "value": 6
         },
         {
-            "name": "cn.bing.com",
-            "value": 4
+            "name": "Bing",
+            "value": 5
         },
         {
-            "name": "Bing",
+            "name": "cn.bing.com",
             "value": 4
         },
         {
@@ -598,19 +601,19 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 80
+            "value": 91
         },
         {
             "name": "github.com",
-            "value": 45
+            "value": 47
         },
         {
             "name": "Google",
-            "value": 54
+            "value": 57
         },
         {
             "name": "pyweb.io",
-            "value": 36
+            "value": 37
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -621,12 +624,12 @@ var data = {
             "value": 4
         },
         {
-            "name": "cn.bing.com",
+            "name": "Bing",
             "value": 3
         },
         {
-            "name": "Bing",
-            "value": 2
+            "name": "cn.bing.com",
+            "value": 3
         },
         {
             "name": "v2ex.com",
