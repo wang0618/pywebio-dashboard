@@ -428,10 +428,11 @@
         "2021-09-04",
         "2021-09-05",
         "2021-09-06",
-        "2021-09-07"
+        "2021-09-07",
+        "2021-09-08"
     ],
     "views-count": [
-        137,
+        114,
         78,
         155,
         86,
@@ -444,10 +445,11 @@
         78,
         47,
         75,
-        67
+        67,
+        7
     ],
     "views-uniques": [
-        30,
+        29,
         34,
         37,
         23,
@@ -460,7 +462,8 @@
         21,
         25,
         29,
-        30
+        30,
+        3
     ],
     "clones-dates": [
         "2021-08-25",
@@ -504,23 +507,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 142,
-            "uniques": 81
+            "count": 154,
+            "uniques": 88
         },
         {
             "referrer": "github.com",
-            "count": 77,
-            "uniques": 44
+            "count": 83,
+            "uniques": 47
         },
         {
             "referrer": "Google",
-            "count": 74,
-            "uniques": 51
+            "count": 81,
+            "uniques": 55
         },
         {
             "referrer": "pyweb.io",
-            "count": 46,
-            "uniques": 32
+            "count": 52,
+            "uniques": 37
         },
         {
             "referrer": "confluence.rakuten-it.com",
@@ -529,8 +532,8 @@
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 6,
-            "uniques": 4
+            "count": 7,
+            "uniques": 5
         },
         {
             "referrer": "cn.bing.com",
@@ -548,7 +551,7 @@
             "uniques": 2
         },
         {
-            "referrer": "reddit.com",
+            "referrer": "DuckDuckGo",
             "count": 2,
             "uniques": 2
         }
@@ -556,19 +559,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 142
+            "value": 154
         },
         {
             "name": "github.com",
-            "value": 77
+            "value": 83
         },
         {
             "name": "Google",
-            "value": 74
+            "value": 81
         },
         {
             "name": "pyweb.io",
-            "value": 46
+            "value": 52
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -576,7 +579,7 @@
         },
         {
             "name": "link.zhihu.com",
-            "value": 6
+            "value": 7
         },
         {
             "name": "cn.bing.com",
@@ -591,26 +594,26 @@
             "value": 3
         },
         {
-            "name": "reddit.com",
+            "name": "DuckDuckGo",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 81
+            "value": 88
         },
         {
             "name": "github.com",
-            "value": 44
+            "value": 47
         },
         {
             "name": "Google",
-            "value": 51
+            "value": 55
         },
         {
             "name": "pyweb.io",
-            "value": 32
+            "value": 37
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -618,7 +621,7 @@
         },
         {
             "name": "link.zhihu.com",
-            "value": 4
+            "value": 5
         },
         {
             "name": "cn.bing.com",
@@ -633,7 +636,7 @@
             "value": 2
         },
         {
-            "name": "reddit.com",
+            "name": "DuckDuckGo",
             "value": 2
         }
     ]
