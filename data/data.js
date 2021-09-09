@@ -428,10 +428,11 @@ var data = {
         "2021-09-05",
         "2021-09-06",
         "2021-09-07",
-        "2021-09-08"
+        "2021-09-08",
+        "2021-09-09"
     ],
     "views-count": [
-        59,
+        51,
         155,
         86,
         30,
@@ -444,10 +445,11 @@ var data = {
         47,
         75,
         67,
-        114
+        114,
+        16
     ],
     "views-uniques": [
-        26,
+        25,
         37,
         23,
         19,
@@ -460,7 +462,8 @@ var data = {
         25,
         29,
         30,
-        36
+        36,
+        4
     ],
     "clones-dates": [
         "2021-08-27",
@@ -504,23 +507,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 149,
-            "uniques": 83
+            "count": 162,
+            "uniques": 88
         },
         {
             "referrer": "github.com",
-            "count": 79,
-            "uniques": 46
-        },
-        {
-            "referrer": "Google",
-            "count": 67,
+            "count": 87,
             "uniques": 48
         },
         {
+            "referrer": "Google",
+            "count": 72,
+            "uniques": 53
+        },
+        {
             "referrer": "pyweb.io",
-            "count": 47,
-            "uniques": 35
+            "count": 52,
+            "uniques": 39
         },
         {
             "referrer": "confluence.rakuten-it.com",
@@ -531,6 +534,11 @@ var data = {
             "referrer": "link.zhihu.com",
             "count": 6,
             "uniques": 4
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 4,
+            "uniques": 3
         },
         {
             "referrer": "cn.bing.com",
@@ -546,29 +554,24 @@ var data = {
             "referrer": "Bing",
             "count": 3,
             "uniques": 2
-        },
-        {
-            "referrer": "reddit.com",
-            "count": 2,
-            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 149
+            "value": 162
         },
         {
             "name": "github.com",
-            "value": 79
+            "value": 87
         },
         {
             "name": "Google",
-            "value": 67
+            "value": 72
         },
         {
             "name": "pyweb.io",
-            "value": 47
+            "value": 52
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -579,6 +582,10 @@ var data = {
             "value": 6
         },
         {
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
             "name": "cn.bing.com",
             "value": 4
         },
@@ -589,28 +596,24 @@ var data = {
         {
             "name": "Bing",
             "value": 3
-        },
-        {
-            "name": "reddit.com",
-            "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 83
+            "value": 88
         },
         {
             "name": "github.com",
-            "value": 46
-        },
-        {
-            "name": "Google",
             "value": 48
         },
         {
+            "name": "Google",
+            "value": 53
+        },
+        {
             "name": "pyweb.io",
-            "value": 35
+            "value": 39
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -621,6 +624,10 @@ var data = {
             "value": 4
         },
         {
+            "name": "DuckDuckGo",
+            "value": 3
+        },
+        {
             "name": "cn.bing.com",
             "value": 3
         },
@@ -630,10 +637,6 @@ var data = {
         },
         {
             "name": "Bing",
-            "value": 2
-        },
-        {
-            "name": "reddit.com",
             "value": 2
         }
     ]
