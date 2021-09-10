@@ -431,7 +431,7 @@
         "2021-09-09"
     ],
     "views-count": [
-        137,
+        128,
         86,
         30,
         42,
@@ -447,7 +447,7 @@
         193
     ],
     "views-uniques": [
-        32,
+        31,
         23,
         19,
         26,
@@ -507,23 +507,28 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 134,
-            "uniques": 79
+            "count": 149,
+            "uniques": 85
         },
         {
             "referrer": "github.com",
-            "count": 77,
-            "uniques": 41
+            "count": 83,
+            "uniques": 42
         },
         {
             "referrer": "Google",
-            "count": 61,
-            "uniques": 46
+            "count": 75,
+            "uniques": 54
         },
         {
             "referrer": "pyweb.io",
-            "count": 47,
-            "uniques": 36
+            "count": 55,
+            "uniques": 43
+        },
+        {
+            "referrer": "link.zhihu.com",
+            "count": 9,
+            "uniques": 6
         },
         {
             "referrer": "confluence.rakuten-it.com",
@@ -531,17 +536,12 @@
             "uniques": 3
         },
         {
-            "referrer": "link.zhihu.com",
-            "count": 6,
-            "uniques": 4
-        },
-        {
-            "referrer": "DuckDuckGo",
+            "referrer": "cn.bing.com",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "cn.bing.com",
+            "referrer": "DuckDuckGo",
             "count": 4,
             "uniques": 3
         },
@@ -551,7 +551,7 @@
             "uniques": 3
         },
         {
-            "referrer": "reddit.com",
+            "referrer": "python.plainenglish.io",
             "count": 2,
             "uniques": 2
         }
@@ -559,34 +559,34 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 134
+            "value": 149
         },
         {
             "name": "github.com",
-            "value": 77
+            "value": 83
         },
         {
             "name": "Google",
-            "value": 61
+            "value": 75
         },
         {
             "name": "pyweb.io",
-            "value": 47
+            "value": 55
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 9
         },
         {
             "name": "confluence.rakuten-it.com",
             "value": 8
         },
         {
-            "name": "link.zhihu.com",
-            "value": 6
-        },
-        {
-            "name": "DuckDuckGo",
+            "name": "cn.bing.com",
             "value": 4
         },
         {
-            "name": "cn.bing.com",
+            "name": "DuckDuckGo",
             "value": 4
         },
         {
@@ -594,37 +594,33 @@
             "value": 3
         },
         {
-            "name": "reddit.com",
+            "name": "python.plainenglish.io",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 79
+            "value": 85
         },
         {
             "name": "github.com",
-            "value": 41
+            "value": 42
         },
         {
             "name": "Google",
-            "value": 46
+            "value": 54
         },
         {
             "name": "pyweb.io",
-            "value": 36
-        },
-        {
-            "name": "confluence.rakuten-it.com",
-            "value": 3
+            "value": 43
         },
         {
             "name": "link.zhihu.com",
-            "value": 4
+            "value": 6
         },
         {
-            "name": "DuckDuckGo",
+            "name": "confluence.rakuten-it.com",
             "value": 3
         },
         {
@@ -632,11 +628,15 @@
             "value": 3
         },
         {
+            "name": "DuckDuckGo",
+            "value": 3
+        },
+        {
             "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "reddit.com",
+            "name": "python.plainenglish.io",
             "value": 2
         }
     ]
