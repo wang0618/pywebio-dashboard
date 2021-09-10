@@ -2,10 +2,9 @@
     "GithubStars": 1648,
     "GithubUsed": 337,
     "WeekNewStars": 6,
-    "WeekCDNHits": 23454,
+    "WeekCDNHits": 21948,
     "WeekNewUsed": 4,
     "star-dates": [
-        "2021-07-23",
         "2021-07-24",
         "2021-07-25",
         "2021-07-26",
@@ -53,10 +52,10 @@
         "2021-09-06",
         "2021-09-07",
         "2021-09-08",
-        "2021-09-09"
+        "2021-09-09",
+        "2021-09-10"
     ],
     "star-total": [
-        1606,
         1606,
         1606,
         1607,
@@ -104,12 +103,12 @@
         1646,
         1646,
         1648,
+        1648,
         1648
     ],
     "star-daily": [
         0,
         0,
-        0,
         1,
         2,
         2,
@@ -155,10 +154,10 @@
         0,
         0,
         2,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-23",
         "2021-07-24",
         "2021-07-25",
         "2021-07-26",
@@ -206,10 +205,10 @@
         "2021-09-06",
         "2021-09-07",
         "2021-09-08",
-        "2021-09-09"
+        "2021-09-09",
+        "2021-09-10"
     ],
     "used-total": [
-        284,
         284,
         284,
         286,
@@ -257,10 +256,10 @@
         336,
         337,
         337,
+        337,
         337
     ],
     "used-daily": [
-        1,
         0,
         0,
         2,
@@ -308,10 +307,10 @@
         3,
         1,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-07-20",
         "2021-07-21",
         "2021-07-22",
         "2021-07-23",
@@ -360,10 +359,10 @@
         "2021-09-04",
         "2021-09-05",
         "2021-09-06",
-        "2021-09-07"
+        "2021-09-07",
+        "2021-09-08"
     ],
     "cdn-daily": [
-        2270,
         2220,
         4572,
         2925,
@@ -412,7 +411,8 @@
         3557,
         2819,
         3527,
-        2452
+        2452,
+        2031
     ],
     "views-dates": [
         "2021-08-27",
@@ -431,7 +431,7 @@
         "2021-09-09"
     ],
     "views-count": [
-        155,
+        149,
         86,
         30,
         42,
@@ -444,10 +444,10 @@
         75,
         67,
         114,
-        192
+        193
     ],
     "views-uniques": [
-        37,
+        34,
         23,
         19,
         26,
@@ -488,7 +488,7 @@
         2,
         1,
         8,
-        2
+        3
     ],
     "clones-uniques": [
         4,
@@ -502,28 +502,28 @@
         2,
         1,
         4,
-        2
+        3
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 162,
-            "uniques": 88
+            "count": 134,
+            "uniques": 79
         },
         {
             "referrer": "github.com",
-            "count": 87,
-            "uniques": 48
+            "count": 77,
+            "uniques": 41
         },
         {
             "referrer": "Google",
-            "count": 72,
-            "uniques": 53
+            "count": 61,
+            "uniques": 46
         },
         {
             "referrer": "pyweb.io",
-            "count": 52,
-            "uniques": 39
+            "count": 47,
+            "uniques": 36
         },
         {
             "referrer": "confluence.rakuten-it.com",
@@ -551,27 +551,27 @@
             "uniques": 3
         },
         {
-            "referrer": "Bing",
-            "count": 3,
+            "referrer": "reddit.com",
+            "count": 2,
             "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 162
+            "value": 134
         },
         {
             "name": "github.com",
-            "value": 87
+            "value": 77
         },
         {
             "name": "Google",
-            "value": 72
+            "value": 61
         },
         {
             "name": "pyweb.io",
-            "value": 52
+            "value": 47
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -594,26 +594,26 @@
             "value": 3
         },
         {
-            "name": "Bing",
-            "value": 3
+            "name": "reddit.com",
+            "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 88
+            "value": 79
         },
         {
             "name": "github.com",
-            "value": 48
+            "value": 41
         },
         {
             "name": "Google",
-            "value": 53
+            "value": 46
         },
         {
             "name": "pyweb.io",
-            "value": 39
+            "value": 36
         },
         {
             "name": "confluence.rakuten-it.com",
@@ -636,7 +636,7 @@
             "value": 3
         },
         {
-            "name": "Bing",
+            "name": "reddit.com",
             "value": 2
         }
     ]
