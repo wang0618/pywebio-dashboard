@@ -431,7 +431,7 @@ var data = {
         "2021-09-10"
     ],
     "views-count": [
-        77,
+        65,
         30,
         42,
         143,
@@ -444,10 +444,10 @@ var data = {
         67,
         114,
         193,
-        91
+        92
     ],
     "views-uniques": [
-        21,
+        19,
         19,
         26,
         45,
@@ -543,12 +543,12 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "cupoy.com",
+            "referrer": "cn.bing.com",
             "count": 2,
             "uniques": 2
         },
         {
-            "referrer": "youtube.com",
+            "referrer": "cupoy.com",
             "count": 2,
             "uniques": 2
         }
@@ -587,11 +587,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "cupoy.com",
+            "name": "cn.bing.com",
             "value": 2
         },
         {
-            "name": "youtube.com",
+            "name": "cupoy.com",
             "value": 2
         }
     ],
@@ -629,11 +629,11 @@ var data = {
             "value": 2
         },
         {
-            "name": "cupoy.com",
+            "name": "cn.bing.com",
             "value": 2
         },
         {
-            "name": "youtube.com",
+            "name": "cupoy.com",
             "value": 2
         }
     ]
