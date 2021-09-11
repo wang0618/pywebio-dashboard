@@ -428,7 +428,8 @@ var data = {
         "2021-09-07",
         "2021-09-08",
         "2021-09-09",
-        "2021-09-10"
+        "2021-09-10",
+        "2021-09-11"
     ],
     "views-count": [
         57,
@@ -444,7 +445,8 @@ var data = {
         67,
         114,
         193,
-        92
+        92,
+        10
     ],
     "views-uniques": [
         19,
@@ -460,10 +462,10 @@ var data = {
         30,
         36,
         34,
-        28
+        28,
+        9
     ],
     "clones-dates": [
-        "2021-08-28",
         "2021-08-29",
         "2021-08-31",
         "2021-09-01",
@@ -477,7 +479,6 @@ var data = {
     ],
     "clones-count": [
         1,
-        1,
         2,
         13,
         1,
@@ -489,7 +490,6 @@ var data = {
         3
     ],
     "clones-uniques": [
-        1,
         1,
         2,
         7,
@@ -504,23 +504,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 136,
-            "uniques": 78
+            "count": 153,
+            "uniques": 87
         },
         {
             "referrer": "github.com",
-            "count": 73,
-            "uniques": 39
+            "count": 87,
+            "uniques": 42
         },
         {
             "referrer": "Google",
-            "count": 67,
-            "uniques": 49
+            "count": 72,
+            "uniques": 52
         },
         {
             "referrer": "pyweb.io",
-            "count": 47,
-            "uniques": 39
+            "count": 50,
+            "uniques": 41
         },
         {
             "referrer": "link.zhihu.com",
@@ -534,8 +534,8 @@ var data = {
         },
         {
             "referrer": "v2ex.com",
-            "count": 3,
-            "uniques": 3
+            "count": 4,
+            "uniques": 4
         },
         {
             "referrer": "DuckDuckGo",
@@ -543,12 +543,12 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "cupoy.com",
+            "referrer": "cn.bing.com",
             "count": 2,
             "uniques": 2
         },
         {
-            "referrer": "youtube.com",
+            "referrer": "cupoy.com",
             "count": 2,
             "uniques": 2
         }
@@ -556,19 +556,19 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 136
+            "value": 153
         },
         {
             "name": "github.com",
-            "value": 73
+            "value": 87
         },
         {
             "name": "Google",
-            "value": 67
+            "value": 72
         },
         {
             "name": "pyweb.io",
-            "value": 47
+            "value": 50
         },
         {
             "name": "link.zhihu.com",
@@ -580,37 +580,37 @@ var data = {
         },
         {
             "name": "v2ex.com",
-            "value": 3
+            "value": 4
         },
         {
             "name": "DuckDuckGo",
             "value": 3
         },
         {
-            "name": "cupoy.com",
+            "name": "cn.bing.com",
             "value": 2
         },
         {
-            "name": "youtube.com",
+            "name": "cupoy.com",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 78
+            "value": 87
         },
         {
             "name": "github.com",
-            "value": 39
+            "value": 42
         },
         {
             "name": "Google",
-            "value": 49
+            "value": 52
         },
         {
             "name": "pyweb.io",
-            "value": 39
+            "value": 41
         },
         {
             "name": "link.zhihu.com",
@@ -622,18 +622,18 @@ var data = {
         },
         {
             "name": "v2ex.com",
-            "value": 3
+            "value": 4
         },
         {
             "name": "DuckDuckGo",
             "value": 2
         },
         {
-            "name": "cupoy.com",
+            "name": "cn.bing.com",
             "value": 2
         },
         {
-            "name": "youtube.com",
+            "name": "cupoy.com",
             "value": 2
         }
     ]
