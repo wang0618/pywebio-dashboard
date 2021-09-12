@@ -1,11 +1,10 @@
 {
     "GithubStars": 1650,
     "GithubUsed": 340,
-    "WeekNewStars": 6,
-    "WeekCDNHits": 22159,
+    "WeekNewStars": 4,
+    "WeekCDNHits": 21954,
     "WeekNewUsed": 6,
     "star-dates": [
-        "2021-07-25",
         "2021-07-26",
         "2021-07-27",
         "2021-07-28",
@@ -53,10 +52,10 @@
         "2021-09-08",
         "2021-09-09",
         "2021-09-10",
-        "2021-09-11"
+        "2021-09-11",
+        "2021-09-12"
     ],
     "star-total": [
-        1606,
         1607,
         1609,
         1611,
@@ -104,10 +103,10 @@
         1648,
         1648,
         1650,
+        1650,
         1650
     ],
     "star-daily": [
-        0,
         1,
         2,
         2,
@@ -155,10 +154,10 @@
         2,
         0,
         2,
+        0,
         0
     ],
     "used-dates": [
-        "2021-07-25",
         "2021-07-26",
         "2021-07-27",
         "2021-07-28",
@@ -206,10 +205,10 @@
         "2021-09-08",
         "2021-09-09",
         "2021-09-10",
-        "2021-09-11"
+        "2021-09-11",
+        "2021-09-12"
     ],
     "used-total": [
-        285,
         287,
         287,
         290,
@@ -257,10 +256,10 @@
         338,
         339,
         340,
+        340,
         340
     ],
     "used-daily": [
-        0,
         2,
         0,
         3,
@@ -308,10 +307,10 @@
         0,
         1,
         1,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-07-22",
         "2021-07-23",
         "2021-07-24",
         "2021-07-25",
@@ -360,10 +359,10 @@
         "2021-09-06",
         "2021-09-07",
         "2021-09-08",
-        "2021-09-09"
+        "2021-09-09",
+        "2021-09-10"
     ],
     "cdn-daily": [
-        4572,
         2925,
         1934,
         1406,
@@ -412,7 +411,8 @@
         3527,
         2452,
         3369,
-        3101
+        3101,
+        3129
     ],
     "views-dates": [
         "2021-08-29",
@@ -431,7 +431,7 @@
         "2021-09-11"
     ],
     "views-count": [
-        30,
+        27,
         42,
         143,
         61,
@@ -444,10 +444,10 @@
         114,
         193,
         92,
-        74
+        75
     ],
     "views-uniques": [
-        19,
+        16,
         26,
         45,
         30,
@@ -504,23 +504,23 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 153,
-            "uniques": 87
+            "count": 148,
+            "uniques": 82
         },
         {
             "referrer": "github.com",
-            "count": 87,
-            "uniques": 42
+            "count": 86,
+            "uniques": 41
         },
         {
             "referrer": "Google",
-            "count": 72,
-            "uniques": 52
+            "count": 67,
+            "uniques": 50
         },
         {
             "referrer": "pyweb.io",
-            "count": 50,
-            "uniques": 41
+            "count": 48,
+            "uniques": 40
         },
         {
             "referrer": "link.zhihu.com",
@@ -556,19 +556,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 153
+            "value": 148
         },
         {
             "name": "github.com",
-            "value": 87
+            "value": 86
         },
         {
             "name": "Google",
-            "value": 72
+            "value": 67
         },
         {
             "name": "pyweb.io",
-            "value": 50
+            "value": 48
         },
         {
             "name": "link.zhihu.com",
@@ -598,19 +598,19 @@
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 87
+            "value": 82
         },
         {
             "name": "github.com",
-            "value": 42
+            "value": 41
         },
         {
             "name": "Google",
-            "value": 52
+            "value": 50
         },
         {
             "name": "pyweb.io",
-            "value": 41
+            "value": 40
         },
         {
             "name": "link.zhihu.com",
