@@ -428,10 +428,11 @@
         "2021-09-11",
         "2021-09-12",
         "2021-09-13",
-        "2021-09-14"
+        "2021-09-14",
+        "2021-09-15"
     ],
     "views-count": [
-        54,
+        53,
         95,
         64,
         78,
@@ -444,7 +445,8 @@
         75,
         75,
         87,
-        127
+        127,
+        1
     ],
     "views-uniques": [
         25,
@@ -460,7 +462,8 @@
         22,
         23,
         29,
-        40
+        40,
+        1
     ],
     "clones-dates": [
         "2021-09-01",
@@ -474,10 +477,11 @@
         "2021-09-11",
         "2021-09-12",
         "2021-09-13",
-        "2021-09-14"
+        "2021-09-14",
+        "2021-09-15"
     ],
     "clones-count": [
-        13,
+        3,
         1,
         10,
         2,
@@ -488,10 +492,11 @@
         19,
         3,
         3,
+        1,
         1
     ],
     "clones-uniques": [
-        7,
+        3,
         1,
         5,
         2,
@@ -502,28 +507,29 @@
         9,
         3,
         3,
+        1,
         1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 150,
-            "uniques": 76
+            "count": 171,
+            "uniques": 91
         },
         {
             "referrer": "github.com",
-            "count": 86,
-            "uniques": 41
+            "count": 96,
+            "uniques": 49
         },
         {
             "referrer": "Google",
-            "count": 75,
-            "uniques": 58
+            "count": 78,
+            "uniques": 60
         },
         {
             "referrer": "pyweb.io",
-            "count": 48,
-            "uniques": 41
+            "count": 60,
+            "uniques": 48
         },
         {
             "referrer": "link.zhihu.com",
@@ -531,17 +537,17 @@
             "uniques": 5
         },
         {
+            "referrer": "v2ex.com",
+            "count": 3,
+            "uniques": 3
+        },
+        {
             "referrer": "DuckDuckGo",
             "count": 3,
             "uniques": 2
         },
         {
-            "referrer": "Bing",
-            "count": 2,
-            "uniques": 2
-        },
-        {
-            "referrer": "v2ex.com",
+            "referrer": "cn.bing.com",
             "count": 2,
             "uniques": 2
         },
@@ -551,7 +557,7 @@
             "uniques": 2
         },
         {
-            "referrer": "cn.bing.com",
+            "referrer": "Bing",
             "count": 2,
             "uniques": 2
         }
@@ -559,15 +565,57 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 150
+            "value": 171
         },
         {
             "name": "github.com",
-            "value": 86
+            "value": 96
         },
         {
             "name": "Google",
-            "value": 75
+            "value": 78
+        },
+        {
+            "name": "pyweb.io",
+            "value": 60
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 8
+        },
+        {
+            "name": "v2ex.com",
+            "value": 3
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 3
+        },
+        {
+            "name": "cn.bing.com",
+            "value": 2
+        },
+        {
+            "name": "t.co",
+            "value": 2
+        },
+        {
+            "name": "Bing",
+            "value": 2
+        }
+    ],
+    "referrers-unique-chart": [
+        {
+            "name": "pywebio.readthedocs.io",
+            "value": 91
+        },
+        {
+            "name": "github.com",
+            "value": 49
+        },
+        {
+            "name": "Google",
+            "value": 60
         },
         {
             "name": "pyweb.io",
@@ -575,60 +623,18 @@
         },
         {
             "name": "link.zhihu.com",
-            "value": 8
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 3
-        },
-        {
-            "name": "Bing",
-            "value": 2
-        },
-        {
-            "name": "v2ex.com",
-            "value": 2
-        },
-        {
-            "name": "t.co",
-            "value": 2
-        },
-        {
-            "name": "cn.bing.com",
-            "value": 2
-        }
-    ],
-    "referrers-unique-chart": [
-        {
-            "name": "pywebio.readthedocs.io",
-            "value": 76
-        },
-        {
-            "name": "github.com",
-            "value": 41
-        },
-        {
-            "name": "Google",
-            "value": 58
-        },
-        {
-            "name": "pyweb.io",
-            "value": 41
-        },
-        {
-            "name": "link.zhihu.com",
             "value": 5
         },
         {
+            "name": "v2ex.com",
+            "value": 3
+        },
+        {
             "name": "DuckDuckGo",
             "value": 2
         },
         {
-            "name": "Bing",
-            "value": 2
-        },
-        {
-            "name": "v2ex.com",
+            "name": "cn.bing.com",
             "value": 2
         },
         {
@@ -636,7 +642,7 @@
             "value": 2
         },
         {
-            "name": "cn.bing.com",
+            "name": "Bing",
             "value": 2
         }
     ]
