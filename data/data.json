@@ -103,7 +103,7 @@
         1650,
         1650,
         1653,
-        1655,
+        1654,
         1661
     ],
     "star-daily": [
@@ -154,8 +154,8 @@
         1,
         0,
         3,
-        2,
-        6
+        1,
+        7
     ],
     "used-dates": [
         "2021-07-30",
@@ -428,10 +428,11 @@
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15"
+        "2021-09-15",
+        "2021-09-16"
     ],
     "views-count": [
-        51,
+        44,
         64,
         78,
         47,
@@ -444,10 +445,11 @@
         75,
         87,
         127,
-        78
+        78,
+        6
     ],
     "views-uniques": [
-        17,
+        15,
         27,
         21,
         25,
@@ -460,7 +462,8 @@
         23,
         29,
         40,
-        34
+        34,
+        3
     ],
     "clones-dates": [
         "2021-09-04",
@@ -504,28 +507,33 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 166,
-            "uniques": 87
+            "count": 173,
+            "uniques": 91
         },
         {
             "referrer": "github.com",
-            "count": 85,
-            "uniques": 45
+            "count": 88,
+            "uniques": 47
         },
         {
             "referrer": "Google",
-            "count": 73,
-            "uniques": 56
+            "count": 84,
+            "uniques": 65
         },
         {
             "referrer": "pyweb.io",
-            "count": 59,
-            "uniques": 48
+            "count": 62,
+            "uniques": 50
         },
         {
             "referrer": "link.zhihu.com",
             "count": 8,
             "uniques": 5
+        },
+        {
+            "referrer": "Bing",
+            "count": 3,
+            "uniques": 3
         },
         {
             "referrer": "v2ex.com",
@@ -538,17 +546,12 @@
             "uniques": 2
         },
         {
-            "referrer": "Bing",
-            "count": 2,
-            "uniques": 2
-        },
-        {
             "referrer": "t.co",
             "count": 2,
             "uniques": 2
         },
         {
-            "referrer": "cupoy.com",
+            "referrer": "app.clickup.com",
             "count": 2,
             "uniques": 1
         }
@@ -556,25 +559,29 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 166
+            "value": 173
         },
         {
             "name": "github.com",
-            "value": 85
+            "value": 88
         },
         {
             "name": "Google",
-            "value": 73
+            "value": 84
         },
         {
             "name": "pyweb.io",
-            "value": 59
+            "value": 62
         },
         {
             "name": "link.zhihu.com",
             "value": 8
         },
         {
+            "name": "Bing",
+            "value": 3
+        },
+        {
             "name": "v2ex.com",
             "value": 3
         },
@@ -583,38 +590,38 @@
             "value": 3
         },
         {
-            "name": "Bing",
-            "value": 2
-        },
-        {
             "name": "t.co",
             "value": 2
         },
         {
-            "name": "cupoy.com",
+            "name": "app.clickup.com",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 87
+            "value": 91
         },
         {
             "name": "github.com",
-            "value": 45
+            "value": 47
         },
         {
             "name": "Google",
-            "value": 56
+            "value": 65
         },
         {
             "name": "pyweb.io",
-            "value": 48
+            "value": 50
         },
         {
             "name": "link.zhihu.com",
             "value": 5
+        },
+        {
+            "name": "Bing",
+            "value": 3
         },
         {
             "name": "v2ex.com",
@@ -625,15 +632,11 @@
             "value": 2
         },
         {
-            "name": "Bing",
-            "value": 2
-        },
-        {
             "name": "t.co",
             "value": 2
         },
         {
-            "name": "cupoy.com",
+            "name": "app.clickup.com",
             "value": 1
         }
     ]
