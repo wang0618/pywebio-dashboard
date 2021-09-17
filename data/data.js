@@ -1,11 +1,10 @@
 var data = {
-    "GithubStars": 1662,
+    "GithubStars": 1663,
     "GithubUsed": 346,
-    "WeekNewStars": 15,
-    "WeekCDNHits": 23264,
-    "WeekNewUsed": 5,
+    "WeekNewStars": 14,
+    "WeekCDNHits": 23211,
+    "WeekNewUsed": 4,
     "star-dates": [
-        "2021-07-30",
         "2021-07-31",
         "2021-08-01",
         "2021-08-02",
@@ -53,10 +52,10 @@ var data = {
         "2021-09-13",
         "2021-09-14",
         "2021-09-15",
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-17"
     ],
     "star-total": [
-        1613,
         1615,
         1616,
         1616,
@@ -104,10 +103,10 @@ var data = {
         1650,
         1653,
         1654,
-        1662
+        1662,
+        1663
     ],
     "star-daily": [
-        3,
         2,
         1,
         0,
@@ -155,10 +154,10 @@ var data = {
         0,
         3,
         1,
-        8
+        8,
+        1
     ],
     "used-dates": [
-        "2021-07-30",
         "2021-07-31",
         "2021-08-01",
         "2021-08-02",
@@ -206,10 +205,10 @@ var data = {
         "2021-09-13",
         "2021-09-14",
         "2021-09-15",
-        "2021-09-16"
+        "2021-09-16",
+        "2021-09-17"
     ],
     "used-total": [
-        298,
         298,
         298,
         300,
@@ -257,10 +256,10 @@ var data = {
         344,
         345,
         346,
+        346,
         346
     ],
     "used-daily": [
-        3,
         0,
         0,
         2,
@@ -308,10 +307,10 @@ var data = {
         1,
         1,
         1,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-07-27",
         "2021-07-28",
         "2021-07-29",
         "2021-07-30",
@@ -360,10 +359,10 @@ var data = {
         "2021-09-11",
         "2021-09-12",
         "2021-09-13",
-        "2021-09-14"
+        "2021-09-14",
+        "2021-09-15"
     ],
     "cdn-daily": [
-        2358,
         4579,
         3328,
         2736,
@@ -412,7 +411,8 @@ var data = {
         2162,
         4306,
         2589,
-        4608
+        4608,
+        3316
     ],
     "views-dates": [
         "2021-09-03",
@@ -431,7 +431,7 @@ var data = {
         "2021-09-16"
     ],
     "views-count": [
-        64,
+        63,
         78,
         47,
         75,
@@ -444,10 +444,10 @@ var data = {
         87,
         127,
         78,
-        115
+        148
     ],
     "views-uniques": [
-        27,
+        26,
         21,
         25,
         29,
@@ -460,7 +460,7 @@ var data = {
         29,
         40,
         34,
-        42
+        48
     ],
     "clones-dates": [
         "2021-09-04",
@@ -507,23 +507,23 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 173,
-            "uniques": 91
-        },
-        {
-            "referrer": "github.com",
-            "count": 88,
-            "uniques": 47
+            "count": 167,
+            "uniques": 86
         },
         {
             "referrer": "Google",
-            "count": 84,
-            "uniques": 65
+            "count": 80,
+            "uniques": 61
+        },
+        {
+            "referrer": "github.com",
+            "count": 78,
+            "uniques": 42
         },
         {
             "referrer": "pyweb.io",
-            "count": 62,
-            "uniques": 50
+            "count": 58,
+            "uniques": 46
         },
         {
             "referrer": "link.zhihu.com",
@@ -531,12 +531,12 @@ var data = {
             "uniques": 5
         },
         {
-            "referrer": "Bing",
+            "referrer": "v2ex.com",
             "count": 3,
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "Bing",
             "count": 3,
             "uniques": 3
         },
@@ -551,7 +551,7 @@ var data = {
             "uniques": 2
         },
         {
-            "referrer": "app.clickup.com",
+            "referrer": "cupoy.com",
             "count": 2,
             "uniques": 1
         }
@@ -559,30 +559,30 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 173
-        },
-        {
-            "name": "github.com",
-            "value": 88
+            "value": 167
         },
         {
             "name": "Google",
-            "value": 84
+            "value": 80
+        },
+        {
+            "name": "github.com",
+            "value": 78
         },
         {
             "name": "pyweb.io",
-            "value": 62
+            "value": 58
         },
         {
             "name": "link.zhihu.com",
             "value": 8
         },
         {
-            "name": "Bing",
+            "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "Bing",
             "value": 3
         },
         {
@@ -594,37 +594,37 @@ var data = {
             "value": 2
         },
         {
-            "name": "app.clickup.com",
+            "name": "cupoy.com",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 91
-        },
-        {
-            "name": "github.com",
-            "value": 47
+            "value": 86
         },
         {
             "name": "Google",
-            "value": 65
+            "value": 61
+        },
+        {
+            "name": "github.com",
+            "value": 42
         },
         {
             "name": "pyweb.io",
-            "value": 50
+            "value": 46
         },
         {
             "name": "link.zhihu.com",
             "value": 5
         },
         {
-            "name": "Bing",
+            "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "Bing",
             "value": 3
         },
         {
@@ -636,7 +636,7 @@ var data = {
             "value": 2
         },
         {
-            "name": "app.clickup.com",
+            "name": "cupoy.com",
             "value": 1
         }
     ]
