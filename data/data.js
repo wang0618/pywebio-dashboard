@@ -432,7 +432,7 @@ var data = {
         "2021-09-20"
     ],
     "views-count": [
-        55,
+        37,
         67,
         114,
         193,
@@ -446,10 +446,10 @@ var data = {
         164,
         76,
         129,
-        11
+        13
     ],
     "views-uniques": [
-        23,
+        19,
         30,
         36,
         34,
@@ -463,7 +463,7 @@ var data = {
         53,
         29,
         40,
-        2
+        3
     ],
     "clones-dates": [
         "2021-09-06",
@@ -516,28 +516,38 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 110,
-            "uniques": 59
-        },
-        {
-            "referrer": "github.com",
-            "count": 63,
-            "uniques": 35
+            "count": 169,
+            "uniques": 93
         },
         {
             "referrer": "Google",
-            "count": 60,
-            "uniques": 44
+            "count": 126,
+            "uniques": 85
+        },
+        {
+            "referrer": "github.com",
+            "count": 95,
+            "uniques": 57
         },
         {
             "referrer": "pyweb.io",
-            "count": 46,
-            "uniques": 36
+            "count": 67,
+            "uniques": 53
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 7,
+            "uniques": 5
         },
         {
             "referrer": "link.zhihu.com",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "python.plainenglish.io",
             "count": 4,
-            "uniques": 3
+            "uniques": 2
         },
         {
             "referrer": "v2ex.com",
@@ -545,45 +555,43 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "DuckDuckGo",
-            "count": 3,
+            "referrer": "Bing",
+            "count": 2,
             "uniques": 2
         },
         {
             "referrer": "t.co",
             "count": 2,
             "uniques": 2
-        },
-        {
-            "referrer": "app.clickup.com",
-            "count": 2,
-            "uniques": 1
-        },
-        {
-            "referrer": "cupoy.com",
-            "count": 2,
-            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 110
-        },
-        {
-            "name": "github.com",
-            "value": 63
+            "value": 169
         },
         {
             "name": "Google",
-            "value": 60
+            "value": 126
+        },
+        {
+            "name": "github.com",
+            "value": 95
         },
         {
             "name": "pyweb.io",
-            "value": 46
+            "value": 67
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 7
         },
         {
             "name": "link.zhihu.com",
+            "value": 5
+        },
+        {
+            "name": "python.plainenglish.io",
             "value": 4
         },
         {
@@ -591,62 +599,54 @@ var data = {
             "value": 3
         },
         {
-            "name": "DuckDuckGo",
-            "value": 3
+            "name": "Bing",
+            "value": 2
         },
         {
             "name": "t.co",
-            "value": 2
-        },
-        {
-            "name": "app.clickup.com",
-            "value": 2
-        },
-        {
-            "name": "cupoy.com",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 59
-        },
-        {
-            "name": "github.com",
-            "value": 35
+            "value": 93
         },
         {
             "name": "Google",
-            "value": 44
+            "value": 85
+        },
+        {
+            "name": "github.com",
+            "value": 57
         },
         {
             "name": "pyweb.io",
-            "value": 36
+            "value": 53
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 5
         },
         {
             "name": "link.zhihu.com",
-            "value": 3
+            "value": 4
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 2
         },
         {
             "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "DuckDuckGo",
+            "name": "Bing",
             "value": 2
         },
         {
             "name": "t.co",
             "value": 2
-        },
-        {
-            "name": "app.clickup.com",
-            "value": 1
-        },
-        {
-            "name": "cupoy.com",
-            "value": 1
         }
     ]
 };
