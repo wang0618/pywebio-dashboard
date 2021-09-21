@@ -431,7 +431,7 @@ var data = {
         "2021-09-20"
     ],
     "views-count": [
-        67,
+        60,
         114,
         193,
         92,
@@ -447,7 +447,7 @@ var data = {
         137
     ],
     "views-uniques": [
-        30,
+        28,
         36,
         34,
         28,
@@ -470,12 +470,7 @@ var data = {
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15",
-        "2021-09-16",
-        "2021-09-17",
-        "2021-09-18",
-        "2021-09-19",
-        "2021-09-20"
+        "2021-09-15"
     ],
     "clones-count": [
         1,
@@ -484,11 +479,6 @@ var data = {
         19,
         3,
         3,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1
     ],
@@ -499,11 +489,6 @@ var data = {
         9,
         3,
         3,
-        1,
-        1,
-        1,
-        1,
-        1,
         1,
         1
     ],
@@ -549,12 +534,12 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "staging.v2ex.com",
+            "referrer": "Bing",
             "count": 2,
             "uniques": 2
         },
         {
-            "referrer": "Bing",
+            "referrer": "t.co",
             "count": 2,
             "uniques": 2
         }
@@ -593,11 +578,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "staging.v2ex.com",
+            "name": "Bing",
             "value": 2
         },
         {
-            "name": "Bing",
+            "name": "t.co",
             "value": 2
         }
     ],
@@ -635,11 +620,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "staging.v2ex.com",
+            "name": "Bing",
             "value": 2
         },
         {
-            "name": "Bing",
+            "name": "t.co",
             "value": 2
         }
     ]
