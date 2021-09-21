@@ -1,11 +1,10 @@
 {
     "GithubStars": 1668,
     "GithubUsed": 353,
-    "WeekNewStars": 18,
-    "WeekCDNHits": 25147,
-    "WeekNewUsed": 8,
+    "WeekNewStars": 15,
+    "WeekCDNHits": 22939,
+    "WeekNewUsed": 7,
     "star-dates": [
-        "2021-08-03",
         "2021-08-04",
         "2021-08-05",
         "2021-08-06",
@@ -53,10 +52,10 @@
         "2021-09-17",
         "2021-09-18",
         "2021-09-19",
-        "2021-09-20"
+        "2021-09-20",
+        "2021-09-21"
     ],
     "star-total": [
-        1616,
         1617,
         1620,
         1621,
@@ -104,10 +103,10 @@
         1667,
         1667,
         1668,
+        1668,
         1668
     ],
     "star-daily": [
-        0,
         1,
         3,
         1,
@@ -155,10 +154,10 @@
         5,
         0,
         1,
+        0,
         0
     ],
     "used-dates": [
-        "2021-08-03",
         "2021-08-04",
         "2021-08-05",
         "2021-08-06",
@@ -206,10 +205,10 @@
         "2021-09-17",
         "2021-09-18",
         "2021-09-19",
-        "2021-09-20"
+        "2021-09-20",
+        "2021-09-21"
     ],
     "used-total": [
-        300,
         300,
         301,
         302,
@@ -257,10 +256,10 @@
         351,
         351,
         352,
+        353,
         353
     ],
     "used-daily": [
-        0,
         0,
         1,
         1,
@@ -308,10 +307,10 @@
         4,
         0,
         1,
-        1
+        1,
+        0
     ],
     "cdn-dates": [
-        "2021-07-31",
         "2021-08-01",
         "2021-08-02",
         "2021-08-03",
@@ -360,10 +359,10 @@
         "2021-09-15",
         "2021-09-16",
         "2021-09-17",
-        "2021-09-18"
+        "2021-09-18",
+        "2021-09-19"
     ],
     "cdn-daily": [
-        1524,
         1673,
         3313,
         3579,
@@ -412,10 +411,10 @@
         3316,
         4762,
         3830,
-        1736
+        1736,
+        2098
     ],
     "views-dates": [
-        "2021-09-06",
         "2021-09-07",
         "2021-09-08",
         "2021-09-09",
@@ -432,7 +431,6 @@
         "2021-09-20"
     ],
     "views-count": [
-        1,
         67,
         114,
         193,
@@ -446,10 +444,9 @@
         164,
         76,
         129,
-        102
+        137
     ],
     "views-uniques": [
-        1,
         30,
         36,
         34,
@@ -463,7 +460,7 @@
         53,
         29,
         40,
-        32
+        37
     ],
     "clones-dates": [
         "2021-09-07",
@@ -473,7 +470,12 @@
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15"
+        "2021-09-15",
+        "2021-09-16",
+        "2021-09-17",
+        "2021-09-18",
+        "2021-09-19",
+        "2021-09-20"
     ],
     "clones-count": [
         1,
@@ -482,6 +484,11 @@
         19,
         3,
         3,
+        1,
+        1,
+        1,
+        1,
+        1,
         1,
         1
     ],
@@ -493,38 +500,43 @@
         3,
         3,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
         1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 169,
-            "uniques": 93
+            "count": 157,
+            "uniques": 86
         },
         {
             "referrer": "Google",
-            "count": 126,
-            "uniques": 85
+            "count": 119,
+            "uniques": 80
         },
         {
             "referrer": "github.com",
-            "count": 95,
-            "uniques": 57
-        },
-        {
-            "referrer": "pyweb.io",
-            "count": 67,
+            "count": 89,
             "uniques": 53
         },
         {
+            "referrer": "pyweb.io",
+            "count": 61,
+            "uniques": 48
+        },
+        {
             "referrer": "DuckDuckGo",
-            "count": 7,
-            "uniques": 5
+            "count": 6,
+            "uniques": 4
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 5,
-            "uniques": 4
+            "count": 4,
+            "uniques": 3
         },
         {
             "referrer": "python.plainenglish.io",
@@ -537,12 +549,12 @@
             "uniques": 3
         },
         {
-            "referrer": "Bing",
+            "referrer": "staging.v2ex.com",
             "count": 2,
             "uniques": 2
         },
         {
-            "referrer": "t.co",
+            "referrer": "Bing",
             "count": 2,
             "uniques": 2
         }
@@ -550,27 +562,27 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 169
+            "value": 157
         },
         {
             "name": "Google",
-            "value": 126
+            "value": 119
         },
         {
             "name": "github.com",
-            "value": 95
+            "value": 89
         },
         {
             "name": "pyweb.io",
-            "value": 67
+            "value": 61
         },
         {
             "name": "DuckDuckGo",
-            "value": 7
+            "value": 6
         },
         {
             "name": "link.zhihu.com",
-            "value": 5
+            "value": 4
         },
         {
             "name": "python.plainenglish.io",
@@ -581,38 +593,38 @@
             "value": 3
         },
         {
-            "name": "Bing",
+            "name": "staging.v2ex.com",
             "value": 2
         },
         {
-            "name": "t.co",
+            "name": "Bing",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 93
+            "value": 86
         },
         {
             "name": "Google",
-            "value": 85
+            "value": 80
         },
         {
             "name": "github.com",
-            "value": 57
-        },
-        {
-            "name": "pyweb.io",
             "value": 53
         },
         {
+            "name": "pyweb.io",
+            "value": 48
+        },
+        {
             "name": "DuckDuckGo",
-            "value": 5
+            "value": 4
         },
         {
             "name": "link.zhihu.com",
-            "value": 4
+            "value": 3
         },
         {
             "name": "python.plainenglish.io",
@@ -623,11 +635,11 @@
             "value": 3
         },
         {
-            "name": "Bing",
+            "name": "staging.v2ex.com",
             "value": 2
         },
         {
-            "name": "t.co",
+            "name": "Bing",
             "value": 2
         }
     ]
