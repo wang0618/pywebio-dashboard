@@ -423,16 +423,10 @@ var data = {
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15",
-        "2021-09-16",
-        "2021-09-17",
-        "2021-09-18",
-        "2021-09-19",
-        "2021-09-20",
-        "2021-09-21"
+        "2021-09-15"
     ],
     "views-count": [
-        42,
+        40,
         114,
         193,
         92,
@@ -440,16 +434,10 @@ var data = {
         75,
         87,
         127,
-        78,
-        148,
-        164,
-        76,
-        129,
-        137,
-        12
+        76
     ],
     "views-uniques": [
-        18,
+        17,
         36,
         34,
         28,
@@ -457,13 +445,7 @@ var data = {
         23,
         29,
         40,
-        34,
-        48,
-        53,
-        29,
-        40,
-        37,
-        4
+        33
     ],
     "clones-dates": [
         "2021-09-07",
@@ -516,23 +498,38 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 98,
-            "uniques": 52
-        },
-        {
-            "referrer": "github.com",
-            "count": 57,
-            "uniques": 31
+            "count": 176,
+            "uniques": 93
         },
         {
             "referrer": "Google",
-            "count": 53,
-            "uniques": 39
+            "count": 131,
+            "uniques": 83
+        },
+        {
+            "referrer": "github.com",
+            "count": 94,
+            "uniques": 58
         },
         {
             "referrer": "pyweb.io",
-            "count": 40,
-            "uniques": 31
+            "count": 67,
+            "uniques": 52
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 6,
+            "uniques": 4
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 5,
+            "uniques": 2
+        },
+        {
+            "referrer": "link.zhihu.com",
+            "count": 4,
+            "uniques": 3
         },
         {
             "referrer": "v2ex.com",
@@ -540,113 +537,98 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "link.zhihu.com",
-            "count": 3,
+            "referrer": "Yahoo",
+            "count": 2,
             "uniques": 2
         },
         {
             "referrer": "t.co",
             "count": 2,
             "uniques": 2
-        },
-        {
-            "referrer": "cupoy.com",
-            "count": 2,
-            "uniques": 1
-        },
-        {
-            "referrer": "DuckDuckGo",
-            "count": 2,
-            "uniques": 1
-        },
-        {
-            "referrer": "app.clickup.com",
-            "count": 2,
-            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 98
-        },
-        {
-            "name": "github.com",
-            "value": 57
+            "value": 176
         },
         {
             "name": "Google",
-            "value": 53
+            "value": 131
+        },
+        {
+            "name": "github.com",
+            "value": 94
         },
         {
             "name": "pyweb.io",
-            "value": 40
+            "value": 67
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 6
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 5
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 4
         },
         {
             "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "link.zhihu.com",
-            "value": 3
+            "name": "Yahoo",
+            "value": 2
         },
         {
             "name": "t.co",
-            "value": 2
-        },
-        {
-            "name": "cupoy.com",
-            "value": 2
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 2
-        },
-        {
-            "name": "app.clickup.com",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 52
-        },
-        {
-            "name": "github.com",
-            "value": 31
+            "value": 93
         },
         {
             "name": "Google",
-            "value": 39
+            "value": 83
+        },
+        {
+            "name": "github.com",
+            "value": 58
         },
         {
             "name": "pyweb.io",
-            "value": 31
+            "value": 52
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 2
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 3
         },
         {
             "name": "v2ex.com",
             "value": 3
         },
         {
-            "name": "link.zhihu.com",
+            "name": "Yahoo",
             "value": 2
         },
         {
             "name": "t.co",
             "value": 2
-        },
-        {
-            "name": "cupoy.com",
-            "value": 1
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 1
-        },
-        {
-            "name": "app.clickup.com",
-            "value": 1
         }
     ]
 };
