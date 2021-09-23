@@ -1,6 +1,6 @@
 var data = {
     "GithubStars": 1669,
-    "GithubUsed": 353,
+    "GithubUsed": 354,
     "WeekNewStars": 8,
     "WeekCDNHits": 21797,
     "WeekNewUsed": 6,
@@ -209,55 +209,55 @@ var data = {
         "2021-09-23"
     ],
     "used-total": [
-        302,
-        302,
-        302,
+        303,
         303,
         303,
         304,
-        306,
-        310,
-        314,
-        314,
-        314,
-        314,
+        304,
+        305,
+        307,
+        311,
         315,
         315,
         315,
-        317,
+        315,
+        316,
+        316,
+        316,
         318,
-        320,
-        322,
+        319,
+        321,
         323,
-        326,
-        326,
+        324,
         327,
-        329,
+        327,
+        328,
         330,
-        335,
-        335,
+        331,
         336,
         336,
-        336,
-        336,
-        339,
-        340,
+        337,
+        337,
+        337,
+        337,
         340,
         341,
+        341,
         342,
-        342,
-        344,
+        343,
+        343,
         345,
         346,
         347,
-        347,
-        351,
-        351,
+        348,
+        348,
+        352,
         352,
         353,
-        353,
-        353,
-        353
+        354,
+        354,
+        354,
+        354
     ],
     "used-daily": [
         1,
@@ -431,7 +431,7 @@ var data = {
         "2021-09-22"
     ],
     "views-count": [
-        182,
+        171,
         92,
         75,
         75,
@@ -447,7 +447,7 @@ var data = {
         234
     ],
     "views-uniques": [
-        33,
+        30,
         28,
         22,
         23,
@@ -468,44 +468,75 @@ var data = {
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15"
+        "2021-09-15",
+        "2021-09-16",
+        "2021-09-17",
+        "2021-09-18",
+        "2021-09-19",
+        "2021-09-20",
+        "2021-09-21",
+        "2021-09-22"
     ],
     "clones-count": [
-        3,
+        2,
         19,
         3,
         3,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        9,
         1
     ],
     "clones-uniques": [
-        3,
+        2,
         9,
         3,
         3,
         1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
         1
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 70,
-            "uniques": 40
-        },
-        {
-            "referrer": "github.com",
-            "count": 43,
-            "uniques": 26
+            "count": 173,
+            "uniques": 94
         },
         {
             "referrer": "Google",
-            "count": 34,
-            "uniques": 27
+            "count": 123,
+            "uniques": 81
+        },
+        {
+            "referrer": "github.com",
+            "count": 84,
+            "uniques": 56
         },
         {
             "referrer": "pyweb.io",
-            "count": 27,
-            "uniques": 21
+            "count": 63,
+            "uniques": 50
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 5,
+            "uniques": 2
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 4,
+            "uniques": 3
         },
         {
             "referrer": "v2ex.com",
@@ -513,113 +544,103 @@ var data = {
             "uniques": 3
         },
         {
+            "referrer": "Yahoo",
+            "count": 2,
+            "uniques": 2
+        },
+        {
             "referrer": "t.co",
             "count": 2,
             "uniques": 2
         },
         {
-            "referrer": "cupoy.com",
-            "count": 1,
-            "uniques": 1
-        },
-        {
-            "referrer": "facebook.com",
-            "count": 1,
-            "uniques": 1
-        },
-        {
-            "referrer": "wap.sogou.com",
-            "count": 1,
-            "uniques": 1
-        },
-        {
             "referrer": "staging.v2ex.com",
-            "count": 1,
-            "uniques": 1
+            "count": 2,
+            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 70
-        },
-        {
-            "name": "github.com",
-            "value": 43
+            "value": 173
         },
         {
             "name": "Google",
-            "value": 34
+            "value": 123
+        },
+        {
+            "name": "github.com",
+            "value": 84
         },
         {
             "name": "pyweb.io",
-            "value": 27
+            "value": 63
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 5
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 4
         },
         {
             "name": "v2ex.com",
             "value": 3
         },
         {
+            "name": "Yahoo",
+            "value": 2
+        },
+        {
             "name": "t.co",
             "value": 2
         },
         {
-            "name": "cupoy.com",
-            "value": 1
-        },
-        {
-            "name": "facebook.com",
-            "value": 1
-        },
-        {
-            "name": "wap.sogou.com",
-            "value": 1
-        },
-        {
             "name": "staging.v2ex.com",
-            "value": 1
+            "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 40
-        },
-        {
-            "name": "github.com",
-            "value": 26
+            "value": 94
         },
         {
             "name": "Google",
-            "value": 27
+            "value": 81
+        },
+        {
+            "name": "github.com",
+            "value": 56
         },
         {
             "name": "pyweb.io",
-            "value": 21
+            "value": 50
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 2
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 3
         },
         {
             "name": "v2ex.com",
             "value": 3
         },
         {
+            "name": "Yahoo",
+            "value": 2
+        },
+        {
             "name": "t.co",
             "value": 2
         },
         {
-            "name": "cupoy.com",
-            "value": 1
-        },
-        {
-            "name": "facebook.com",
-            "value": 1
-        },
-        {
-            "name": "wap.sogou.com",
-            "value": 1
-        },
-        {
             "name": "staging.v2ex.com",
-            "value": 1
+            "value": 2
         }
     ]
 };
