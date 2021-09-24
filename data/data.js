@@ -420,6 +420,29 @@ var data = {
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
+        "2021-09-15"
+    ],
+    "views-count": [
+        17,
+        75,
+        75,
+        87,
+        127,
+        76
+    ],
+    "views-uniques": [
+        7,
+        22,
+        23,
+        29,
+        40,
+        33
+    ],
+    "clones-dates": [
+        "2021-09-11",
+        "2021-09-12",
+        "2021-09-13",
+        "2021-09-14",
         "2021-09-15",
         "2021-09-16",
         "2021-09-17",
@@ -431,195 +454,172 @@ var data = {
         "2021-09-23",
         "2021-09-24"
     ],
-    "views-count": [
-        36,
-        75,
-        75,
-        87,
-        127,
-        78,
-        148,
-        164,
-        76,
-        129,
-        137,
-        157,
-        234,
-        170,
-        38
-    ],
-    "views-uniques": [
-        10,
-        22,
-        23,
-        29,
-        40,
-        34,
-        48,
-        53,
-        29,
-        40,
-        37,
-        38,
-        42,
-        40,
-        15
-    ],
-    "clones-dates": [
-        "2021-09-11",
-        "2021-09-12",
-        "2021-09-13",
-        "2021-09-14",
-        "2021-09-15"
-    ],
     "clones-count": [
         19,
         3,
         3,
         1,
-        1
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        9,
+        1,
+        3,
+        10
     ],
     "clones-uniques": [
         9,
         3,
         3,
         1,
-        1
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        5,
+        1,
+        3,
+        5
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 53,
-            "uniques": 33
+            "count": 202,
+            "uniques": 103
         },
         {
             "referrer": "Google",
-            "count": 29,
-            "uniques": 23
+            "count": 143,
+            "uniques": 92
         },
         {
             "referrer": "github.com",
-            "count": 29,
-            "uniques": 22
+            "count": 95,
+            "uniques": 61
         },
         {
             "referrer": "pyweb.io",
-            "count": 24,
-            "uniques": 18
+            "count": 63,
+            "uniques": 50
         },
         {
-            "referrer": "t.co",
-            "count": 2,
+            "referrer": "pypi.org",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 5,
             "uniques": 2
+        },
+        {
+            "referrer": "link.zhihu.com",
+            "count": 4,
+            "uniques": 3
         },
         {
             "referrer": "v2ex.com",
+            "count": 3,
+            "uniques": 3
+        },
+        {
+            "referrer": "Yahoo",
             "count": 2,
             "uniques": 2
-        },
-        {
-            "referrer": "cupoy.com",
-            "count": 1,
-            "uniques": 1
-        },
-        {
-            "referrer": "staging.v2ex.com",
-            "count": 1,
-            "uniques": 1
-        },
-        {
-            "referrer": "pywebio-zh-cn.readthedocs.io",
-            "count": 1,
-            "uniques": 1
-        },
-        {
-            "referrer": "colab.research.google.com",
-            "count": 1,
-            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 53
+            "value": 202
         },
         {
             "name": "Google",
-            "value": 29
+            "value": 143
         },
         {
             "name": "github.com",
-            "value": 29
+            "value": 95
         },
         {
             "name": "pyweb.io",
-            "value": 24
+            "value": 63
         },
         {
-            "name": "t.co",
-            "value": 2
+            "name": "pypi.org",
+            "value": 5
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 5
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 5
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 4
         },
         {
             "name": "v2ex.com",
+            "value": 3
+        },
+        {
+            "name": "Yahoo",
             "value": 2
-        },
-        {
-            "name": "cupoy.com",
-            "value": 1
-        },
-        {
-            "name": "staging.v2ex.com",
-            "value": 1
-        },
-        {
-            "name": "pywebio-zh-cn.readthedocs.io",
-            "value": 1
-        },
-        {
-            "name": "colab.research.google.com",
-            "value": 1
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 33
+            "value": 103
         },
         {
             "name": "Google",
-            "value": 23
+            "value": 92
         },
         {
             "name": "github.com",
-            "value": 22
+            "value": 61
         },
         {
             "name": "pyweb.io",
-            "value": 18
+            "value": 50
         },
         {
-            "name": "t.co",
+            "name": "pypi.org",
+            "value": 4
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
+            "name": "python.plainenglish.io",
             "value": 2
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 3
         },
         {
             "name": "v2ex.com",
+            "value": 3
+        },
+        {
+            "name": "Yahoo",
             "value": 2
-        },
-        {
-            "name": "cupoy.com",
-            "value": 1
-        },
-        {
-            "name": "staging.v2ex.com",
-            "value": 1
-        },
-        {
-            "name": "pywebio-zh-cn.readthedocs.io",
-            "value": 1
-        },
-        {
-            "name": "colab.research.google.com",
-            "value": 1
         }
     ]
 };
