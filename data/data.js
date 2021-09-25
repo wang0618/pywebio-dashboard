@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1673,
+    "GithubStars": 1674,
     "GithubUsed": 355,
-    "WeekNewStars": 7,
+    "WeekNewStars": 8,
     "WeekCDNHits": 19105,
     "WeekNewUsed": 3,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1669,
         1670,
         1673,
-        1673
+        1674
     ],
     "star-daily": [
         0,
@@ -155,7 +155,7 @@ var data = {
         1,
         1,
         3,
-        0
+        1
     ],
     "used-dates": [
         "2021-08-08",
@@ -419,48 +419,21 @@ var data = {
         "2021-09-12",
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15",
-        "2021-09-16",
-        "2021-09-17",
-        "2021-09-18",
-        "2021-09-19",
-        "2021-09-20",
-        "2021-09-21",
-        "2021-09-22",
-        "2021-09-23",
-        "2021-09-24"
+        "2021-09-15"
     ],
     "views-count": [
-        69,
+        64,
         75,
         87,
         127,
-        78,
-        148,
-        164,
-        76,
-        129,
-        137,
-        157,
-        234,
-        170,
-        122
+        76
     ],
     "views-uniques": [
-        16,
+        12,
         23,
         29,
         40,
-        34,
-        48,
-        53,
-        29,
-        40,
-        37,
-        38,
-        42,
-        40,
-        32
+        33
     ],
     "clones-dates": [
         "2021-09-11",
@@ -532,12 +505,12 @@ var data = {
             "uniques": 48
         },
         {
-            "referrer": "pypi.org",
+            "referrer": "DuckDuckGo",
             "count": 5,
             "uniques": 4
         },
         {
-            "referrer": "DuckDuckGo",
+            "referrer": "pypi.org",
             "count": 5,
             "uniques": 4
         },
@@ -580,11 +553,11 @@ var data = {
             "value": 61
         },
         {
-            "name": "pypi.org",
+            "name": "DuckDuckGo",
             "value": 5
         },
         {
-            "name": "DuckDuckGo",
+            "name": "pypi.org",
             "value": 5
         },
         {
@@ -622,11 +595,11 @@ var data = {
             "value": 48
         },
         {
-            "name": "pypi.org",
+            "name": "DuckDuckGo",
             "value": 4
         },
         {
-            "name": "DuckDuckGo",
+            "name": "pypi.org",
             "value": 4
         },
         {
