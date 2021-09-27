@@ -1,7 +1,7 @@
 {
-    "GithubStars": 1675,
+    "GithubStars": 1676,
     "GithubUsed": 356,
-    "WeekNewStars": 8,
+    "WeekNewStars": 9,
     "WeekCDNHits": 18414,
     "WeekNewUsed": 2,
     "star-dates": [
@@ -104,7 +104,7 @@
         1673,
         1674,
         1675,
-        1675
+        1676
     ],
     "star-daily": [
         1,
@@ -155,7 +155,7 @@
         3,
         1,
         1,
-        0
+        1
     ],
     "used-dates": [
         "2021-08-10",
@@ -417,17 +417,53 @@
     "views-dates": [
         "2021-09-13",
         "2021-09-14",
-        "2021-09-15"
+        "2021-09-15",
+        "2021-09-16",
+        "2021-09-17",
+        "2021-09-18",
+        "2021-09-19",
+        "2021-09-20",
+        "2021-09-21",
+        "2021-09-22",
+        "2021-09-23",
+        "2021-09-24",
+        "2021-09-25",
+        "2021-09-26",
+        "2021-09-27"
     ],
     "views-count": [
-        60,
+        47,
         127,
-        76
+        78,
+        148,
+        164,
+        76,
+        129,
+        137,
+        157,
+        234,
+        170,
+        122,
+        80,
+        124,
+        52
     ],
     "views-uniques": [
-        21,
+        16,
         40,
-        33
+        34,
+        48,
+        53,
+        29,
+        40,
+        37,
+        38,
+        42,
+        40,
+        32,
+        18,
+        30,
+        12
     ],
     "clones-dates": [
         "2021-09-13",
@@ -446,7 +482,7 @@
         "2021-09-26"
     ],
     "clones-count": [
-        2,
+        1,
         1,
         1,
         1,
@@ -462,7 +498,7 @@
         5
     ],
     "clones-uniques": [
-        2,
+        1,
         1,
         1,
         1,
@@ -480,98 +516,137 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 21,
-            "uniques": 15
-        },
-        {
-            "referrer": "pyweb.io",
-            "count": 12,
-            "uniques": 7
-        },
-        {
-            "referrer": "github.com",
-            "count": 10,
-            "uniques": 9
+            "count": 196,
+            "uniques": 107
         },
         {
             "referrer": "Google",
-            "count": 3,
-            "uniques": 2
+            "count": 146,
+            "uniques": 91
         },
         {
-            "referrer": "staging.v2ex.com",
-            "count": 1,
-            "uniques": 1
+            "referrer": "github.com",
+            "count": 98,
+            "uniques": 56
+        },
+        {
+            "referrer": "pyweb.io",
+            "count": 59,
+            "uniques": 47
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 6,
+            "uniques": 5
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 6,
+            "uniques": 3
+        },
+        {
+            "referrer": "pypi.org",
+            "count": 5,
+            "uniques": 4
+        },
+        {
+            "referrer": "link.zhihu.com",
+            "count": 5,
+            "uniques": 4
         },
         {
             "referrer": "cupoy.com",
-            "count": 1,
-            "uniques": 1
+            "count": 4,
+            "uniques": 2
         },
         {
-            "referrer": "v2ex.com",
-            "count": 1,
-            "uniques": 1
+            "referrer": "reddit.com",
+            "count": 3,
+            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 21
-        },
-        {
-            "name": "pyweb.io",
-            "value": 12
-        },
-        {
-            "name": "github.com",
-            "value": 10
+            "value": 196
         },
         {
             "name": "Google",
-            "value": 3
+            "value": 146
         },
         {
-            "name": "staging.v2ex.com",
-            "value": 1
+            "name": "github.com",
+            "value": 98
+        },
+        {
+            "name": "pyweb.io",
+            "value": 59
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 6
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 6
+        },
+        {
+            "name": "pypi.org",
+            "value": 5
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 5
         },
         {
             "name": "cupoy.com",
-            "value": 1
+            "value": 4
         },
         {
-            "name": "v2ex.com",
-            "value": 1
+            "name": "reddit.com",
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 15
-        },
-        {
-            "name": "pyweb.io",
-            "value": 7
-        },
-        {
-            "name": "github.com",
-            "value": 9
+            "value": 107
         },
         {
             "name": "Google",
-            "value": 2
+            "value": 91
         },
         {
-            "name": "staging.v2ex.com",
-            "value": 1
+            "name": "github.com",
+            "value": 56
+        },
+        {
+            "name": "pyweb.io",
+            "value": 47
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 5
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 3
+        },
+        {
+            "name": "pypi.org",
+            "value": 4
+        },
+        {
+            "name": "link.zhihu.com",
+            "value": 4
         },
         {
             "name": "cupoy.com",
-            "value": 1
+            "value": 2
         },
         {
-            "name": "v2ex.com",
-            "value": 1
+            "name": "reddit.com",
+            "value": 2
         }
     ]
 }
