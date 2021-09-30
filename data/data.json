@@ -431,7 +431,7 @@
         "2021-09-29"
     ],
     "views-count": [
-        79,
+        76,
         164,
         76,
         129,
@@ -447,7 +447,7 @@
         120
     ],
     "views-uniques": [
-        27,
+        25,
         53,
         29,
         40,
@@ -513,28 +513,38 @@
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 177,
-            "uniques": 94
+            "count": 189,
+            "uniques": 102
         },
         {
             "referrer": "Google",
-            "count": 141,
-            "uniques": 91
+            "count": 152,
+            "uniques": 96
         },
         {
             "referrer": "github.com",
-            "count": 84,
-            "uniques": 45
+            "count": 89,
+            "uniques": 50
         },
         {
             "referrer": "pyweb.io",
-            "count": 52,
-            "uniques": 44
+            "count": 59,
+            "uniques": 48
         },
         {
             "referrer": "python.plainenglish.io",
             "count": 6,
             "uniques": 3
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 5,
+            "uniques": 5
+        },
+        {
+            "referrer": "libhunt.com",
+            "count": 5,
+            "uniques": 4
         },
         {
             "referrer": "pypi.org",
@@ -547,17 +557,7 @@
             "uniques": 3
         },
         {
-            "referrer": "DuckDuckGo",
-            "count": 4,
-            "uniques": 4
-        },
-        {
             "referrer": "cn.bing.com",
-            "count": 4,
-            "uniques": 3
-        },
-        {
-            "referrer": "libhunt.com",
             "count": 4,
             "uniques": 3
         }
@@ -565,25 +565,33 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 177
+            "value": 189
         },
         {
             "name": "Google",
-            "value": 141
+            "value": 152
         },
         {
             "name": "github.com",
-            "value": 84
+            "value": 89
         },
         {
             "name": "pyweb.io",
-            "value": 52
+            "value": 59
         },
         {
             "name": "python.plainenglish.io",
             "value": 6
         },
         {
+            "name": "DuckDuckGo",
+            "value": 5
+        },
+        {
+            "name": "libhunt.com",
+            "value": 5
+        },
+        {
             "name": "pypi.org",
             "value": 5
         },
@@ -592,38 +600,38 @@
             "value": 5
         },
         {
-            "name": "DuckDuckGo",
-            "value": 4
-        },
-        {
             "name": "cn.bing.com",
-            "value": 4
-        },
-        {
-            "name": "libhunt.com",
             "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 94
+            "value": 102
         },
         {
             "name": "Google",
-            "value": 91
+            "value": 96
         },
         {
             "name": "github.com",
-            "value": 45
+            "value": 50
         },
         {
             "name": "pyweb.io",
-            "value": 44
+            "value": 48
         },
         {
             "name": "python.plainenglish.io",
             "value": 3
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 5
+        },
+        {
+            "name": "libhunt.com",
+            "value": 4
         },
         {
             "name": "pypi.org",
@@ -634,15 +642,7 @@
             "value": 3
         },
         {
-            "name": "DuckDuckGo",
-            "value": 4
-        },
-        {
             "name": "cn.bing.com",
-            "value": 3
-        },
-        {
-            "name": "libhunt.com",
             "value": 3
         }
     ]
