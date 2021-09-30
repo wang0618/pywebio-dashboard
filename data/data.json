@@ -1,11 +1,10 @@
 {
     "GithubStars": 1681,
     "GithubUsed": 357,
-    "WeekNewStars": 12,
-    "WeekCDNHits": 20076,
+    "WeekNewStars": 11,
+    "WeekCDNHits": 19882,
     "WeekNewUsed": 3,
     "star-dates": [
-        "2021-08-12",
         "2021-08-13",
         "2021-08-14",
         "2021-08-15",
@@ -53,10 +52,10 @@
         "2021-09-26",
         "2021-09-27",
         "2021-09-28",
-        "2021-09-29"
+        "2021-09-29",
+        "2021-09-30"
     ],
     "star-total": [
-        1630,
         1630,
         1631,
         1632,
@@ -104,10 +103,10 @@
         1675,
         1676,
         1680,
+        1681,
         1681
     ],
     "star-daily": [
-        2,
         0,
         1,
         1,
@@ -155,10 +154,10 @@
         1,
         1,
         4,
-        1
+        1,
+        0
     ],
     "used-dates": [
-        "2021-08-12",
         "2021-08-13",
         "2021-08-14",
         "2021-08-15",
@@ -206,10 +205,10 @@
         "2021-09-26",
         "2021-09-27",
         "2021-09-28",
-        "2021-09-29"
+        "2021-09-29",
+        "2021-09-30"
     ],
     "used-total": [
-        307,
         311,
         315,
         315,
@@ -257,10 +256,10 @@
         356,
         356,
         356,
+        357,
         357
     ],
     "used-daily": [
-        2,
         4,
         4,
         0,
@@ -308,10 +307,10 @@
         1,
         0,
         0,
-        1
+        1,
+        0
     ],
     "cdn-dates": [
-        "2021-08-09",
         "2021-08-10",
         "2021-08-11",
         "2021-08-12",
@@ -360,10 +359,10 @@
         "2021-09-24",
         "2021-09-25",
         "2021-09-26",
-        "2021-09-27"
+        "2021-09-27",
+        "2021-09-28"
     ],
     "cdn-daily": [
-        4716,
         3402,
         2193,
         6551,
@@ -412,10 +411,10 @@
         2733,
         2142,
         2903,
-        3473
+        3473,
+        3245
     ],
     "views-dates": [
-        "2021-09-15",
         "2021-09-16",
         "2021-09-17",
         "2021-09-18",
@@ -432,8 +431,7 @@
         "2021-09-29"
     ],
     "views-count": [
-        2,
-        148,
+        146,
         164,
         76,
         129,
@@ -446,10 +444,9 @@
         124,
         133,
         117,
-        115
+        120
     ],
     "views-uniques": [
-        2,
         48,
         53,
         29,
@@ -463,7 +460,7 @@
         30,
         37,
         42,
-        32
+        36
     ],
     "clones-dates": [
         "2021-09-16",
@@ -495,7 +492,7 @@
         5,
         2,
         4,
-        3
+        5
     ],
     "clones-uniques": [
         1,
@@ -511,38 +508,28 @@
         3,
         1,
         3,
-        3
+        5
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 196,
-            "uniques": 107
+            "count": 177,
+            "uniques": 94
         },
         {
             "referrer": "Google",
-            "count": 152,
-            "uniques": 98
+            "count": 141,
+            "uniques": 91
         },
         {
             "referrer": "github.com",
-            "count": 97,
-            "uniques": 52
+            "count": 84,
+            "uniques": 45
         },
         {
             "referrer": "pyweb.io",
-            "count": 59,
-            "uniques": 48
-        },
-        {
-            "referrer": "DuckDuckGo",
-            "count": 6,
-            "uniques": 5
-        },
-        {
-            "referrer": "link.zhihu.com",
-            "count": 6,
-            "uniques": 4
+            "count": 52,
+            "uniques": 44
         },
         {
             "referrer": "python.plainenglish.io",
@@ -555,12 +542,22 @@
             "uniques": 4
         },
         {
-            "referrer": "libhunt.com",
+            "referrer": "link.zhihu.com",
+            "count": 5,
+            "uniques": 3
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 4,
+            "uniques": 4
+        },
+        {
+            "referrer": "cn.bing.com",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "cn.bing.com",
+            "referrer": "libhunt.com",
             "count": 4,
             "uniques": 3
         }
@@ -568,27 +565,19 @@
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 196
+            "value": 177
         },
         {
             "name": "Google",
-            "value": 152
+            "value": 141
         },
         {
             "name": "github.com",
-            "value": 97
+            "value": 84
         },
         {
             "name": "pyweb.io",
-            "value": 59
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 6
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 6
+            "value": 52
         },
         {
             "name": "python.plainenglish.io",
@@ -599,38 +588,38 @@
             "value": 5
         },
         {
-            "name": "libhunt.com",
+            "name": "link.zhihu.com",
+            "value": 5
+        },
+        {
+            "name": "DuckDuckGo",
             "value": 4
         },
         {
             "name": "cn.bing.com",
+            "value": 4
+        },
+        {
+            "name": "libhunt.com",
             "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 107
+            "value": 94
         },
         {
             "name": "Google",
-            "value": 98
+            "value": 91
         },
         {
             "name": "github.com",
-            "value": 52
+            "value": 45
         },
         {
             "name": "pyweb.io",
-            "value": 48
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 5
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 4
+            "value": 44
         },
         {
             "name": "python.plainenglish.io",
@@ -641,11 +630,19 @@
             "value": 4
         },
         {
-            "name": "libhunt.com",
+            "name": "link.zhihu.com",
             "value": 3
         },
         {
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
             "name": "cn.bing.com",
+            "value": 3
+        },
+        {
+            "name": "libhunt.com",
             "value": 3
         }
     ]
