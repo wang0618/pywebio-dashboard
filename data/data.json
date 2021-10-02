@@ -431,7 +431,7 @@
         "2021-10-01"
     ],
     "views-count": [
-        72,
+        70,
         129,
         137,
         157,
@@ -447,7 +447,7 @@
         116
     ],
     "views-uniques": [
-        27,
+        26,
         40,
         37,
         38,
@@ -526,12 +526,12 @@
             "uniques": 46
         },
         {
-            "referrer": "pypi.org",
+            "referrer": "libhunt.com",
             "count": 5,
             "uniques": 4
         },
         {
-            "referrer": "libhunt.com",
+            "referrer": "pypi.org",
             "count": 5,
             "uniques": 4
         },
@@ -551,7 +551,7 @@
             "uniques": 3
         },
         {
-            "referrer": "DuckDuckGo",
+            "referrer": "news.ycombinator.com",
             "count": 3,
             "uniques": 3
         }
@@ -574,11 +574,11 @@
             "value": 57
         },
         {
-            "name": "pypi.org",
+            "name": "libhunt.com",
             "value": 5
         },
         {
-            "name": "libhunt.com",
+            "name": "pypi.org",
             "value": 5
         },
         {
@@ -594,7 +594,7 @@
             "value": 4
         },
         {
-            "name": "DuckDuckGo",
+            "name": "news.ycombinator.com",
             "value": 3
         }
     ],
@@ -616,11 +616,11 @@
             "value": 46
         },
         {
-            "name": "pypi.org",
+            "name": "libhunt.com",
             "value": 4
         },
         {
-            "name": "libhunt.com",
+            "name": "pypi.org",
             "value": 4
         },
         {
@@ -636,7 +636,7 @@
             "value": 3
         },
         {
-            "name": "DuckDuckGo",
+            "name": "news.ycombinator.com",
             "value": 3
         }
     ]
