@@ -428,10 +428,11 @@ var data = {
         "2021-09-29",
         "2021-09-30",
         "2021-10-01",
-        "2021-10-02"
+        "2021-10-02",
+        "2021-10-03"
     ],
     "views-count": [
-        126,
+        124,
         137,
         157,
         234,
@@ -444,10 +445,11 @@ var data = {
         120,
         127,
         116,
-        135
+        135,
+        13
     ],
     "views-uniques": [
-        38,
+        37,
         37,
         38,
         42,
@@ -460,7 +462,8 @@ var data = {
         36,
         40,
         33,
-        32
+        32,
+        3
     ],
     "clones-dates": [
         "2021-09-19",
@@ -510,23 +513,28 @@ var data = {
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 181,
-            "uniques": 100
+            "count": 193,
+            "uniques": 104
         },
         {
             "referrer": "Google",
-            "count": 131,
-            "uniques": 89
+            "count": 151,
+            "uniques": 100
         },
         {
             "referrer": "github.com",
-            "count": 81,
-            "uniques": 44
+            "count": 84,
+            "uniques": 46
         },
         {
             "referrer": "pyweb.io",
-            "count": 58,
-            "uniques": 46
+            "count": 62,
+            "uniques": 49
+        },
+        {
+            "referrer": "DuckDuckGo",
+            "count": 6,
+            "uniques": 6
         },
         {
             "referrer": "libhunt.com",
@@ -534,7 +542,7 @@ var data = {
             "uniques": 5
         },
         {
-            "referrer": "DuckDuckGo",
+            "referrer": "python.plainenglish.io",
             "count": 5,
             "uniques": 5
         },
@@ -544,17 +552,12 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "python.plainenglish.io",
-            "count": 4,
-            "uniques": 4
-        },
-        {
-            "referrer": "pypi.org",
+            "referrer": "cn.bing.com",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "cn.bing.com",
+            "referrer": "pypi.org",
             "count": 4,
             "uniques": 3
         }
@@ -562,26 +565,30 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 181
+            "value": 193
         },
         {
             "name": "Google",
-            "value": 131
+            "value": 151
         },
         {
             "name": "github.com",
-            "value": 81
+            "value": 84
         },
         {
             "name": "pyweb.io",
-            "value": 58
+            "value": 62
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 6
         },
         {
             "name": "libhunt.com",
             "value": 6
         },
         {
-            "name": "DuckDuckGo",
+            "name": "python.plainenglish.io",
             "value": 5
         },
         {
@@ -589,41 +596,41 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "cn.bing.com",
             "value": 4
         },
         {
             "name": "pypi.org",
-            "value": 4
-        },
-        {
-            "name": "cn.bing.com",
             "value": 4
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 100
+            "value": 104
         },
         {
             "name": "Google",
-            "value": 89
+            "value": 100
         },
         {
             "name": "github.com",
-            "value": 44
+            "value": 46
         },
         {
             "name": "pyweb.io",
-            "value": 46
+            "value": 49
+        },
+        {
+            "name": "DuckDuckGo",
+            "value": 6
         },
         {
             "name": "libhunt.com",
             "value": 5
         },
         {
-            "name": "DuckDuckGo",
+            "name": "python.plainenglish.io",
             "value": 5
         },
         {
@@ -631,15 +638,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "python.plainenglish.io",
-            "value": 4
-        },
-        {
-            "name": "pypi.org",
+            "name": "cn.bing.com",
             "value": 3
         },
         {
-            "name": "cn.bing.com",
+            "name": "pypi.org",
             "value": 3
         }
     ]
