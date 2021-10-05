@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1686,
     "GithubUsed": 358,
-    "WeekNewStars": 10,
-    "WeekCDNHits": 23410,
+    "WeekNewStars": 6,
+    "WeekCDNHits": 22328,
     "WeekNewUsed": 1,
     "star-dates": [
-        "2021-08-17",
         "2021-08-18",
         "2021-08-19",
         "2021-08-20",
@@ -53,10 +52,10 @@ var data = {
         "2021-10-01",
         "2021-10-02",
         "2021-10-03",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-05"
     ],
     "star-total": [
-        1635,
         1636,
         1637,
         1637,
@@ -104,10 +103,10 @@ var data = {
         1684,
         1686,
         1686,
+        1686,
         1686
     ],
     "star-daily": [
-        1,
         1,
         1,
         0,
@@ -155,10 +154,10 @@ var data = {
         1,
         2,
         0,
+        0,
         0
     ],
     "used-dates": [
-        "2021-08-17",
         "2021-08-18",
         "2021-08-19",
         "2021-08-20",
@@ -206,10 +205,10 @@ var data = {
         "2021-10-01",
         "2021-10-02",
         "2021-10-03",
-        "2021-10-04"
+        "2021-10-04",
+        "2021-10-05"
     ],
     "used-total": [
-        316,
         317,
         317,
         317,
@@ -257,10 +256,10 @@ var data = {
         358,
         358,
         358,
+        358,
         358
     ],
     "used-daily": [
-        0,
         1,
         0,
         0,
@@ -308,10 +307,10 @@ var data = {
         0,
         0,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-08-14",
         "2021-08-15",
         "2021-08-16",
         "2021-08-17",
@@ -360,10 +359,10 @@ var data = {
         "2021-09-29",
         "2021-09-30",
         "2021-10-01",
-        "2021-10-02"
+        "2021-10-02",
+        "2021-10-03"
     ],
     "cdn-daily": [
-        2314,
         2761,
         3365,
         5597,
@@ -412,10 +411,10 @@ var data = {
         4202,
         3007,
         2880,
-        3184
+        3184,
+        2176
     ],
     "views-dates": [
-        "2021-09-20",
         "2021-09-21",
         "2021-09-22",
         "2021-09-23",
@@ -432,7 +431,6 @@ var data = {
         "2021-10-04"
     ],
     "views-count": [
-        1,
         157,
         234,
         170,
@@ -446,10 +444,9 @@ var data = {
         116,
         135,
         160,
-        72
+        82
     ],
     "views-uniques": [
-        1,
         38,
         42,
         40,
@@ -463,7 +460,7 @@ var data = {
         33,
         32,
         24,
-        32
+        37
     ],
     "clones-dates": [
         "2021-09-21",
@@ -493,7 +490,7 @@ var data = {
         1,
         9,
         41,
-        20
+        21
     ],
     "clones-uniques": [
         5,
@@ -508,28 +505,28 @@ var data = {
         1,
         4,
         12,
-        9
+        10
     ],
     "referrers": [
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 189,
-            "uniques": 103
+            "count": 164,
+            "uniques": 92
         },
         {
             "referrer": "Google",
-            "count": 155,
-            "uniques": 99
+            "count": 144,
+            "uniques": 93
         },
         {
             "referrer": "github.com",
-            "count": 82,
-            "uniques": 42
+            "count": 78,
+            "uniques": 38
         },
         {
             "referrer": "pyweb.io",
-            "count": 63,
-            "uniques": 48
+            "count": 54,
+            "uniques": 40
         },
         {
             "referrer": "libhunt.com",
@@ -547,37 +544,37 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "python.plainenglish.io",
-            "count": 4,
-            "uniques": 4
-        },
-        {
             "referrer": "pypi.org",
             "count": 4,
             "uniques": 3
         },
         {
-            "referrer": "cn.bing.com",
-            "count": 4,
+            "referrer": "Bing",
+            "count": 3,
+            "uniques": 3
+        },
+        {
+            "referrer": "python.plainenglish.io",
+            "count": 3,
             "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 189
+            "value": 164
         },
         {
             "name": "Google",
-            "value": 155
+            "value": 144
         },
         {
             "name": "github.com",
-            "value": 82
+            "value": 78
         },
         {
             "name": "pyweb.io",
-            "value": 63
+            "value": 54
         },
         {
             "name": "libhunt.com",
@@ -592,34 +589,34 @@ var data = {
             "value": 5
         },
         {
-            "name": "python.plainenglish.io",
-            "value": 4
-        },
-        {
             "name": "pypi.org",
             "value": 4
         },
         {
-            "name": "cn.bing.com",
-            "value": 4
+            "name": "Bing",
+            "value": 3
+        },
+        {
+            "name": "python.plainenglish.io",
+            "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "pywebio.readthedocs.io",
-            "value": 103
+            "value": 92
         },
         {
             "name": "Google",
-            "value": 99
+            "value": 93
         },
         {
             "name": "github.com",
-            "value": 42
+            "value": 38
         },
         {
             "name": "pyweb.io",
-            "value": 48
+            "value": 40
         },
         {
             "name": "libhunt.com",
@@ -634,15 +631,15 @@ var data = {
             "value": 3
         },
         {
-            "name": "python.plainenglish.io",
-            "value": 4
-        },
-        {
             "name": "pypi.org",
             "value": 3
         },
         {
-            "name": "cn.bing.com",
+            "name": "Bing",
+            "value": 3
+        },
+        {
+            "name": "python.plainenglish.io",
             "value": 3
         }
     ]
