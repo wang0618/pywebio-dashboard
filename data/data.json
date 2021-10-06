@@ -1,9 +1,9 @@
 {
     "GithubStars": 1687,
-    "GithubUsed": 359,
+    "GithubUsed": 361,
     "WeekNewStars": 6,
     "WeekCDNHits": 22182,
-    "WeekNewUsed": 1,
+    "WeekNewUsed": 2,
     "star-dates": [
         "2021-08-19",
         "2021-08-20",
@@ -209,55 +209,55 @@
         "2021-10-06"
     ],
     "used-total": [
-        317,
-        317,
-        319,
+        318,
+        318,
         320,
-        322,
-        324,
+        321,
+        323,
         325,
-        328,
-        328,
+        326,
         329,
-        331,
+        329,
+        330,
         332,
-        337,
-        337,
+        333,
         338,
         338,
-        338,
-        338,
-        341,
-        342,
+        339,
+        339,
+        339,
+        339,
         342,
         343,
+        343,
         344,
-        344,
-        346,
+        345,
+        345,
         347,
         348,
         349,
-        349,
-        353,
-        353,
+        350,
+        350,
+        354,
         354,
         355,
-        355,
-        355,
-        355,
+        356,
+        356,
         356,
         356,
         357,
         357,
-        357,
         358,
         358,
+        358,
         359,
         359,
-        359,
-        359,
-        359,
-        359
+        360,
+        360,
+        360,
+        360,
+        360,
+        361
     ],
     "used-daily": [
         0,
@@ -308,7 +308,7 @@
         0,
         0,
         0,
-        0
+        1
     ],
     "cdn-dates": [
         "2021-08-16",
@@ -428,10 +428,11 @@
         "2021-10-02",
         "2021-10-03",
         "2021-10-04",
-        "2021-10-05"
+        "2021-10-05",
+        "2021-10-06"
     ],
     "views-count": [
-        205,
+        196,
         170,
         122,
         80,
@@ -444,10 +445,11 @@
         135,
         160,
         82,
-        92
+        92,
+        6
     ],
     "views-uniques": [
-        33,
+        32,
         40,
         32,
         18,
@@ -460,7 +462,8 @@
         32,
         24,
         37,
-        28
+        28,
+        1
     ],
     "clones-dates": [
         "2021-09-23",
@@ -507,23 +510,23 @@
     "referrers": [
         {
             "referrer": "Google",
-            "count": 143,
-            "uniques": 94
+            "count": 164,
+            "uniques": 99
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 143,
-            "uniques": 88
+            "count": 155,
+            "uniques": 93
         },
         {
             "referrer": "github.com",
-            "count": 75,
-            "uniques": 43
+            "count": 77,
+            "uniques": 45
         },
         {
             "referrer": "pyweb.io",
-            "count": 57,
-            "uniques": 41
+            "count": 60,
+            "uniques": 44
         },
         {
             "referrer": "libhunt.com",
@@ -559,19 +562,19 @@
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 143
+            "value": 164
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 143
+            "value": 155
         },
         {
             "name": "github.com",
-            "value": 75
+            "value": 77
         },
         {
             "name": "pyweb.io",
-            "value": 57
+            "value": 60
         },
         {
             "name": "libhunt.com",
@@ -601,19 +604,19 @@
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 94
+            "value": 99
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 88
+            "value": 93
         },
         {
             "name": "github.com",
-            "value": 43
+            "value": 45
         },
         {
             "name": "pyweb.io",
-            "value": 41
+            "value": 44
         },
         {
             "name": "libhunt.com",
