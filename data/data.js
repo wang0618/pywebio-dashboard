@@ -428,10 +428,11 @@ var data = {
         "2021-10-03",
         "2021-10-04",
         "2021-10-05",
-        "2021-10-06"
+        "2021-10-06",
+        "2021-10-07"
     ],
     "views-count": [
-        99,
+        74,
         122,
         80,
         124,
@@ -444,10 +445,11 @@ var data = {
         160,
         82,
         92,
-        60
+        60,
+        8
     ],
     "views-uniques": [
-        31,
+        22,
         32,
         18,
         30,
@@ -460,7 +462,8 @@ var data = {
         24,
         37,
         28,
-        17
+        17,
+        4
     ],
     "clones-dates": [
         "2021-09-23",
@@ -539,12 +542,12 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "Bing",
+            "referrer": "DuckDuckGo",
             "count": 5,
             "uniques": 5
         },
         {
-            "referrer": "DuckDuckGo",
+            "referrer": "Bing",
             "count": 5,
             "uniques": 5
         },
@@ -585,11 +588,11 @@ var data = {
             "value": 6
         },
         {
-            "name": "Bing",
+            "name": "DuckDuckGo",
             "value": 5
         },
         {
-            "name": "DuckDuckGo",
+            "name": "Bing",
             "value": 5
         },
         {
@@ -627,11 +630,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "Bing",
+            "name": "DuckDuckGo",
             "value": 5
         },
         {
-            "name": "DuckDuckGo",
+            "name": "Bing",
             "value": 5
         },
         {
