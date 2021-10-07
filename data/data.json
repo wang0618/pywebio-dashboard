@@ -431,7 +431,7 @@
         "2021-10-06"
     ],
     "views-count": [
-        111,
+        99,
         122,
         80,
         124,
@@ -447,7 +447,7 @@
         60
     ],
     "views-uniques": [
-        32,
+        31,
         32,
         18,
         30,
@@ -478,7 +478,7 @@
         "2021-10-06"
     ],
     "clones-count": [
-        3,
+        2,
         11,
         2,
         5,
@@ -493,7 +493,7 @@
         3
     ],
     "clones-uniques": [
-        3,
+        2,
         6,
         2,
         3,
@@ -510,23 +510,23 @@
     "referrers": [
         {
             "referrer": "Google",
-            "count": 152,
-            "uniques": 91
+            "count": 156,
+            "uniques": 95
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 144,
-            "uniques": 86
+            "count": 148,
+            "uniques": 88
         },
         {
             "referrer": "github.com",
-            "count": 63,
-            "uniques": 39
+            "count": 68,
+            "uniques": 41
         },
         {
             "referrer": "pyweb.io",
-            "count": 58,
-            "uniques": 42
+            "count": 67,
+            "uniques": 47
         },
         {
             "referrer": "libhunt.com",
@@ -534,12 +534,17 @@
             "uniques": 6
         },
         {
-            "referrer": "DuckDuckGo",
+            "referrer": "link.zhihu.com",
+            "count": 6,
+            "uniques": 3
+        },
+        {
+            "referrer": "Bing",
             "count": 5,
             "uniques": 5
         },
         {
-            "referrer": "Bing",
+            "referrer": "DuckDuckGo",
             "count": 5,
             "uniques": 5
         },
@@ -552,40 +557,39 @@
             "referrer": "python.plainenglish.io",
             "count": 3,
             "uniques": 3
-        },
-        {
-            "referrer": "link.zhihu.com",
-            "count": 3,
-            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 152
+            "value": 156
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 144
+            "value": 148
         },
         {
             "name": "github.com",
-            "value": 63
+            "value": 68
         },
         {
             "name": "pyweb.io",
-            "value": 58
+            "value": 67
         },
         {
             "name": "libhunt.com",
             "value": 7
         },
         {
-            "name": "DuckDuckGo",
-            "value": 5
+            "name": "link.zhihu.com",
+            "value": 6
         },
         {
             "name": "Bing",
+            "value": 5
+        },
+        {
+            "name": "DuckDuckGo",
             "value": 5
         },
         {
@@ -594,40 +598,40 @@
         },
         {
             "name": "python.plainenglish.io",
-            "value": 3
-        },
-        {
-            "name": "link.zhihu.com",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 91
+            "value": 95
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 86
+            "value": 88
         },
         {
             "name": "github.com",
-            "value": 39
+            "value": 41
         },
         {
             "name": "pyweb.io",
-            "value": 42
+            "value": 47
         },
         {
             "name": "libhunt.com",
             "value": 6
         },
         {
-            "name": "DuckDuckGo",
-            "value": 5
+            "name": "link.zhihu.com",
+            "value": 3
         },
         {
             "name": "Bing",
+            "value": 5
+        },
+        {
+            "name": "DuckDuckGo",
             "value": 5
         },
         {
@@ -637,10 +641,6 @@
         {
             "name": "python.plainenglish.io",
             "value": 3
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 2
         }
     ]
 }
