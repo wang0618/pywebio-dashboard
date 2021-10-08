@@ -428,10 +428,11 @@
         "2021-10-04",
         "2021-10-05",
         "2021-10-06",
-        "2021-10-07"
+        "2021-10-07",
+        "2021-10-08"
     ],
     "views-count": [
-        112,
+        102,
         80,
         124,
         133,
@@ -444,10 +445,11 @@
         82,
         92,
         60,
-        42
+        43,
+        2
     ],
     "views-uniques": [
-        26,
+        25,
         18,
         30,
         37,
@@ -460,7 +462,8 @@
         37,
         28,
         17,
-        19
+        20,
+        2
     ],
     "clones-dates": [
         "2021-09-24",
@@ -510,23 +513,23 @@
     "referrers": [
         {
             "referrer": "Google",
-            "count": 144,
-            "uniques": 89
+            "count": 152,
+            "uniques": 95
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 136,
-            "uniques": 80
+            "count": 140,
+            "uniques": 82
         },
         {
             "referrer": "pyweb.io",
-            "count": 63,
-            "uniques": 44
+            "count": 73,
+            "uniques": 53
         },
         {
             "referrer": "github.com",
-            "count": 57,
-            "uniques": 37
+            "count": 60,
+            "uniques": 39
         },
         {
             "referrer": "libhunt.com",
@@ -562,19 +565,19 @@
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 144
+            "value": 152
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 136
+            "value": 140
         },
         {
             "name": "pyweb.io",
-            "value": 63
+            "value": 73
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 60
         },
         {
             "name": "libhunt.com",
@@ -604,19 +607,19 @@
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 89
+            "value": 95
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 80
+            "value": 82
         },
         {
             "name": "pyweb.io",
-            "value": 44
+            "value": 53
         },
         {
             "name": "github.com",
-            "value": 37
+            "value": 39
         },
         {
             "name": "libhunt.com",
