@@ -1,5 +1,5 @@
 {
-    "GithubStars": 1688,
+    "GithubStars": 1687,
     "GithubUsed": 361,
     "WeekNewStars": 2,
     "WeekCDNHits": 22160,
@@ -56,55 +56,55 @@
         "2021-10-09"
     ],
     "star-total": [
+        1636,
+        1636,
         1637,
         1637,
-        1638,
-        1638,
-        1638,
-        1638,
-        1638,
+        1637,
+        1637,
+        1637,
+        1637,
+        1637,
         1638,
         1638,
         1639,
         1639,
-        1640,
-        1640,
-        1642,
-        1644,
-        1644,
-        1644,
-        1646,
-        1646,
+        1641,
+        1643,
+        1643,
+        1643,
+        1645,
+        1645,
+        1647,
+        1647,
         1648,
         1648,
-        1649,
-        1649,
+        1651,
         1652,
-        1653,
-        1661,
+        1660,
+        1665,
+        1665,
         1666,
         1666,
-        1667,
         1667,
         1668,
         1669,
-        1670,
+        1672,
         1673,
         1674,
         1675,
-        1676,
+        1679,
         1680,
-        1681,
+        1682,
         1683,
-        1684,
-        1686,
-        1686,
+        1685,
+        1685,
+        1685,
         1686,
         1687,
-        1688,
-        1688,
-        1688,
-        1688
+        1687,
+        1687,
+        1687
     ],
     "star-daily": [
         0,
@@ -431,7 +431,7 @@
         "2021-10-08"
     ],
     "views-count": [
-        72,
+        66,
         124,
         133,
         117,
@@ -447,7 +447,7 @@
         104
     ],
     "views-uniques": [
-        15,
+        12,
         30,
         37,
         42,
@@ -510,23 +510,23 @@
     "referrers": [
         {
             "referrer": "Google",
-            "count": 144,
-            "uniques": 91
+            "count": 161,
+            "uniques": 101
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 137,
-            "uniques": 81
+            "count": 141,
+            "uniques": 84
         },
         {
             "referrer": "pyweb.io",
-            "count": 70,
-            "uniques": 50
+            "count": 72,
+            "uniques": 52
         },
         {
             "referrer": "github.com",
-            "count": 57,
-            "uniques": 38
+            "count": 66,
+            "uniques": 45
         },
         {
             "referrer": "libhunt.com",
@@ -534,14 +534,14 @@
             "uniques": 6
         },
         {
+            "referrer": "Bing",
+            "count": 6,
+            "uniques": 6
+        },
+        {
             "referrer": "link.zhihu.com",
             "count": 6,
             "uniques": 3
-        },
-        {
-            "referrer": "Bing",
-            "count": 5,
-            "uniques": 5
         },
         {
             "referrer": "DuckDuckGo",
@@ -562,31 +562,31 @@
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 144
+            "value": 161
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 137
+            "value": 141
         },
         {
             "name": "pyweb.io",
-            "value": 70
+            "value": 72
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 66
         },
         {
             "name": "libhunt.com",
             "value": 7
         },
         {
-            "name": "link.zhihu.com",
+            "name": "Bing",
             "value": 6
         },
         {
-            "name": "Bing",
-            "value": 5
+            "name": "link.zhihu.com",
+            "value": 6
         },
         {
             "name": "DuckDuckGo",
@@ -604,31 +604,31 @@
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 91
+            "value": 101
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 81
+            "value": 84
         },
         {
             "name": "pyweb.io",
-            "value": 50
+            "value": 52
         },
         {
             "name": "github.com",
-            "value": 38
+            "value": 45
         },
         {
             "name": "libhunt.com",
             "value": 6
         },
         {
-            "name": "link.zhihu.com",
-            "value": 3
+            "name": "Bing",
+            "value": 6
         },
         {
-            "name": "Bing",
-            "value": 5
+            "name": "link.zhihu.com",
+            "value": 3
         },
         {
             "name": "DuckDuckGo",
