@@ -446,7 +446,7 @@ var data = {
         43,
         104,
         57,
-        21
+        22
     ],
     "views-uniques": [
         6,
@@ -463,7 +463,7 @@ var data = {
         20,
         26,
         20,
-        12
+        13
     ],
     "clones-dates": [
         "2021-09-27",
@@ -493,7 +493,7 @@ var data = {
         1,
         2,
         1,
-        2
+        16
     ],
     "clones-uniques": [
         1,
@@ -508,7 +508,7 @@ var data = {
         1,
         2,
         1,
-        1
+        2
     ],
     "referrers": [
         {
