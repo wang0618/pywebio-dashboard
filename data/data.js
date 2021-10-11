@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1688,
+    "GithubStars": 1689,
     "GithubUsed": 363,
-    "WeekNewStars": 3,
+    "WeekNewStars": 4,
     "WeekCDNHits": 23604,
     "WeekNewUsed": 3,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1687,
         1688,
         1688,
-        1688
+        1689
     ],
     "star-daily": [
         1,
@@ -155,7 +155,7 @@ var data = {
         0,
         1,
         0,
-        0
+        1
     ],
     "used-dates": [
         "2021-08-24",
@@ -431,7 +431,7 @@ var data = {
         "2021-10-10"
     ],
     "views-count": [
-        133,
+        100,
         117,
         120,
         127,
@@ -447,7 +447,7 @@ var data = {
         24
     ],
     "views-uniques": [
-        37,
+        31,
         42,
         36,
         40,
@@ -510,8 +510,8 @@ var data = {
     "referrers": [
         {
             "referrer": "Google",
-            "count": 154,
-            "uniques": 92
+            "count": 162,
+            "uniques": 96
         },
         {
             "referrer": "pywebio.readthedocs.io",
@@ -520,13 +520,13 @@ var data = {
         },
         {
             "referrer": "pyweb.io",
-            "count": 69,
-            "uniques": 50
+            "count": 76,
+            "uniques": 56
         },
         {
             "referrer": "github.com",
-            "count": 57,
-            "uniques": 41
+            "count": 60,
+            "uniques": 43
         },
         {
             "referrer": "link.zhihu.com",
@@ -562,7 +562,7 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 154
+            "value": 162
         },
         {
             "name": "pywebio.readthedocs.io",
@@ -570,11 +570,11 @@ var data = {
         },
         {
             "name": "pyweb.io",
-            "value": 69
+            "value": 76
         },
         {
             "name": "github.com",
-            "value": 57
+            "value": 60
         },
         {
             "name": "link.zhihu.com",
@@ -604,7 +604,7 @@ var data = {
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 92
+            "value": 96
         },
         {
             "name": "pywebio.readthedocs.io",
@@ -612,11 +612,11 @@ var data = {
         },
         {
             "name": "pyweb.io",
-            "value": 50
+            "value": 56
         },
         {
             "name": "github.com",
-            "value": 41
+            "value": 43
         },
         {
             "name": "link.zhihu.com",
