@@ -1,11 +1,10 @@
 var data = {
     "GithubStars": 1689,
     "GithubUsed": 363,
-    "WeekNewStars": 4,
-    "WeekCDNHits": 23604,
+    "WeekNewStars": 3,
+    "WeekCDNHits": 23642,
     "WeekNewUsed": 3,
     "star-dates": [
-        "2021-08-24",
         "2021-08-25",
         "2021-08-26",
         "2021-08-27",
@@ -53,10 +52,10 @@ var data = {
         "2021-10-08",
         "2021-10-09",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
     ],
     "star-total": [
-        1637,
         1637,
         1637,
         1637,
@@ -104,10 +103,10 @@ var data = {
         1687,
         1688,
         1688,
+        1689,
         1689
     ],
     "star-daily": [
-        1,
         0,
         0,
         0,
@@ -155,10 +154,10 @@ var data = {
         0,
         1,
         0,
-        1
+        1,
+        0
     ],
     "used-dates": [
-        "2021-08-24",
         "2021-08-25",
         "2021-08-26",
         "2021-08-27",
@@ -206,10 +205,10 @@ var data = {
         "2021-10-08",
         "2021-10-09",
         "2021-10-10",
-        "2021-10-11"
+        "2021-10-11",
+        "2021-10-12"
     ],
     "used-total": [
-        325,
         326,
         329,
         329,
@@ -257,10 +256,10 @@ var data = {
         362,
         362,
         363,
+        363,
         363
     ],
     "used-daily": [
-        2,
         1,
         3,
         0,
@@ -308,10 +307,10 @@ var data = {
         1,
         0,
         1,
+        0,
         0
     ],
     "cdn-dates": [
-        "2021-08-21",
         "2021-08-22",
         "2021-08-23",
         "2021-08-24",
@@ -360,10 +359,10 @@ var data = {
         "2021-10-06",
         "2021-10-07",
         "2021-10-08",
-        "2021-10-09"
+        "2021-10-09",
+        "2021-10-10"
     ],
     "cdn-daily": [
-        1789,
         1938,
         2431,
         2195,
@@ -412,10 +411,10 @@ var data = {
         3244,
         4175,
         4039,
-        3469
+        3469,
+        2214
     ],
     "views-dates": [
-        "2021-09-27",
         "2021-09-28",
         "2021-09-29",
         "2021-09-30",
@@ -432,8 +431,7 @@ var data = {
         "2021-10-11"
     ],
     "views-count": [
-        2,
-        117,
+        113,
         120,
         127,
         116,
@@ -446,11 +444,10 @@ var data = {
         104,
         57,
         26,
-        160
+        161
     ],
     "views-uniques": [
-        1,
-        42,
+        40,
         36,
         40,
         33,
@@ -463,7 +460,7 @@ var data = {
         26,
         20,
         16,
-        29
+        30
     ],
     "clones-dates": [
         "2021-09-28",
@@ -513,23 +510,23 @@ var data = {
     "referrers": [
         {
             "referrer": "Google",
-            "count": 162,
-            "uniques": 96
+            "count": 153,
+            "uniques": 90
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 124,
-            "uniques": 73
+            "count": 106,
+            "uniques": 64
         },
         {
             "referrer": "pyweb.io",
-            "count": 76,
-            "uniques": 56
+            "count": 66,
+            "uniques": 50
         },
         {
             "referrer": "github.com",
-            "count": 60,
-            "uniques": 43
+            "count": 54,
+            "uniques": 39
         },
         {
             "referrer": "link.zhihu.com",
@@ -547,37 +544,37 @@ var data = {
             "uniques": 4
         },
         {
-            "referrer": "libhunt.com",
-            "count": 4,
-            "uniques": 4
-        },
-        {
-            "referrer": "news.ycombinator.com",
-            "count": 3,
-            "uniques": 3
-        },
-        {
             "referrer": "python.plainenglish.io",
             "count": 3,
             "uniques": 3
+        },
+        {
+            "referrer": "libhunt.com",
+            "count": 3,
+            "uniques": 3
+        },
+        {
+            "referrer": "v2ex.com",
+            "count": 3,
+            "uniques": 1
         }
     ],
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 162
+            "value": 153
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 124
+            "value": 106
         },
         {
             "name": "pyweb.io",
-            "value": 76
+            "value": 66
         },
         {
             "name": "github.com",
-            "value": 60
+            "value": 54
         },
         {
             "name": "link.zhihu.com",
@@ -592,34 +589,34 @@ var data = {
             "value": 4
         },
         {
-            "name": "libhunt.com",
-            "value": 4
-        },
-        {
-            "name": "news.ycombinator.com",
+            "name": "python.plainenglish.io",
             "value": 3
         },
         {
-            "name": "python.plainenglish.io",
+            "name": "libhunt.com",
+            "value": 3
+        },
+        {
+            "name": "v2ex.com",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 96
+            "value": 90
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 73
+            "value": 64
         },
         {
             "name": "pyweb.io",
-            "value": 56
+            "value": 50
         },
         {
             "name": "github.com",
-            "value": 43
+            "value": 39
         },
         {
             "name": "link.zhihu.com",
@@ -634,16 +631,16 @@ var data = {
             "value": 4
         },
         {
-            "name": "libhunt.com",
-            "value": 4
-        },
-        {
-            "name": "news.ycombinator.com",
-            "value": 3
-        },
-        {
             "name": "python.plainenglish.io",
             "value": 3
+        },
+        {
+            "name": "libhunt.com",
+            "value": 3
+        },
+        {
+            "name": "v2ex.com",
+            "value": 1
         }
     ]
 };
