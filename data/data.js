@@ -428,10 +428,11 @@ var data = {
         "2021-10-10",
         "2021-10-11",
         "2021-10-12",
-        "2021-10-13"
+        "2021-10-13",
+        "2021-10-14"
     ],
     "views-count": [
-        87,
+        86,
         116,
         135,
         160,
@@ -444,7 +445,8 @@ var data = {
         26,
         165,
         59,
-        108
+        111,
+        6
     ],
     "views-uniques": [
         29,
@@ -460,7 +462,8 @@ var data = {
         16,
         33,
         26,
-        25
+        25,
+        5
     ],
     "clones-dates": [
         "2021-10-01",
@@ -510,13 +513,13 @@ var data = {
     "referrers": [
         {
             "referrer": "Google",
-            "count": 149,
-            "uniques": 88
+            "count": 160,
+            "uniques": 95
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 92,
-            "uniques": 52
+            "count": 97,
+            "uniques": 57
         },
         {
             "referrer": "pyweb.io",
@@ -525,8 +528,8 @@ var data = {
         },
         {
             "referrer": "github.com",
-            "count": 56,
-            "uniques": 36
+            "count": 63,
+            "uniques": 38
         },
         {
             "referrer": "link.zhihu.com",
@@ -539,12 +542,17 @@ var data = {
             "uniques": 7
         },
         {
+            "referrer": "DuckDuckGo",
+            "count": 4,
+            "uniques": 4
+        },
+        {
             "referrer": "v2ex.com",
             "count": 4,
             "uniques": 2
         },
         {
-            "referrer": "DuckDuckGo",
+            "referrer": "libhunt.com",
             "count": 3,
             "uniques": 3
         },
@@ -552,21 +560,16 @@ var data = {
             "referrer": "news.ycombinator.com",
             "count": 3,
             "uniques": 3
-        },
-        {
-            "referrer": "libhunt.com",
-            "count": 3,
-            "uniques": 3
         }
     ],
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 149
+            "value": 160
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 92
+            "value": 97
         },
         {
             "name": "pyweb.io",
@@ -574,7 +577,7 @@ var data = {
         },
         {
             "name": "github.com",
-            "value": 56
+            "value": 63
         },
         {
             "name": "link.zhihu.com",
@@ -585,30 +588,30 @@ var data = {
             "value": 7
         },
         {
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
             "name": "v2ex.com",
             "value": 4
         },
         {
-            "name": "DuckDuckGo",
+            "name": "libhunt.com",
             "value": 3
         },
         {
             "name": "news.ycombinator.com",
-            "value": 3
-        },
-        {
-            "name": "libhunt.com",
             "value": 3
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 88
+            "value": 95
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 52
+            "value": 57
         },
         {
             "name": "pyweb.io",
@@ -616,7 +619,7 @@ var data = {
         },
         {
             "name": "github.com",
-            "value": 36
+            "value": 38
         },
         {
             "name": "link.zhihu.com",
@@ -627,19 +630,19 @@ var data = {
             "value": 7
         },
         {
+            "name": "DuckDuckGo",
+            "value": 4
+        },
+        {
             "name": "v2ex.com",
             "value": 2
         },
         {
-            "name": "DuckDuckGo",
+            "name": "libhunt.com",
             "value": 3
         },
         {
             "name": "news.ycombinator.com",
-            "value": 3
-        },
-        {
-            "name": "libhunt.com",
             "value": 3
         }
     ]
