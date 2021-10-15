@@ -428,10 +428,11 @@ var data = {
         "2021-10-11",
         "2021-10-12",
         "2021-10-13",
-        "2021-10-14"
+        "2021-10-14",
+        "2021-10-15"
     ],
     "views-count": [
-        113,
+        109,
         135,
         160,
         82,
@@ -444,10 +445,11 @@ var data = {
         165,
         59,
         111,
-        301
+        308,
+        21
     ],
     "views-uniques": [
-        31,
+        30,
         32,
         24,
         37,
@@ -460,7 +462,8 @@ var data = {
         33,
         26,
         25,
-        44
+        45,
+        6
     ],
     "clones-dates": [
         "2021-10-02",
@@ -510,28 +513,28 @@ var data = {
     "referrers": [
         {
             "referrer": "Google",
-            "count": 149,
-            "uniques": 87
+            "count": 178,
+            "uniques": 101
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 82,
-            "uniques": 49
-        },
-        {
-            "referrer": "pyweb.io",
-            "count": 61,
-            "uniques": 47
+            "count": 92,
+            "uniques": 54
         },
         {
             "referrer": "github.com",
-            "count": 61,
-            "uniques": 37
+            "count": 86,
+            "uniques": 46
+        },
+        {
+            "referrer": "pyweb.io",
+            "count": 66,
+            "uniques": 52
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 9,
-            "uniques": 4
+            "count": 11,
+            "uniques": 6
         },
         {
             "referrer": "Bing",
@@ -549,12 +552,12 @@ var data = {
             "uniques": 3
         },
         {
-            "referrer": "DuckDuckGo",
-            "count": 2,
-            "uniques": 2
+            "referrer": "libhunt.com",
+            "count": 3,
+            "uniques": 3
         },
         {
-            "referrer": "so.com",
+            "referrer": "DuckDuckGo",
             "count": 2,
             "uniques": 2
         }
@@ -562,23 +565,23 @@ var data = {
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 149
+            "value": 178
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 82
-        },
-        {
-            "name": "pyweb.io",
-            "value": 61
+            "value": 92
         },
         {
             "name": "github.com",
-            "value": 61
+            "value": 86
+        },
+        {
+            "name": "pyweb.io",
+            "value": 66
         },
         {
             "name": "link.zhihu.com",
-            "value": 9
+            "value": 11
         },
         {
             "name": "Bing",
@@ -593,34 +596,34 @@ var data = {
             "value": 3
         },
         {
-            "name": "DuckDuckGo",
-            "value": 2
+            "name": "libhunt.com",
+            "value": 3
         },
         {
-            "name": "so.com",
+            "name": "DuckDuckGo",
             "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 87
+            "value": 101
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 49
-        },
-        {
-            "name": "pyweb.io",
-            "value": 47
+            "value": 54
         },
         {
             "name": "github.com",
-            "value": 37
+            "value": 46
+        },
+        {
+            "name": "pyweb.io",
+            "value": 52
         },
         {
             "name": "link.zhihu.com",
-            "value": 4
+            "value": 6
         },
         {
             "name": "Bing",
@@ -635,11 +638,11 @@ var data = {
             "value": 3
         },
         {
-            "name": "DuckDuckGo",
-            "value": 2
+            "name": "libhunt.com",
+            "value": 3
         },
         {
-            "name": "so.com",
+            "name": "DuckDuckGo",
             "value": 2
         }
     ]
