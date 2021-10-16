@@ -513,23 +513,23 @@
     "referrers": [
         {
             "referrer": "Google",
-            "count": 158,
-            "uniques": 91
+            "count": 176,
+            "uniques": 99
         },
         {
             "referrer": "github.com",
-            "count": 83,
-            "uniques": 44
+            "count": 103,
+            "uniques": 51
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 80,
-            "uniques": 49
+            "count": 86,
+            "uniques": 52
         },
         {
             "referrer": "pyweb.io",
-            "count": 62,
-            "uniques": 50
+            "count": 64,
+            "uniques": 52
         },
         {
             "referrer": "link.zhihu.com",
@@ -538,12 +538,12 @@
         },
         {
             "referrer": "Bing",
-            "count": 5,
-            "uniques": 5
+            "count": 8,
+            "uniques": 7
         },
         {
             "referrer": "v2ex.com",
-            "count": 4,
+            "count": 6,
             "uniques": 2
         },
         {
@@ -565,19 +565,19 @@
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 158
+            "value": 176
         },
         {
             "name": "github.com",
-            "value": 83
+            "value": 103
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 80
+            "value": 86
         },
         {
             "name": "pyweb.io",
-            "value": 62
+            "value": 64
         },
         {
             "name": "link.zhihu.com",
@@ -585,11 +585,11 @@
         },
         {
             "name": "Bing",
-            "value": 5
+            "value": 8
         },
         {
             "name": "v2ex.com",
-            "value": 4
+            "value": 6
         },
         {
             "name": "libhunt.com",
@@ -607,19 +607,19 @@
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 91
+            "value": 99
         },
         {
             "name": "github.com",
-            "value": 44
+            "value": 51
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 49
+            "value": 52
         },
         {
             "name": "pyweb.io",
-            "value": 50
+            "value": 52
         },
         {
             "name": "link.zhihu.com",
@@ -627,7 +627,7 @@
         },
         {
             "name": "Bing",
-            "value": 5
+            "value": 7
         },
         {
             "name": "v2ex.com",
