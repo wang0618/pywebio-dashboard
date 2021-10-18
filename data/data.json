@@ -428,7 +428,8 @@
         "2021-10-14",
         "2021-10-15",
         "2021-10-16",
-        "2021-10-17"
+        "2021-10-17",
+        "2021-10-18"
     ],
     "views-count": [
         71,
@@ -444,7 +445,8 @@
         308,
         200,
         75,
-        57
+        66,
+        5
     ],
     "views-uniques": [
         30,
@@ -460,7 +462,8 @@
         45,
         31,
         20,
-        25
+        27,
+        3
     ],
     "clones-dates": [
         "2021-10-04",
@@ -510,23 +513,23 @@
     "referrers": [
         {
             "referrer": "Google",
-            "count": 156,
-            "uniques": 87
+            "count": 164,
+            "uniques": 92
         },
         {
             "referrer": "github.com",
-            "count": 96,
-            "uniques": 43
+            "count": 98,
+            "uniques": 45
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 59,
-            "uniques": 38
+            "count": 62,
+            "uniques": 39
         },
         {
             "referrer": "pyweb.io",
-            "count": 55,
-            "uniques": 47
+            "count": 60,
+            "uniques": 51
         },
         {
             "referrer": "link.zhihu.com",
@@ -539,6 +542,16 @@
             "uniques": 5
         },
         {
+            "referrer": "libhunt.com",
+            "count": 3,
+            "uniques": 3
+        },
+        {
+            "referrer": "analyticsindiamag.com",
+            "count": 3,
+            "uniques": 2
+        },
+        {
             "referrer": "v2ex.com",
             "count": 3,
             "uniques": 2
@@ -547,34 +560,24 @@
             "referrer": "Yahoo",
             "count": 3,
             "uniques": 1
-        },
-        {
-            "referrer": "pypi.org",
-            "count": 2,
-            "uniques": 2
-        },
-        {
-            "referrer": "libhunt.com",
-            "count": 2,
-            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 156
+            "value": 164
         },
         {
             "name": "github.com",
-            "value": 96
+            "value": 98
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 59
+            "value": 62
         },
         {
             "name": "pyweb.io",
-            "value": 55
+            "value": 60
         },
         {
             "name": "link.zhihu.com",
@@ -585,38 +588,38 @@
             "value": 6
         },
         {
+            "name": "libhunt.com",
+            "value": 3
+        },
+        {
+            "name": "analyticsindiamag.com",
+            "value": 3
+        },
+        {
             "name": "v2ex.com",
             "value": 3
         },
         {
             "name": "Yahoo",
             "value": 3
-        },
-        {
-            "name": "pypi.org",
-            "value": 2
-        },
-        {
-            "name": "libhunt.com",
-            "value": 2
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 87
+            "value": 92
         },
         {
             "name": "github.com",
-            "value": 43
+            "value": 45
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 38
+            "value": 39
         },
         {
             "name": "pyweb.io",
-            "value": 47
+            "value": 51
         },
         {
             "name": "link.zhihu.com",
@@ -627,20 +630,20 @@
             "value": 5
         },
         {
+            "name": "libhunt.com",
+            "value": 3
+        },
+        {
+            "name": "analyticsindiamag.com",
+            "value": 2
+        },
+        {
             "name": "v2ex.com",
             "value": 2
         },
         {
             "name": "Yahoo",
             "value": 1
-        },
-        {
-            "name": "pypi.org",
-            "value": 2
-        },
-        {
-            "name": "libhunt.com",
-            "value": 2
         }
     ]
 }
