@@ -1,9 +1,9 @@
 {
     "GithubStars": 1731,
-    "GithubUsed": 373,
+    "GithubUsed": 374,
     "WeekNewStars": 36,
     "WeekCDNHits": 16908,
-    "WeekNewUsed": 2,
+    "WeekNewUsed": 3,
     "star-dates": [
         "2021-09-04",
         "2021-09-05",
@@ -257,7 +257,7 @@
         372,
         372,
         372,
-        373
+        374
     ],
     "used-daily": [
         0,
@@ -308,7 +308,7 @@
         0,
         0,
         0,
-        1
+        2
     ],
     "cdn-dates": [
         "2021-09-01",
@@ -432,7 +432,7 @@
         "2021-10-22"
     ],
     "views-count": [
-        11,
+        1,
         57,
         26,
         165,
@@ -446,10 +446,10 @@
         162,
         39,
         49,
-        421
+        561
     ],
     "views-uniques": [
-        5,
+        1,
         20,
         16,
         33,
@@ -463,10 +463,9 @@
         47,
         14,
         26,
-        216
+        287
     ],
     "clones-dates": [
-        "2021-10-08",
         "2021-10-09",
         "2021-10-10",
         "2021-10-11",
@@ -483,7 +482,6 @@
     ],
     "clones-count": [
         1,
-        1,
         16,
         3,
         51,
@@ -498,7 +496,6 @@
         3
     ],
     "clones-uniques": [
-        1,
         1,
         2,
         2,
@@ -555,12 +552,12 @@
             "uniques": 3
         },
         {
-            "referrer": "v2ex.com",
+            "referrer": "analyticsindiamag.com",
             "count": 3,
             "uniques": 2
         },
         {
-            "referrer": "analyticsindiamag.com",
+            "referrer": "v2ex.com",
             "count": 3,
             "uniques": 2
         }
@@ -599,11 +596,11 @@
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "analyticsindiamag.com",
             "value": 3
         },
         {
-            "name": "analyticsindiamag.com",
+            "name": "v2ex.com",
             "value": 3
         }
     ],
@@ -641,11 +638,11 @@
             "value": 3
         },
         {
-            "name": "v2ex.com",
+            "name": "analyticsindiamag.com",
             "value": 2
         },
         {
-            "name": "analyticsindiamag.com",
+            "name": "v2ex.com",
             "value": 2
         }
     ]
