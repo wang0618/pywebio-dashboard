@@ -1,7 +1,7 @@
 var data = {
-    "GithubStars": 1733,
+    "GithubStars": 1736,
     "GithubUsed": 375,
-    "WeekNewStars": 37,
+    "WeekNewStars": 40,
     "WeekCDNHits": 15064,
     "WeekNewUsed": 4,
     "star-dates": [
@@ -104,7 +104,7 @@ var data = {
         1713,
         1718,
         1731,
-        1733
+        1736
     ],
     "star-daily": [
         2,
@@ -155,7 +155,7 @@ var data = {
         1,
         5,
         13,
-        2
+        5
     ],
     "used-dates": [
         "2021-09-05",
@@ -432,7 +432,7 @@ var data = {
         "2021-10-23"
     ],
     "views-count": [
-        32,
+        23,
         26,
         165,
         59,
@@ -446,10 +446,10 @@ var data = {
         39,
         49,
         707,
-        86
+        217
     ],
     "views-uniques": [
-        12,
+        10,
         16,
         33,
         26,
@@ -463,7 +463,7 @@ var data = {
         14,
         26,
         347,
-        35
+        88
     ],
     "clones-dates": [
         "2021-10-10",
@@ -477,7 +477,8 @@ var data = {
         "2021-10-19",
         "2021-10-20",
         "2021-10-21",
-        "2021-10-22"
+        "2021-10-22",
+        "2021-10-23"
     ],
     "clones-count": [
         16,
@@ -491,7 +492,8 @@ var data = {
         11,
         2,
         5,
-        3
+        3,
+        28
     ],
     "clones-uniques": [
         2,
@@ -505,7 +507,8 @@ var data = {
         6,
         2,
         5,
-        2
+        2,
+        13
     ],
     "referrers": [
         {
