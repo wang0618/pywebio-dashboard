@@ -1,8 +1,8 @@
 var data = {
-    "GithubStars": 1758,
-    "GithubUsed": 379,
-    "WeekNewStars": 45,
-    "WeekCDNHits": 30864,
+    "GithubStars": 1759,
+    "GithubUsed": 380,
+    "WeekNewStars": 47,
+    "WeekCDNHits": 39082,
     "WeekNewUsed": 6,
     "star-dates": [
         "2021-09-09",
@@ -56,55 +56,55 @@ var data = {
         "2021-10-27"
     ],
     "star-total": [
-        1644,
+        1643,
+        1645,
+        1645,
         1646,
         1646,
-        1647,
-        1647,
+        1649,
         1650,
-        1651,
-        1659,
+        1658,
+        1663,
+        1663,
         1664,
         1664,
-        1665,
         1665,
         1666,
         1667,
-        1668,
+        1670,
         1671,
         1672,
         1673,
-        1674,
+        1677,
         1678,
-        1679,
+        1680,
         1681,
-        1682,
+        1683,
+        1683,
+        1683,
         1684,
-        1684,
-        1684,
+        1685,
+        1685,
         1685,
         1686,
         1686,
-        1686,
         1687,
-        1687,
-        1688,
-        1690,
-        1692,
+        1689,
+        1691,
+        1693,
         1694,
         1695,
-        1696,
-        1698,
-        1703,
+        1697,
+        1702,
+        1711,
         1712,
-        1713,
-        1718,
-        1730,
-        1739,
-        1739,
-        1746,
-        1755,
-        1758
+        1717,
+        1729,
+        1738,
+        1738,
+        1745,
+        1754,
+        1759
     ],
     "star-daily": [
         0,
@@ -155,7 +155,7 @@ var data = {
         0,
         7,
         9,
-        3
+        5
     ],
     "used-dates": [
         "2021-09-09",
@@ -209,33 +209,31 @@ var data = {
         "2021-10-27"
     ],
     "used-total": [
-        349,
         350,
-        350,
-        352,
+        351,
+        351,
         353,
         354,
         355,
-        355,
-        360,
-        360,
+        356,
+        356,
+        361,
         361,
         362,
-        362,
-        362,
-        362,
+        363,
+        363,
         363,
         363,
         364,
         364,
-        364,
         365,
         365,
+        365,
         366,
         366,
-        366,
-        366,
-        366,
+        367,
+        367,
+        367,
         367,
         367,
         368,
@@ -244,20 +242,22 @@ var data = {
         369,
         370,
         370,
-        372,
-        372,
-        372,
+        371,
+        371,
         373,
         373,
         373,
-        373,
-        373,
-        375,
-        377,
-        378,
+        374,
+        374,
+        374,
+        374,
+        374,
+        376,
         378,
         379,
-        379
+        379,
+        380,
+        380
     ],
     "used-daily": [
         1,
@@ -411,8 +411,8 @@ var data = {
         5593,
         6950,
         7020,
-        4525,
-        0
+        5743,
+        7000
     ],
     "views-dates": [
         "2021-10-13",
@@ -432,15 +432,15 @@ var data = {
         "2021-10-27"
     ],
     "views-count": [
-        47,
+        34,
         308,
         200,
         75,
         66,
         157,
-        162,
-        58,
-        240,
+        164,
+        211,
+        448,
         2762,
         2315,
         1224,
@@ -449,15 +449,15 @@ var data = {
         232
     ],
     "views-uniques": [
-        11,
+        8,
         45,
         31,
         20,
         27,
         44,
         47,
-        18,
-        41,
+        33,
+        54,
         468,
         408,
         237,
@@ -487,9 +487,9 @@ var data = {
         20,
         1,
         1,
-        13,
-        7,
-        15,
+        11,
+        3,
+        16,
         6,
         165,
         152,
@@ -505,7 +505,7 @@ var data = {
         1,
         6,
         2,
-        5,
+        6,
         2,
         26,
         15,
@@ -516,38 +516,33 @@ var data = {
     "referrers": [
         {
             "referrer": "youtube.com",
-            "count": 1989,
-            "uniques": 814
+            "count": 1470,
+            "uniques": 758
         },
         {
             "referrer": "Google",
-            "count": 533,
-            "uniques": 198
+            "count": 395,
+            "uniques": 185
         },
         {
             "referrer": "github.com",
-            "count": 378,
-            "uniques": 116
+            "count": 259,
+            "uniques": 101
         },
         {
             "referrer": "pyweb.io",
-            "count": 241,
-            "uniques": 92
+            "count": 166,
+            "uniques": 86
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 170,
-            "uniques": 43
+            "count": 88,
+            "uniques": 37
         },
         {
             "referrer": "yandex.ru",
-            "count": 107,
-            "uniques": 35
-        },
-        {
-            "referrer": "DuckDuckGo",
-            "count": 31,
-            "uniques": 7
+            "count": 88,
+            "uniques": 33
         },
         {
             "referrer": "link.zhihu.com",
@@ -555,98 +550,103 @@ var data = {
             "uniques": 7
         },
         {
-            "referrer": "m.youtube.com",
+            "referrer": "DuckDuckGo",
             "count": 10,
+            "uniques": 6
+        },
+        {
+            "referrer": "away.vk.com",
+            "count": 8,
             "uniques": 4
         },
         {
-            "referrer": "cn.bing.com",
-            "count": 10,
-            "uniques": 2
+            "referrer": "m.youtube.com",
+            "count": 8,
+            "uniques": 4
         }
     ],
     "referrers-total-chart": [
         {
             "name": "youtube.com",
-            "value": 1989
+            "value": 1470
         },
         {
             "name": "Google",
-            "value": 533
+            "value": 395
         },
         {
             "name": "github.com",
-            "value": 378
+            "value": 259
         },
         {
             "name": "pyweb.io",
-            "value": 241
+            "value": 166
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 170
+            "value": 88
         },
         {
             "name": "yandex.ru",
-            "value": 107
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 31
+            "value": 88
         },
         {
             "name": "link.zhihu.com",
             "value": 15
         },
         {
-            "name": "m.youtube.com",
+            "name": "DuckDuckGo",
             "value": 10
         },
         {
-            "name": "cn.bing.com",
-            "value": 10
+            "name": "away.vk.com",
+            "value": 8
+        },
+        {
+            "name": "m.youtube.com",
+            "value": 8
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "youtube.com",
-            "value": 814
+            "value": 758
         },
         {
             "name": "Google",
-            "value": 198
+            "value": 185
         },
         {
             "name": "github.com",
-            "value": 116
+            "value": 101
         },
         {
             "name": "pyweb.io",
-            "value": 92
+            "value": 86
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 43
+            "value": 37
         },
         {
             "name": "yandex.ru",
-            "value": 35
-        },
-        {
-            "name": "DuckDuckGo",
-            "value": 7
+            "value": 33
         },
         {
             "name": "link.zhihu.com",
             "value": 7
         },
         {
-            "name": "m.youtube.com",
+            "name": "DuckDuckGo",
+            "value": 6
+        },
+        {
+            "name": "away.vk.com",
             "value": 4
         },
         {
-            "name": "cn.bing.com",
-            "value": 2
+            "name": "m.youtube.com",
+            "value": 4
         }
     ]
 };
