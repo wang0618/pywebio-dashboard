@@ -1,7 +1,7 @@
 {
-    "GithubStars": 1796,
-    "GithubUsed": 387,
-    "WeekNewStars": 51,
+    "GithubStars": 1797,
+    "GithubUsed": 388,
+    "WeekNewStars": 52,
     "WeekCDNHits": 74377,
     "WeekNewUsed": 7,
     "star-dates": [
@@ -104,7 +104,7 @@
         1779,
         1782,
         1784,
-        1796
+        1797
     ],
     "star-daily": [
         3,
@@ -155,7 +155,7 @@
         6,
         3,
         2,
-        12
+        13
     ],
     "used-dates": [
         "2021-09-14",
@@ -209,28 +209,26 @@
         "2021-11-01"
     ],
     "used-total": [
-        356,
         357,
-        357,
-        362,
-        362,
+        358,
+        358,
+        363,
         363,
         364,
-        364,
-        364,
-        364,
+        365,
+        365,
         365,
         365,
         366,
         366,
-        366,
         367,
         367,
+        367,
         368,
         368,
-        368,
-        368,
-        368,
+        369,
+        369,
+        369,
         369,
         369,
         370,
@@ -239,25 +237,27 @@
         371,
         372,
         372,
-        374,
-        374,
-        374,
+        373,
+        373,
         375,
         375,
         375,
-        375,
-        375,
-        377,
-        379,
-        380,
+        376,
+        376,
+        376,
+        376,
+        376,
+        378,
         380,
         381,
         381,
-        383,
-        383,
-        385,
+        382,
+        382,
+        384,
+        384,
         386,
-        387
+        387,
+        388
     ],
     "used-daily": [
         1,
@@ -432,38 +432,38 @@
         "2021-11-01"
     ],
     "views-count": [
-        79,
-        164,
-        211,
-        526,
+        57,
+        162,
+        58,
+        417,
         3422,
         2678,
         1407,
         1909,
         987,
         634,
-        554,
+        518,
         550,
         390,
         367,
-        261
+        303
     ],
     "views-uniques": [
-        21,
+        15,
         47,
-        33,
-        54,
+        18,
+        47,
         468,
         408,
         237,
         233,
         199,
         176,
-        203,
+        196,
         174,
         137,
         107,
-        80
+        103
     ],
     "clones-dates": [
         "2021-10-18",
@@ -484,9 +484,9 @@
     ],
     "clones-count": [
         1,
-        13,
-        7,
-        31,
+        11,
+        3,
+        29,
         9,
         240,
         200,
@@ -497,7 +497,7 @@
         38,
         1,
         70,
-        1
+        2
     ],
     "clones-uniques": [
         1,
@@ -514,142 +514,142 @@
         9,
         1,
         17,
-        1
+        2
     ],
     "referrers": [
         {
             "referrer": "youtube.com",
-            "count": 1712,
-            "uniques": 873
+            "count": 1989,
+            "uniques": 814
         },
         {
             "referrer": "Google",
-            "count": 352,
-            "uniques": 151
+            "count": 438,
+            "uniques": 148
         },
         {
             "referrer": "github.com",
-            "count": 234,
-            "uniques": 88
+            "count": 311,
+            "uniques": 91
         },
         {
             "referrer": "pyweb.io",
-            "count": 169,
-            "uniques": 79
-        },
-        {
-            "referrer": "yandex.ru",
-            "count": 123,
-            "uniques": 36
+            "count": 220,
+            "uniques": 72
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 100,
-            "uniques": 32
+            "count": 144,
+            "uniques": 28
         },
         {
-            "referrer": "away.vk.com",
-            "count": 20,
-            "uniques": 6
-        },
-        {
-            "referrer": "hub.fastgit.org",
-            "count": 14,
-            "uniques": 1
+            "referrer": "yandex.ru",
+            "count": 107,
+            "uniques": 35
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 11,
+            "count": 30,
             "uniques": 6
+        },
+        {
+            "referrer": "m.youtube.com",
+            "count": 10,
+            "uniques": 4
         },
         {
             "referrer": "link.zhihu.com",
             "count": 10,
             "uniques": 4
+        },
+        {
+            "referrer": "cn.bing.com",
+            "count": 10,
+            "uniques": 2
         }
     ],
     "referrers-total-chart": [
         {
             "name": "youtube.com",
-            "value": 1712
+            "value": 1989
         },
         {
             "name": "Google",
-            "value": 352
+            "value": 438
         },
         {
             "name": "github.com",
-            "value": 234
+            "value": 311
         },
         {
             "name": "pyweb.io",
-            "value": 169
-        },
-        {
-            "name": "yandex.ru",
-            "value": 123
+            "value": 220
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 100
+            "value": 144
         },
         {
-            "name": "away.vk.com",
-            "value": 20
-        },
-        {
-            "name": "hub.fastgit.org",
-            "value": 14
+            "name": "yandex.ru",
+            "value": 107
         },
         {
             "name": "DuckDuckGo",
-            "value": 11
+            "value": 30
+        },
+        {
+            "name": "m.youtube.com",
+            "value": 10
         },
         {
             "name": "link.zhihu.com",
+            "value": 10
+        },
+        {
+            "name": "cn.bing.com",
             "value": 10
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "youtube.com",
-            "value": 873
+            "value": 814
         },
         {
             "name": "Google",
-            "value": 151
+            "value": 148
         },
         {
             "name": "github.com",
-            "value": 88
+            "value": 91
         },
         {
             "name": "pyweb.io",
-            "value": 79
-        },
-        {
-            "name": "yandex.ru",
-            "value": 36
+            "value": 72
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 32
+            "value": 28
         },
         {
-            "name": "away.vk.com",
-            "value": 6
-        },
-        {
-            "name": "hub.fastgit.org",
-            "value": 1
+            "name": "yandex.ru",
+            "value": 35
         },
         {
             "name": "DuckDuckGo",
             "value": 6
         },
         {
+            "name": "m.youtube.com",
+            "value": 4
+        },
+        {
             "name": "link.zhihu.com",
             "value": 4
+        },
+        {
+            "name": "cn.bing.com",
+            "value": 2
         }
     ]
 }
