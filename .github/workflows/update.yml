@@ -33,10 +33,6 @@ jobs:
           git config --global user.name "${{ github.actor }}"
           git config --global credential.helper '!f() { sleep 1; echo "username=${{ github.actor }}"; echo "password=${GH_TOKEN}"; }; f'
 
-          git checkout web
-          git add .
-          git commit -m "Data update at `date`" || exit 0
-
-          git push -u origin || exit 0
+          bash push_web.sh
         env:
           GH_TOKEN: ${{ secrets.REPO_TOKEN }}
