@@ -1,11 +1,10 @@
 {
-    "GithubStars": 1966,
-    "GithubUsed": 418,
-    "WeekNewStars": 40,
-    "WeekCDNHits": 36662,
-    "WeekNewUsed": 18,
+    "GithubStars": 1970,
+    "GithubUsed": 423,
+    "WeekNewStars": 34,
+    "WeekCDNHits": 34451,
+    "WeekNewUsed": 15,
     "star-dates": [
-        "2021-09-28",
         "2021-09-29",
         "2021-09-30",
         "2021-10-01",
@@ -53,10 +52,10 @@
         "2021-11-12",
         "2021-11-13",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
     ],
     "star-total": [
-        1675,
         1676,
         1678,
         1679,
@@ -104,10 +103,10 @@
         1957,
         1959,
         1963,
-        1966
+        1966,
+        1970
     ],
     "star-daily": [
-        4,
         1,
         2,
         1,
@@ -155,10 +154,10 @@
         5,
         2,
         4,
-        3
+        3,
+        4
     ],
     "used-dates": [
-        "2021-09-28",
         "2021-09-29",
         "2021-09-30",
         "2021-10-01",
@@ -206,61 +205,61 @@
         "2021-11-12",
         "2021-11-13",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
     ],
     "used-total": [
-        368,
-        369,
-        369,
-        370,
-        371,
-        371,
         371,
         371,
         372,
-        372,
+        373,
+        373,
         373,
         373,
         374,
         374,
         375,
         375,
+        376,
+        376,
         377,
         377,
-        377,
-        378,
-        378,
-        378,
-        378,
-        378,
+        379,
+        379,
+        379,
+        380,
+        380,
+        380,
+        380,
         380,
         382,
         384,
-        384,
-        385,
-        385,
+        386,
+        386,
         387,
         387,
         389,
-        390,
+        389,
         391,
-        391,
-        392,
         392,
         393,
-        396,
-        397,
-        400,
-        406,
-        410,
-        414,
-        416,
-        418,
-        418,
-        418
+        393,
+        394,
+        394,
+        395,
+        398,
+        399,
+        402,
+        408,
+        412,
+        417,
+        419,
+        421,
+        421,
+        421,
+        423
     ],
     "used-daily": [
-        0,
         1,
         0,
         1,
@@ -304,14 +303,14 @@
         3,
         6,
         4,
-        4,
+        5,
         2,
         2,
         0,
-        0
+        0,
+        2
     ],
     "cdn-dates": [
-        "2021-09-25",
         "2021-09-26",
         "2021-09-27",
         "2021-09-28",
@@ -360,10 +359,10 @@
         "2021-11-10",
         "2021-11-11",
         "2021-11-12",
-        "2021-11-13"
+        "2021-11-13",
+        "2021-11-14"
     ],
     "cdn-daily": [
-        2358,
         3258,
         3634,
         3245,
@@ -400,10 +399,10 @@
         12375,
         7208,
         9882,
-        12568,
-        15941,
-        37474,
-        6702,
+        13958,
+        18141,
+        40383,
+        6928,
         4599,
         5315,
         5225,
@@ -412,10 +411,10 @@
         6555,
         5796,
         5097,
-        4183
+        4183,
+        3014
     ],
     "views-dates": [
-        "2021-11-01",
         "2021-11-02",
         "2021-11-03",
         "2021-11-04",
@@ -429,11 +428,11 @@
         "2021-11-12",
         "2021-11-13",
         "2021-11-14",
-        "2021-11-15"
+        "2021-11-15",
+        "2021-11-16"
     ],
     "views-count": [
-        2,
-        735,
+        15,
         634,
         935,
         772,
@@ -446,11 +445,11 @@
         415,
         280,
         192,
-        387
+        404,
+        213
     ],
     "views-uniques": [
-        2,
-        242,
+        4,
         262,
         272,
         234,
@@ -463,7 +462,8 @@
         109,
         84,
         81,
-        112
+        118,
+        101
     ],
     "clones-dates": [
         "2021-11-02",
@@ -482,7 +482,7 @@
         "2021-11-15"
     ],
     "clones-count": [
-        14,
+        1,
         4,
         138,
         94,
@@ -498,7 +498,7 @@
         1
     ],
     "clones-uniques": [
-        8,
+        1,
         4,
         28,
         13,
@@ -516,33 +516,33 @@
     "referrers": [
         {
             "referrer": "github.com",
-            "count": 1085,
-            "uniques": 398
+            "count": 1045,
+            "uniques": 364
         },
         {
             "referrer": "youtube.com",
-            "count": 701,
-            "uniques": 355
+            "count": 638,
+            "uniques": 319
         },
         {
             "referrer": "Google",
-            "count": 520,
-            "uniques": 206
+            "count": 493,
+            "uniques": 194
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 435,
-            "uniques": 130
+            "count": 411,
+            "uniques": 118
         },
         {
             "referrer": "pyweb.io",
-            "count": 271,
-            "uniques": 116
+            "count": 259,
+            "uniques": 107
         },
         {
             "referrer": "yandex.ru",
-            "count": 88,
-            "uniques": 41
+            "count": 84,
+            "uniques": 35
         },
         {
             "referrer": "t.co",
@@ -550,99 +550,99 @@
             "uniques": 47
         },
         {
+            "referrer": "DuckDuckGo",
+            "count": 54,
+            "uniques": 9
+        },
+        {
             "referrer": "preettheman.medium.com",
             "count": 46,
             "uniques": 36
         },
         {
-            "referrer": "link.zhihu.com",
-            "count": 41,
-            "uniques": 24
-        },
-        {
             "referrer": "cn.bing.com",
-            "count": 39,
+            "count": 41,
             "uniques": 17
         }
     ],
     "referrers-total-chart": [
         {
             "name": "github.com",
-            "value": 1085
+            "value": 1045
         },
         {
             "name": "youtube.com",
-            "value": 701
+            "value": 638
         },
         {
             "name": "Google",
-            "value": 520
+            "value": 493
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 435
+            "value": 411
         },
         {
             "name": "pyweb.io",
-            "value": 271
+            "value": 259
         },
         {
             "name": "yandex.ru",
-            "value": 88
+            "value": 84
         },
         {
             "name": "t.co",
             "value": 68
         },
         {
+            "name": "DuckDuckGo",
+            "value": 54
+        },
+        {
             "name": "preettheman.medium.com",
             "value": 46
         },
         {
-            "name": "link.zhihu.com",
-            "value": 41
-        },
-        {
             "name": "cn.bing.com",
-            "value": 39
+            "value": 41
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "github.com",
-            "value": 398
+            "value": 364
         },
         {
             "name": "youtube.com",
-            "value": 355
+            "value": 319
         },
         {
             "name": "Google",
-            "value": 206
+            "value": 194
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 130
+            "value": 118
         },
         {
             "name": "pyweb.io",
-            "value": 116
+            "value": 107
         },
         {
             "name": "yandex.ru",
-            "value": 41
+            "value": 35
         },
         {
             "name": "t.co",
             "value": 47
         },
         {
-            "name": "preettheman.medium.com",
-            "value": 36
+            "name": "DuckDuckGo",
+            "value": 9
         },
         {
-            "name": "link.zhihu.com",
-            "value": 24
+            "name": "preettheman.medium.com",
+            "value": 36
         },
         {
             "name": "cn.bing.com",
