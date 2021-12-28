@@ -1,11 +1,10 @@
 {
-    "GithubStars": 2429,
+    "GithubStars": 2440,
     "GithubUsed": 488,
-    "WeekNewStars": 105,
-    "WeekCDNHits": 69287,
+    "WeekNewStars": 85,
+    "WeekCDNHits": 71311,
     "WeekNewUsed": 2,
     "star-dates": [
-        "2021-11-09",
         "2021-11-10",
         "2021-11-11",
         "2021-11-12",
@@ -53,10 +52,10 @@
         "2021-12-24",
         "2021-12-25",
         "2021-12-26",
-        "2021-12-27"
+        "2021-12-27",
+        "2021-12-28"
     ],
     "star-total": [
-        1925,
         1935,
         1941,
         1946,
@@ -80,34 +79,34 @@
         2129,
         2147,
         2170,
-        2191,
-        2200,
-        2210,
-        2216,
-        2223,
-        2232,
-        2243,
-        2248,
-        2251,
-        2259,
-        2273,
-        2283,
-        2291,
-        2299,
-        2306,
-        2314,
-        2319,
-        2324,
-        2356,
-        2382,
-        2402,
-        2411,
+        2190,
+        2199,
+        2209,
+        2215,
+        2222,
+        2231,
+        2242,
+        2247,
+        2250,
+        2258,
+        2272,
+        2282,
+        2290,
+        2298,
+        2305,
+        2313,
+        2318,
+        2323,
+        2355,
+        2381,
+        2401,
+        2410,
+        2417,
         2418,
-        2419,
-        2429
+        2428,
+        2440
     ],
     "star-daily": [
-        10,
         10,
         6,
         5,
@@ -131,7 +130,7 @@
         19,
         18,
         23,
-        21,
+        20,
         9,
         10,
         6,
@@ -155,10 +154,10 @@
         9,
         7,
         1,
-        10
+        10,
+        12
     ],
     "used-dates": [
-        "2021-11-09",
         "2021-11-10",
         "2021-11-11",
         "2021-11-12",
@@ -206,10 +205,10 @@
         "2021-12-24",
         "2021-12-25",
         "2021-12-26",
-        "2021-12-27"
+        "2021-12-27",
+        "2021-12-28"
     ],
     "used-total": [
-        426,
         430,
         435,
         437,
@@ -257,10 +256,10 @@
         486,
         486,
         487,
+        488,
         488
     ],
     "used-daily": [
-        6,
         4,
         5,
         2,
@@ -308,10 +307,10 @@
         0,
         0,
         1,
-        1
+        1,
+        0
     ],
     "cdn-dates": [
-        "2021-11-06",
         "2021-11-07",
         "2021-11-08",
         "2021-11-09",
@@ -360,10 +359,10 @@
         "2021-12-22",
         "2021-12-23",
         "2021-12-24",
-        "2021-12-25"
+        "2021-12-25",
+        "2021-12-26"
     ],
     "cdn-daily": [
-        9591,
         10177,
         12522,
         11291,
@@ -412,10 +411,10 @@
         15846,
         9529,
         9752,
-        7866
+        7866,
+        6177
     ],
     "views-dates": [
-        "2021-12-13",
         "2021-12-14",
         "2021-12-15",
         "2021-12-16",
@@ -429,11 +428,11 @@
         "2021-12-24",
         "2021-12-25",
         "2021-12-26",
-        "2021-12-27"
+        "2021-12-27",
+        "2021-12-28"
     ],
     "views-count": [
-        4,
-        321,
+        1,
         349,
         236,
         325,
@@ -446,11 +445,11 @@
         361,
         282,
         279,
-        311
+        314,
+        347
     ],
     "views-uniques": [
-        3,
-        109,
+        1,
         112,
         87,
         105,
@@ -463,10 +462,10 @@
         112,
         88,
         93,
-        101
+        104,
+        128
     ],
     "clones-dates": [
-        "2021-12-14",
         "2021-12-15",
         "2021-12-16",
         "2021-12-17",
@@ -477,10 +476,11 @@
         "2021-12-22",
         "2021-12-23",
         "2021-12-24",
-        "2021-12-25"
+        "2021-12-25",
+        "2021-12-27",
+        "2021-12-28"
     ],
     "clones-count": [
-        21,
         1,
         27,
         2,
@@ -491,10 +491,11 @@
         28,
         38,
         1,
-        2
+        2,
+        1,
+        1
     ],
     "clones-uniques": [
-        10,
         1,
         9,
         1,
@@ -505,142 +506,144 @@
         8,
         11,
         1,
-        2
+        2,
+        1,
+        1
     ],
     "referrers": [
         {
             "referrer": "github.com",
-            "count": 839,
-            "uniques": 315
+            "count": 829,
+            "uniques": 304
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 326,
-            "uniques": 73
+            "count": 286,
+            "uniques": 69
         },
         {
             "referrer": "Google",
-            "count": 243,
-            "uniques": 102
+            "count": 230,
+            "uniques": 99
         },
         {
             "referrer": "youtube.com",
-            "count": 221,
-            "uniques": 104
-        },
-        {
-            "referrer": "pyweb.io",
-            "count": 166,
-            "uniques": 64
+            "count": 208,
+            "uniques": 97
         },
         {
             "referrer": "hellogithub.com",
-            "count": 161,
-            "uniques": 114
+            "count": 174,
+            "uniques": 115
+        },
+        {
+            "referrer": "pyweb.io",
+            "count": 132,
+            "uniques": 67
         },
         {
             "referrer": "cn.bing.com",
-            "count": 36,
-            "uniques": 11
-        },
-        {
-            "referrer": "yandex.ru",
-            "count": 21,
-            "uniques": 12
+            "count": 38,
+            "uniques": 14
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 20,
-            "uniques": 18
+            "count": 29,
+            "uniques": 24
+        },
+        {
+            "referrer": "yandex.ru",
+            "count": 19,
+            "uniques": 10
         },
         {
             "referrer": "modrinth.com",
-            "count": 14,
-            "uniques": 12
+            "count": 11,
+            "uniques": 10
         }
     ],
     "referrers-total-chart": [
         {
             "name": "github.com",
-            "value": 839
+            "value": 829
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 326
+            "value": 286
         },
         {
             "name": "Google",
-            "value": 243
+            "value": 230
         },
         {
             "name": "youtube.com",
-            "value": 221
-        },
-        {
-            "name": "pyweb.io",
-            "value": 166
+            "value": 208
         },
         {
             "name": "hellogithub.com",
-            "value": 161
+            "value": 174
+        },
+        {
+            "name": "pyweb.io",
+            "value": 132
         },
         {
             "name": "cn.bing.com",
-            "value": 36
-        },
-        {
-            "name": "yandex.ru",
-            "value": 21
+            "value": 38
         },
         {
             "name": "link.zhihu.com",
-            "value": 20
+            "value": 29
+        },
+        {
+            "name": "yandex.ru",
+            "value": 19
         },
         {
             "name": "modrinth.com",
-            "value": 14
+            "value": 11
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "github.com",
-            "value": 315
+            "value": 304
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 73
+            "value": 69
         },
         {
             "name": "Google",
-            "value": 102
+            "value": 99
         },
         {
             "name": "youtube.com",
-            "value": 104
-        },
-        {
-            "name": "pyweb.io",
-            "value": 64
+            "value": 97
         },
         {
             "name": "hellogithub.com",
-            "value": 114
+            "value": 115
+        },
+        {
+            "name": "pyweb.io",
+            "value": 67
         },
         {
             "name": "cn.bing.com",
-            "value": 11
-        },
-        {
-            "name": "yandex.ru",
-            "value": 12
+            "value": 14
         },
         {
             "name": "link.zhihu.com",
-            "value": 18
+            "value": 24
+        },
+        {
+            "name": "yandex.ru",
+            "value": 10
         },
         {
             "name": "modrinth.com",
-            "value": 12
+            "value": 10
         }
     ]
 }
