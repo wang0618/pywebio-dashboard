@@ -1,11 +1,10 @@
 var data = {
-    "GithubStars": 2692,
-    "GithubUsed": 549,
+    "GithubStars": 2693,
+    "GithubUsed": 550,
     "WeekNewStars": 17,
-    "WeekCDNHits": 54343,
-    "WeekNewUsed": 10,
+    "WeekCDNHits": 85127,
+    "WeekNewUsed": 9,
     "star-dates": [
-        "2022-01-02",
         "2022-01-03",
         "2022-01-04",
         "2022-01-05",
@@ -53,10 +52,10 @@ var data = {
         "2022-02-16",
         "2022-02-17",
         "2022-02-18",
-        "2022-02-19"
+        "2022-02-19",
+        "2022-02-20"
     ],
     "star-total": [
-        2471,
         2486,
         2497,
         2506,
@@ -104,10 +103,10 @@ var data = {
         2686,
         2688,
         2692,
-        2692
+        2692,
+        2693
     ],
     "star-daily": [
-        12,
         15,
         11,
         9,
@@ -155,10 +154,10 @@ var data = {
         5,
         2,
         4,
-        0
+        0,
+        1
     ],
     "used-dates": [
-        "2022-01-02",
         "2022-01-03",
         "2022-01-04",
         "2022-01-05",
@@ -206,10 +205,10 @@ var data = {
         "2022-02-16",
         "2022-02-17",
         "2022-02-18",
-        "2022-02-19"
+        "2022-02-19",
+        "2022-02-20"
     ],
     "used-total": [
-        499,
         500,
         502,
         505,
@@ -257,10 +256,10 @@ var data = {
         545,
         549,
         549,
-        549
+        549,
+        550
     ],
     "used-daily": [
-        1,
         1,
         2,
         3,
@@ -308,19 +307,10 @@ var data = {
         2,
         4,
         0,
-        0
+        0,
+        1
     ],
     "cdn-dates": [
-        "2021-12-21",
-        "2021-12-22",
-        "2021-12-23",
-        "2021-12-24",
-        "2021-12-25",
-        "2021-12-26",
-        "2021-12-27",
-        "2021-12-28",
-        "2021-12-29",
-        "2021-12-30",
         "2021-12-31",
         "2022-01-01",
         "2022-01-02",
@@ -360,19 +350,19 @@ var data = {
         "2022-02-05",
         "2022-02-06",
         "2022-02-07",
-        "2022-02-08"
+        "2022-02-08",
+        "2022-02-09",
+        "2022-02-10",
+        "2022-02-11",
+        "2022-02-12",
+        "2022-02-13",
+        "2022-02-14",
+        "2022-02-15",
+        "2022-02-16",
+        "2022-02-17",
+        "2022-02-18"
     ],
     "cdn-daily": [
-        11105,
-        15846,
-        9529,
-        9752,
-        7866,
-        6177,
-        11812,
-        10758,
-        10434,
-        11817,
         10562,
         6075,
         6633,
@@ -412,11 +402,19 @@ var data = {
         5838,
         5488,
         9806,
-        9843
+        9843,
+        10711,
+        10390,
+        11027,
+        7828,
+        7926,
+        12856,
+        10396,
+        11529,
+        16260,
+        18332
     ],
     "views-dates": [
-        "2022-02-05",
-        "2022-02-06",
         "2022-02-07",
         "2022-02-08",
         "2022-02-09",
@@ -429,15 +427,14 @@ var data = {
         "2022-02-16",
         "2022-02-17",
         "2022-02-18",
-        "2022-02-19"
+        "2022-02-19",
+        "2022-02-20"
     ],
     "views-count": [
-        2,
-        99,
         247,
         299,
         443,
-        287,
+        264,
         237,
         189,
         219,
@@ -446,15 +443,14 @@ var data = {
         294,
         340,
         305,
-        279
+        290,
+        222
     ],
     "views-uniques": [
-        2,
-        43,
         84,
         88,
         91,
-        81,
+        77,
         98,
         66,
         78,
@@ -463,10 +459,10 @@ var data = {
         109,
         89,
         113,
-        69
+        74,
+        65
     ],
     "clones-dates": [
-        "2022-02-06",
         "2022-02-07",
         "2022-02-10",
         "2022-02-11",
@@ -477,10 +473,10 @@ var data = {
         "2022-02-16",
         "2022-02-17",
         "2022-02-18",
-        "2022-02-19"
+        "2022-02-19",
+        "2022-02-20"
     ],
     "clones-count": [
-        1,
         1,
         7,
         1,
@@ -491,10 +487,10 @@ var data = {
         1,
         4,
         6,
+        1,
         1
     ],
     "clones-uniques": [
-        1,
         1,
         4,
         1,
@@ -505,38 +501,39 @@ var data = {
         1,
         4,
         5,
+        1,
         1
     ],
     "referrers": [
         {
             "referrer": "github.com",
-            "count": 559,
+            "count": 635,
             "uniques": 179
         },
         {
             "referrer": "Google",
-            "count": 462,
-            "uniques": 146
+            "count": 494,
+            "uniques": 155
         },
         {
             "referrer": "pyweb.io",
-            "count": 304,
-            "uniques": 148
-        },
-        {
-            "referrer": "pywebio-demos.pywebio.online",
-            "count": 209,
-            "uniques": 92
+            "count": 321,
+            "uniques": 158
         },
         {
             "referrer": "pywebio.readthedocs.io",
+            "count": 216,
+            "uniques": 83
+        },
+        {
+            "referrer": "pywebio-demos.pywebio.online",
             "count": 208,
-            "uniques": 78
+            "uniques": 91
         },
         {
             "referrer": "youtube.com",
-            "count": 184,
-            "uniques": 111
+            "count": 190,
+            "uniques": 114
         },
         {
             "referrer": "hellogithub.com",
@@ -545,44 +542,44 @@ var data = {
         },
         {
             "referrer": "DuckDuckGo",
-            "count": 25,
-            "uniques": 10
+            "count": 24,
+            "uniques": 9
+        },
+        {
+            "referrer": "cn.bing.com",
+            "count": 20,
+            "uniques": 14
         },
         {
             "referrer": "link.zhihu.com",
             "count": 19,
             "uniques": 16
-        },
-        {
-            "referrer": "cn.bing.com",
-            "count": 19,
-            "uniques": 13
         }
     ],
     "referrers-total-chart": [
         {
             "name": "github.com",
-            "value": 559
+            "value": 635
         },
         {
             "name": "Google",
-            "value": 462
+            "value": 494
         },
         {
             "name": "pyweb.io",
-            "value": 304
-        },
-        {
-            "name": "pywebio-demos.pywebio.online",
-            "value": 209
+            "value": 321
         },
         {
             "name": "pywebio.readthedocs.io",
+            "value": 216
+        },
+        {
+            "name": "pywebio-demos.pywebio.online",
             "value": 208
         },
         {
             "name": "youtube.com",
-            "value": 184
+            "value": 190
         },
         {
             "name": "hellogithub.com",
@@ -590,14 +587,14 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 25
-        },
-        {
-            "name": "link.zhihu.com",
-            "value": 19
+            "value": 24
         },
         {
             "name": "cn.bing.com",
+            "value": 20
+        },
+        {
+            "name": "link.zhihu.com",
             "value": 19
         }
     ],
@@ -608,23 +605,23 @@ var data = {
         },
         {
             "name": "Google",
-            "value": 146
+            "value": 155
         },
         {
             "name": "pyweb.io",
-            "value": 148
-        },
-        {
-            "name": "pywebio-demos.pywebio.online",
-            "value": 92
+            "value": 158
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 78
+            "value": 83
+        },
+        {
+            "name": "pywebio-demos.pywebio.online",
+            "value": 91
         },
         {
             "name": "youtube.com",
-            "value": 111
+            "value": 114
         },
         {
             "name": "hellogithub.com",
@@ -632,15 +629,15 @@ var data = {
         },
         {
             "name": "DuckDuckGo",
-            "value": 10
+            "value": 9
+        },
+        {
+            "name": "cn.bing.com",
+            "value": 14
         },
         {
             "name": "link.zhihu.com",
             "value": 16
-        },
-        {
-            "name": "cn.bing.com",
-            "value": 13
         }
     ]
 };
