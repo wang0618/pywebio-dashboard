@@ -1,11 +1,10 @@
 {
-    "GithubStars": 3106,
+    "GithubStars": 3116,
     "GithubUsed": 724,
-    "WeekNewStars": 65,
-    "WeekCDNHits": 71916,
+    "WeekNewStars": 76,
+    "WeekCDNHits": 76426,
     "WeekNewUsed": 4,
     "star-dates": [
-        "2022-04-27",
         "2022-04-28",
         "2022-04-29",
         "2022-04-30",
@@ -53,61 +52,61 @@
         "2022-06-11",
         "2022-06-12",
         "2022-06-13",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-06-15"
     ],
     "star-total": [
         2921,
-        2923,
-        2928,
-        2929,
-        2932,
+        2926,
+        2927,
+        2930,
+        2933,
         2935,
-        2937,
-        2938,
+        2936,
+        2939,
         2941,
         2943,
-        2945,
-        2948,
-        2953,
-        2956,
-        2961,
-        2965,
-        2968,
-        2968,
-        2969,
+        2946,
+        2951,
+        2954,
+        2959,
+        2963,
+        2966,
+        2966,
+        2967,
+        2972,
         2974,
-        2976,
-        2977,
-        2980,
-        2983,
+        2975,
+        2978,
+        2981,
+        2985,
         2987,
-        2989,
-        2998,
+        2996,
+        3001,
+        3002,
         3003,
-        3004,
-        3005,
-        3008,
+        3006,
+        3007,
         3009,
         3011,
         3013,
-        3015,
-        3018,
-        3022,
-        3029,
-        3030,
-        3037,
-        3037,
-        3041,
-        3042,
+        3016,
+        3020,
+        3027,
+        3028,
+        3035,
+        3035,
+        3039,
+        3040,
+        3043,
         3045,
-        3047,
-        3050,
-        3076,
-        3095,
-        3106
+        3048,
+        3074,
+        3093,
+        3104,
+        3116
     ],
     "star-daily": [
-        6,
         2,
         5,
         1,
@@ -155,10 +154,10 @@
         3,
         26,
         19,
-        11
+        11,
+        12
     ],
     "used-dates": [
-        "2022-04-27",
         "2022-04-28",
         "2022-04-29",
         "2022-04-30",
@@ -206,10 +205,10 @@
         "2022-06-11",
         "2022-06-12",
         "2022-06-13",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-06-15"
     ],
     "used-total": [
-        683,
         683,
         684,
         684,
@@ -257,10 +256,10 @@
         723,
         724,
         724,
+        724,
         724
     ],
     "used-daily": [
-        2,
         0,
         1,
         0,
@@ -308,10 +307,10 @@
         0,
         1,
         0,
+        0,
         0
     ],
     "cdn-dates": [
-        "2022-04-24",
         "2022-04-25",
         "2022-04-26",
         "2022-04-27",
@@ -360,10 +359,10 @@
         "2022-06-09",
         "2022-06-10",
         "2022-06-11",
-        "2022-06-12"
+        "2022-06-12",
+        "2022-06-13"
     ],
     "cdn-daily": [
-        15221,
         25202,
         23825,
         23536,
@@ -412,10 +411,10 @@
         10026,
         10253,
         8452,
-        9472
+        9472,
+        16589
     ],
     "views-dates": [
-        "2022-05-31",
         "2022-06-01",
         "2022-06-02",
         "2022-06-03",
@@ -429,11 +428,11 @@
         "2022-06-11",
         "2022-06-12",
         "2022-06-13",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-06-15"
     ],
     "views-count": [
         2,
-        303,
         210,
         150,
         218,
@@ -446,11 +445,11 @@
         265,
         518,
         481,
-        425
+        429,
+        317
     ],
     "views-uniques": [
         2,
-        68,
         75,
         56,
         34,
@@ -463,10 +462,10 @@
         77,
         294,
         210,
+        122,
         119
     ],
     "clones-dates": [
-        "2022-06-01",
         "2022-06-03",
         "2022-06-04",
         "2022-06-05",
@@ -478,10 +477,10 @@
         "2022-06-11",
         "2022-06-12",
         "2022-06-13",
-        "2022-06-14"
+        "2022-06-14",
+        "2022-06-15"
     ],
     "clones-count": [
-        1,
         22,
         10,
         4,
@@ -493,10 +492,10 @@
         2,
         3,
         4,
-        5
+        6,
+        2
     ],
     "clones-uniques": [
-        1,
         4,
         3,
         3,
@@ -508,76 +507,77 @@
         2,
         3,
         3,
+        3,
         2
     ],
     "referrers": [
         {
             "referrer": "github.com",
-            "count": 511,
-            "uniques": 163
+            "count": 522,
+            "uniques": 182
         },
         {
             "referrer": "Google",
-            "count": 318,
-            "uniques": 98
-        },
-        {
-            "referrer": "pywebio-demos.pywebio.online",
-            "count": 249,
-            "uniques": 103
+            "count": 328,
+            "uniques": 95
         },
         {
             "referrer": "pyweb.io",
-            "count": 224,
-            "uniques": 106
+            "count": 274,
+            "uniques": 113
+        },
+        {
+            "referrer": "pywebio-demos.pywebio.online",
+            "count": 266,
+            "uniques": 108
         },
         {
             "referrer": "pywebio.readthedocs.io",
             "count": 195,
-            "uniques": 62
+            "uniques": 64
         },
         {
             "referrer": "youtube.com",
-            "count": 111,
-            "uniques": 52
+            "count": 114,
+            "uniques": 51
         },
         {
             "referrer": "Baidu",
-            "count": 86,
-            "uniques": 54
-        },
-        {
-            "referrer": "out.reddit.com",
-            "count": 70,
-            "uniques": 58
-        },
-        {
-            "referrer": "cn.bing.com",
-            "count": 70,
-            "uniques": 22
+            "count": 83,
+            "uniques": 51
         },
         {
             "referrer": "reddit.com",
+            "count": 76,
+            "uniques": 37
+        },
+        {
+            "referrer": "out.reddit.com",
+            "count": 72,
+            "uniques": 60
+        },
+        {
+            "referrer": "cn.bing.com",
             "count": 65,
-            "uniques": 33
+            "uniques": 20
         }
     ],
     "referrers-total-chart": [
         {
             "name": "github.com",
-            "value": 511
+            "value": 522
         },
         {
             "name": "Google",
-            "value": 318
-        },
-        {
-            "name": "pywebio-demos.pywebio.online",
-            "value": 249
+            "value": 328
         },
         {
             "name": "pyweb.io",
-            "value": 224
+            "value": 274
+        },
+        {
+            "name": "pywebio-demos.pywebio.online",
+            "value": 266
         },
         {
             "name": "pywebio.readthedocs.io",
@@ -585,65 +585,65 @@
         },
         {
             "name": "youtube.com",
-            "value": 111
+            "value": 114
         },
         {
             "name": "Baidu",
-            "value": 86
-        },
-        {
-            "name": "out.reddit.com",
-            "value": 70
-        },
-        {
-            "name": "cn.bing.com",
-            "value": 70
+            "value": 83
         },
         {
             "name": "reddit.com",
+            "value": 76
+        },
+        {
+            "name": "out.reddit.com",
+            "value": 72
+        },
+        {
+            "name": "cn.bing.com",
             "value": 65
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "github.com",
-            "value": 163
+            "value": 182
         },
         {
             "name": "Google",
-            "value": 98
-        },
-        {
-            "name": "pywebio-demos.pywebio.online",
-            "value": 103
+            "value": 95
         },
         {
             "name": "pyweb.io",
-            "value": 106
+            "value": 113
+        },
+        {
+            "name": "pywebio-demos.pywebio.online",
+            "value": 108
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 62
+            "value": 64
         },
         {
             "name": "youtube.com",
-            "value": 52
+            "value": 51
         },
         {
             "name": "Baidu",
-            "value": 54
-        },
-        {
-            "name": "out.reddit.com",
-            "value": 58
-        },
-        {
-            "name": "cn.bing.com",
-            "value": 22
+            "value": 51
         },
         {
             "name": "reddit.com",
-            "value": 33
+            "value": 37
+        },
+        {
+            "name": "out.reddit.com",
+            "value": 60
+        },
+        {
+            "name": "cn.bing.com",
+            "value": 20
         }
     ]
 }
