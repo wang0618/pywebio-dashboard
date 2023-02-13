@@ -35,7 +35,7 @@ def gen_dependents(repo):
         doc = PyQuery(html)
         if cnt == -1:
             cnt = int(
-                doc('#dependents a.selected').text().replace('Repositories', '').replace('Dependents', '').strip())
+                doc('#dependents a.selected').text().replace('Repositories', '').replace('Dependents', '').replace(',', '').strip())
 
         repos = doc('#dependents a[data-hovercard-type="repository"]')
         for repo in repos.items():
