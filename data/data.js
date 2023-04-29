@@ -1,11 +1,10 @@
 var data = {
-    "GithubStars": 3838,
-    "GithubUsed": 1086,
+    "GithubStars": 3840,
+    "GithubUsed": 1089,
     "WeekNewStars": 15,
-    "WeekCDNHits": 300380,
-    "WeekNewUsed": 5,
+    "WeekCDNHits": 275125,
+    "WeekNewUsed": 7,
     "star-dates": [
-        "2023-03-11",
         "2023-03-12",
         "2023-03-13",
         "2023-03-14",
@@ -53,10 +52,10 @@ var data = {
         "2023-04-25",
         "2023-04-26",
         "2023-04-27",
-        "2023-04-28"
+        "2023-04-28",
+        "2023-04-29"
     ],
     "star-total": [
-        3713,
         3715,
         3716,
         3718,
@@ -104,10 +103,10 @@ var data = {
         3833,
         3834,
         3837,
-        3838
+        3838,
+        3840
     ],
     "star-daily": [
-        1,
         2,
         1,
         2,
@@ -155,10 +154,10 @@ var data = {
         3,
         1,
         3,
-        1
+        1,
+        2
     ],
     "used-dates": [
-        "2023-03-11",
         "2023-03-12",
         "2023-03-13",
         "2023-03-14",
@@ -206,10 +205,10 @@ var data = {
         "2023-04-25",
         "2023-04-26",
         "2023-04-27",
-        "2023-04-28"
+        "2023-04-28",
+        "2023-04-29"
     ],
     "used-total": [
-        1046,
         1048,
         1048,
         1050,
@@ -248,20 +247,20 @@ var data = {
         1078,
         1078,
         1079,
-        1079,
-        1081,
-        1081,
-        1081,
-        1081,
+        1080,
         1082,
-        1083,
+        1082,
+        1082,
+        1082,
         1084,
+        1085,
         1086,
-        1086
+        1088,
+        1088,
+        1089
     ],
     "used-daily": [
         2,
-        2,
         0,
         2,
         0,
@@ -299,19 +298,19 @@ var data = {
         1,
         0,
         1,
-        0,
-        2,
-        0,
-        0,
-        0,
-        1,
-        1,
         1,
         2,
-        0
+        0,
+        0,
+        0,
+        2,
+        1,
+        1,
+        2,
+        0,
+        1
     ],
     "cdn-dates": [
-        "2023-03-08",
         "2023-03-09",
         "2023-03-10",
         "2023-03-11",
@@ -360,10 +359,10 @@ var data = {
         "2023-04-23",
         "2023-04-24",
         "2023-04-25",
-        "2023-04-26"
+        "2023-04-26",
+        "2023-04-27"
     ],
     "cdn-daily": [
-        61309,
         91138,
         79001,
         45617,
@@ -412,7 +411,8 @@ var data = {
         33156,
         35326,
         39729,
-        42131
+        42131,
+        38827
     ],
     "views-dates": [
         "2023-04-15",
@@ -428,10 +428,11 @@ var data = {
         "2023-04-25",
         "2023-04-26",
         "2023-04-27",
-        "2023-04-28"
+        "2023-04-28",
+        "2023-04-29"
     ],
     "views-count": [
-        101,
+        4,
         218,
         218,
         287,
@@ -444,10 +445,11 @@ var data = {
         173,
         233,
         302,
-        155
+        159,
+        159
     ],
     "views-uniques": [
-        52,
+        4,
         52,
         56,
         71,
@@ -460,10 +462,10 @@ var data = {
         57,
         77,
         82,
-        62
+        65,
+        51
     ],
     "clones-dates": [
-        "2023-04-15",
         "2023-04-16",
         "2023-04-17",
         "2023-04-18",
@@ -474,10 +476,10 @@ var data = {
         "2023-04-24",
         "2023-04-25",
         "2023-04-26",
-        "2023-04-27"
+        "2023-04-27",
+        "2023-04-29"
     ],
     "clones-count": [
-        2,
         68,
         3,
         1,
@@ -488,10 +490,10 @@ var data = {
         3,
         2,
         4,
-        3
+        3,
+        4
     ],
     "clones-uniques": [
-        2,
         17,
         3,
         1,
@@ -502,106 +504,107 @@ var data = {
         2,
         2,
         3,
-        2
+        2,
+        3
     ],
     "referrers": [
         {
             "referrer": "Google",
-            "count": 341,
-            "uniques": 117
+            "count": 343,
+            "uniques": 122
         },
         {
             "referrer": "github.com",
-            "count": 327,
+            "count": 333,
             "uniques": 107
         },
         {
             "referrer": "pyweb.io",
-            "count": 320,
+            "count": 309,
             "uniques": 155
         },
         {
             "referrer": "pywebio.readthedocs.io",
-            "count": 243,
-            "uniques": 52
+            "count": 252,
+            "uniques": 55
         },
         {
             "referrer": "Baidu",
-            "count": 133,
-            "uniques": 47
-        },
-        {
-            "referrer": "youtube.com",
-            "count": 102,
-            "uniques": 47
+            "count": 141,
+            "uniques": 51
         },
         {
             "referrer": "pywebio-demos.pywebio.online",
-            "count": 100,
-            "uniques": 47
+            "count": 101,
+            "uniques": 48
         },
         {
             "referrer": "cn.bing.com",
+            "count": 101,
+            "uniques": 25
+        },
+        {
+            "referrer": "youtube.com",
             "count": 97,
-            "uniques": 22
+            "uniques": 44
         },
         {
             "referrer": "pywebio-charts.pywebio.online",
-            "count": 70,
-            "uniques": 10
+            "count": 71,
+            "uniques": 11
         },
         {
             "referrer": "link.zhihu.com",
-            "count": 45,
+            "count": 49,
             "uniques": 17
         }
     ],
     "referrers-total-chart": [
         {
             "name": "Google",
-            "value": 341
+            "value": 343
         },
         {
             "name": "github.com",
-            "value": 327
+            "value": 333
         },
         {
             "name": "pyweb.io",
-            "value": 320
+            "value": 309
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 243
+            "value": 252
         },
         {
             "name": "Baidu",
-            "value": 133
-        },
-        {
-            "name": "youtube.com",
-            "value": 102
+            "value": 141
         },
         {
             "name": "pywebio-demos.pywebio.online",
-            "value": 100
+            "value": 101
         },
         {
             "name": "cn.bing.com",
+            "value": 101
+        },
+        {
+            "name": "youtube.com",
             "value": 97
         },
         {
             "name": "pywebio-charts.pywebio.online",
-            "value": 70
+            "value": 71
         },
         {
             "name": "link.zhihu.com",
-            "value": 45
+            "value": 49
         }
     ],
     "referrers-unique-chart": [
         {
             "name": "Google",
-            "value": 117
+            "value": 122
         },
         {
             "name": "github.com",
@@ -613,27 +616,27 @@ var data = {
         },
         {
             "name": "pywebio.readthedocs.io",
-            "value": 52
+            "value": 55
         },
         {
             "name": "Baidu",
-            "value": 47
-        },
-        {
-            "name": "youtube.com",
-            "value": 47
+            "value": 51
         },
         {
             "name": "pywebio-demos.pywebio.online",
-            "value": 47
+            "value": 48
         },
         {
             "name": "cn.bing.com",
-            "value": 22
+            "value": 25
+        },
+        {
+            "name": "youtube.com",
+            "value": 44
         },
         {
             "name": "pywebio-charts.pywebio.online",
-            "value": 10
+            "value": 11
         },
         {
             "name": "link.zhihu.com",
